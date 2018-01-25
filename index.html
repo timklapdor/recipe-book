@@ -5,8 +5,11 @@
 layout: default
 ---
 
-{% for item in site.recipes %}
+{% assign all-recipes = site.recipes | sort: 'title' %}
+{% for item in all-recipes %}
   <h2>{{ item.title }}</h2>
-  <p>{{ item.description }}</p>
+  <p>{{ item.description }} <img src="{{ item.image }}"/ width="300px"></p>
   <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+
+  <hr>
 {% endfor %}

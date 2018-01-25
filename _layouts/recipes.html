@@ -6,24 +6,43 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <p><em>{% if page.description %} {{ page.description }}{% endif %}</em></p>
+    <ul>
+      <li style="display: inline; background-color: red; color: #fff; padding: .25em; ">{{ page.category }}</li>
+    </ul>
     <ul class="page-tags">
     {% for entry in page.tags %}
-      <li style="display: inline; background-color: #23d160; color: #fff; padding: .25em;">{{ entry }}</li>
+      <li style="display: inline; background-color: #23d160; color: #fff; padding: .25em; ">{{ entry }}</li>
       {% endfor %}
     </ul>
   </header>
 
   <img src="../{{ page.image }}" />
 
-  <div class="recipe-info">
-    <ul>
-      <li>Yield:{{ page.yield }}</li>
-      <li>Prep Time: {{ page.prep-time }}</li>
-      <li>Cookong Time: {{ page.cooking-time }}</li>
-    </ul>
+  <section class="post-content">
 
-  <div class="post-content">
-    {{ content }}
+  <div class="recipe-info">
+    <ul style="list-style: none; padding: .5em; ">
+      {% if page.yield %}<li>Yield:{{ page.yield }}</li>{% endif %}
+      {% if page.prep-time %}<li>Prep Time: {{ page.prep-time }}</li>{% endif %}
+      {% if page.inactive-prep-time %}<li>Inactive Prep Time: {{ page.inactive-prep-time }}</li>{% endif %}
+      {% if page.cooking-time %}<li>Cooking Time: {{ page.cooking-time }}</li>{% endif %}
+      {% if page.original %}<li>Original Recipe: <a href="{{ page.original }}" target="blank">{{ page.original }}</a></li>{% endif %}
+    </ul>
   </div>
 
+{% if page.ingredients %}
+  <div class="recipe-ingredients">
+    <h3> Ingredients</h3>
+    <ul style="list-style: circle;">
+    {% for entry in page.ingredients %}
+      <li>{{ entry }}</li>
+    {% endfor %}
+  </ul>
+  </div>
+{% endif %}
+
+  <div class="recipe-directions">
+    {{ content }}
+  </div>
+</section>
 </article>
