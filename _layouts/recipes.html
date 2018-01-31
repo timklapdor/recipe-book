@@ -7,7 +7,7 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <p><em>{% if page.description %} {{ page.description }}{% endif %}</em></p>
     <ul>
-      <li style="display: inline; background-color: red; color: #fff; padding: .25em; ">{{ page.category }}</li>
+      <li style="display: inline; background-color: red; color: #fff; padding: .25em; ">{{ page.categories }}</li>
     </ul>
     <ul class="page-tags">
     {% for entry in page.tags %}
@@ -22,11 +22,11 @@ layout: default
 
   <div class="recipe-info">
     <ul style="list-style: none; padding: .5em; ">
-      {% if page.yield %}<li>Yield:{{ page.yield }}</li>{% endif %}
-      {% if page.prep-time %}<li>Prep Time: {{ page.prep-time }}</li>{% endif %}
-      {% if page.inactive-prep-time %}<li>Inactive Prep Time: {{ page.inactive-prep-time }}</li>{% endif %}
+      {% if page.yield %}<li>Yield: {{ page.yield | capitalize }}</li>{% endif %}
+      {% if page.prep-time %}<li>Preparation Time: {{ page.prep-time }}</li>{% endif %}
+      {% if page.inactive-prep-time %}<li>Inactive Preparation Time: {{ page.inactive-prep-time }}</li>{% endif %}
       {% if page.cooking-time %}<li>Cooking Time: {{ page.cooking-time }}</li>{% endif %}
-      {% if page.original %}<li>Original Recipe: <a href="{{ page.original }}" target="blank">{{ page.original }}</a></li>{% endif %}
+      {% if page.original-link %}<li>Original Recipe: <a href="{{ page.original-link}}" target="blank">{{ page.original-source }}</a></li>{% endif %}
     </ul>
   </div>
 

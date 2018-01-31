@@ -2,19 +2,19 @@
 
 title: Bananas Foster
 yield: serves 4
-category: desert
-prep-time: 5 minutes
-cooking-time: 10 minutes
-tags:  bananas caramel
+categories: dessert
+prep-time: 5 Minutes
+cooking-time: 10 Minutes
+tags:  [bananas, caramel]
 image: images/banana-foster.jpg
-description: Easy and tasty fruity desert.
+description: Easy and tasty fruity dessert.
 ingredients:
-- 3 Bananas, cut into 1cm slices 
-- ¼ cup light Brown Sugar
-- 4 tbsp unsalted Butter
-- ¼ cup Liquor - White or Malibu Rum 
-- 1 tsp Vanilla Extract
-- Vanilla Ice-Cream, to serve 
+- 3 bananas, cut into 1cm slices
+- ¼ cup light brown sugar
+- 4 tbsp unsalted butter
+- ¼ cup liquor - white or Malibu rum
+- 1 tsp vanilla extract
+- vanilla ice-cream, to serve
 
 ---
 

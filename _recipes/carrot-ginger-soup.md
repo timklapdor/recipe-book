@@ -2,24 +2,27 @@
 
 title: Carrot & Ginger Soup
 yield: serves 4
-category: soup
-prep-time: 10 minutes
-cooking-time: 30 minutes
-tags: [carrot, sweet potato,]
+categories: soup
+prep-time: 10 Minutes
+cooking-time: 30 Minutes
+cuisine: [Vegetarian]
+tags: [carrot, sweet potato, vegetarian]
 image: images/carrot-ginger-soup.jpg
 description: Sure to warm in the cooler months
+original-source: taste.com
+original-link: http://www.taste.com.au/recipes/carrot-ginger-soup-yoghurt/013d824b-b334-4a29-b9eb-2490776e60a1
 ingredients:
-- Olive Oil Spray
-- 1 large Brown Onion, coarsely chopped
-- 2 Garlic cloves, crushed
-- 2 tsp finely grated fresh Ginger
-- 2 tsp ground Cumin
-- 500g Sweet Potato, peeled and coarsely chopped
-- 600g Carrots, peeled and coarsely chopped
-- 1L Water
-- 1 tsp Chicken Stock powder
-- ½ cup Natural Yoghurt
-- Chopped fresh Chives, to serve
+- olive oil spray
+- 1 large brown onion, coarsely chopped
+- 2 garlic cloves, crushed
+- 2 tsp finely grated fresh ginger
+- 2 tsp ground cumin
+- 500g sweet potato, peeled and coarsely chopped
+- 600g carrots, peeled and coarsely chopped
+- 1L water
+- 1 tsp chicken stock powder
+- ½ cup natural yoghurt
+- chopped fresh chives, to serve
 
 ---
 

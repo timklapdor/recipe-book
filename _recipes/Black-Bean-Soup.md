@@ -2,23 +2,25 @@
 
 title: Black Bean Soup
 yield: serves 8
-category: soup
-prep-time: 10 minutes
-inactive-prep-time: overnight
-cooking-time: 5 hours
-tags: ham, beans, soup, cuban, latin
+categories: soup
+prep-time: 10 Minutes
+inactive-prep-time: Overnight
+cooking-time: 5 Hours
+cuisine: Latin America
+tags: [cuban, ham, beans, soup,]
 image: images/black-bean-soup.jpg
-description: A cuban classic that combines rich beans and smoked pork. 
-original: http://www.thekitchn.com/recipe-cuban-black-bean-soup-98048
+description: A cuban classic that combines rich beans and smoked pork.
+original-source: thekitchn.com
+original-link: http://www.thekitchn.com/recipe-cuban-black-bean-soup-98048
 ingredients:
 - 400g dried black beans
 - 1 medium onion, finely chopped
 - 1 green bell pepper, finely chopped
 - 3 cloves garlic, minced
 - 1 ham bone or smoked ham hock
-- 1/2 cup olive oil
+- ½ cup olive oil
 - Salt and freshly-ground black pepper
-- 1/3 cup white or cider vinegar
+- ⅓ cup white or cider vinegar
 
 ---
 

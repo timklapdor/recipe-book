@@ -2,12 +2,15 @@
 
 title: Beef & Red Lentil Curry
 yield: serves 4
-category: main
-prep-time: 10 minutes
-cooking-time: 25 minutes
-tags: curry beef lentil
+categories: main
+prep-time: 10 Minutes
+cooking-time: 25 Minutes
+cuisine: Asian
+tags: [curry, beef, lentil]
 image: images/beef-lentil-curry.jpg
 description: Rich beef and pulse curry.
+original-source: taste.com
+original-link: http://www.taste.com.au/recipes/beef-red-lentil-curry/ea9fa252-b027-4259-83c5-36b567bbf7ec
 ingredients:
 - 600g Beef Scotch Fillet
 - 80g Indian Curry Paste

@@ -5,6 +5,26 @@
 layout: default
 ---
 
+{% assign meals = site.recipes | map: 'categories' | join: ','  | split: ',' | uniq | sort %}
+<ul>{% for item in meals %}
+  <li style="display: inline; background-color: red; color: #fff; padding: .25em; ">{{ item }}</li>
+{% endfor %}
+</ul>
+
+
+{% assign cuisine = site.recipes | map: 'cuisine' | join: ','  | split: ',' | uniq | sort %}
+<ul>{% for item in cuisine %}
+  <li style="display: inline; background-color: green; color: #fff; padding: .25em; ">{{ item }}</li>
+{% endfor %}
+</ul>
+
+{% assign tags = site.recipes | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+<ul>{% for item in tags %}
+  <li style="display: inline; background-color: blue; color: #fff; padding: .25em; ">{{ item }}</li>
+{% endfor %}
+</ul>
+
+
 {% assign all-recipes = site.recipes | sort: 'title' %}
 {% for item in all-recipes %}
   <h2>{{ item.title }}</h2>
