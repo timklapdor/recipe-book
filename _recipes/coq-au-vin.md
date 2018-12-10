@@ -24,7 +24,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 120°C. Heat a large flameproof casserole dish over medium-high heat. Add speck and cook, turning, for 5 minutes or until crisp. Use a slotted spoon to transfer to a bowl. Add onions to the pan and cook, stirring, for 5 minutes or until browned. Transfer to the bowl.
 2. Add half the butter and oil to the pan over high heat. Add mushrooms and cook, tossing, for 5 minutes or until brown. Transfer to the bowl.

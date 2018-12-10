@@ -25,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Bring a pot of water to the boil and add the Salt. Once boiled add the Spaghetti and cook as per directions.
 2. Heat the oil in a man and fry off the Bacon. Add the Garlic to the pan and once fragrant, add the Mushrooms. Once the Mushrooms are softened add the Paprika and cook for a minute. Deglaze the pan with the White Wine and stir the mixture.

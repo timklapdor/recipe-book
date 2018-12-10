@@ -5,27 +5,27 @@ section.hero {
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
-  text-align: center;
   background-size: cover, cover;
   background-color: $blk;
-  background-position: bottom center;
+  background-position: center center;
   padding: 20vh 1em 0 1em;
-  align-items: center;
-  justify-content: center;
   -webkit-transform: translateZ(0);
 
 h2 {
   font-size: 450%;
   font-weight: 700;
   text-shadow: $shadow-3;
-  margin: 0 0 0 0;
+  margin: 0;
+  align-self: flex-start
 }
 
 h3 {
   font-family: $font-sans;
   font-weight: 300;
-  font-size: 250%;
-  margin: 0;
+  font-size: 180%;
+  font-style: italic;
+  margin: 0 0 5vh ;
+  align-self: flex-start
 }
 
 &.full {

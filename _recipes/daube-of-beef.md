@@ -32,7 +32,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 180°C. Season the beef with salt and pepper. Heat half the oil in a flameproof casserole dish or large frying pan over medium-high heat. Add one-quarter of the beef and cook, turning occasionally, for 3-4 minutes or until browned. Transfer to a large plate. Repeat, in 3 more batches, with the remaining beef, reheating the pan between batches.
 2. Add the remaining oil, bacon and onion to the dish. Cook, stirring, for 5 minutes or until golden. Add the garlic and cook for 1 minute or until soft. Reduce heat to low. Add the flour and cook, stirring, for 2 minutes. Remove from heat. Gradually add the wine, whisking until the mixture thickens.

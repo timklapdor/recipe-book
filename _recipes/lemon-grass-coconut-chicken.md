@@ -25,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Use a large heavy knife to cut 3 slashes in each chicken thigh. Place the chicken in a large glass or ceramic bowl.
 2. Combine the lemon grass, turmeric, chilli flakes, ginger, garlic and shallot in the bowl of a food processor and process until a coarse puree forms. Add the coconut cream, fish sauce and tamarind and process until smooth.

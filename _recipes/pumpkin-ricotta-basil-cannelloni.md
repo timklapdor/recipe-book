@@ -21,7 +21,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Cook pumpkin in a medium saucepan of boiling water for 10 minutes or until tender. Drain. Return to pan. Mash until smooth. Transfer to a large bowl. Set aside to cool slightly.
 2. Add ricotta, basil, pine nuts and parmesan to the pumpkin. Season with salt and pepper. Stir until well combined.

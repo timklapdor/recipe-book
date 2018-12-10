@@ -28,7 +28,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 160°C
 2. Add leek, bacon and garlic to pan. Cook, stirring occasionally, for 3 to 4 minutes or until leek is tender.

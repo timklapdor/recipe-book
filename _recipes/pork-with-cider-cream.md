@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Preheat oven to 180°C. Place the flour on a plate. Add the pork and toss to coat. Shake off excess. Season with salt and pepper.
 2. Heat one-third of the oil in a flameproof casserole dish or large frying pan over medium heat. Add one-quarter of the pork. Cook for 2-3 minutes each side or until browned. Transfer to a large plate. Repeat, in 3 more batches, with remaining oil and pork, reheating the dish between batches.

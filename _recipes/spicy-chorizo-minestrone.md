@@ -27,7 +27,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat oil in a large saucepan over medium-high heat. Add Onion, Garlic, Chilli and Chorizo. Cook, stirring often, for 5 minutes.
 2. Add carrot and celery. Cook, stirring, for 3 minutes. Stir in tomatoes and stock. Bring to the boil.

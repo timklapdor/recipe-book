@@ -20,7 +20,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 200°C. Grease a 5 cup capacity pie dish.
 2. Combine ham, onion, cheese, flour, salt and pepper in a medium bowl. Scatter over base of dish.

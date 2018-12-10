@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Place the peas in a large bowl and cover with cold water. Cover and set aside overnight to soak.
 2. The next day, drain the peas and transfer them to a large saucepan or slow cooker. Add the onion, carrot, (celery), stock and water. Stir to combine, then add the kaiserfleisch.

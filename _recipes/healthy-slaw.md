@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. In a medium serving bowl, combine the prepared purple and green cabbage, carrots and parsley. Set aside.
 2. Measure out your seeds into a small frypan. Toast over medium heat, stirring frequently, until the seeds are fragrant. Pour the toasted seeds into the mixing bowl and toss to combine.

@@ -24,7 +24,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place flour and salt and pepper in a shallow dish. Lightly coat steak in seasoned flour.
 2. Heat 1 tablespoon oil in a frying pan over medium-high heat. Cook steak in small batches, adding more oil as required, for 2 to 3 minutes or until browned. Transfer to slow cooker.

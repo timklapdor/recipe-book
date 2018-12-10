@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat the oven to 175°C. Lightly grease an 11cm x 22cm loaf pan and line base and 2 long sides with a sheet of baking paper, leaving 2cm overhanging.
 2. Sift flour, cinnamon, baking powder, soda and ½ teaspoon salt into a bowl with the brown sugar, then add the nuts.

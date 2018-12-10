@@ -20,7 +20,7 @@ ingredients:
 ---
 
 
-### Directions
+
 
 1. Place cabbage, carrot and onion in a large bowl. Toss to combine.
 2. Combine horseradish cream, mayonnaise, lemon juice and mustard in a bowl. Add to cabbage mixture. Season with salt and pepper.

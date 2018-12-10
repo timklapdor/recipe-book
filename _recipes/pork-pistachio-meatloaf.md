@@ -25,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Preheat oven to 180°C. Spray a 7cm-deep, loaf pan with olive oil spray to grease.
 2. Heat oil in a frying pan over medium-low heat. Add the onion and cook, stirring, for 5 minutes or until soft. Add the garlic and fennel seeds and cook, stirring, for 2 minutes or until aromatic. Transfer to a large bowl. Set aside to cool.

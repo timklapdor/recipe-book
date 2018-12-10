@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place the chicken, stock, 3 1/2 cups water, bay leaves, garlic and rice in a slow cooker. Cover with lid. Cook on LOW for 6 hours (or HIGH for 3 hours) or until chicken is tender.
 2. Using tongs, transfer chicken to a heatproof bowl. Using 2 forks, shred chicken. Remove and discard bay leaves.

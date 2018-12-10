@@ -31,7 +31,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat the oil in a stockpot over medium-high heat. Add the lamb shanks and cook, turning, for 5 minutes or until brown. Transfer to a plate. Add the onion and garlic to the pan and cook, stirring, for 3 minutes or until soft. Add the cumin, ground coriander, cinnamon and turmeric and cook, stirring, for 30 seconds or until aromatic.
 2. Return the lamb shanks to the pan with the stock and tomato. Bring to the boil. Reduce heat to medium-low and simmer, covered, for 1 hour. Uncover and cook, stirring, for 30 minutes or until the lamb is tender. Transfer the lamb shanks to a plate and cover with foil to keep warm. Increase heat to high and bring the stock mixture to the boil. Boil, uncovered, for 10-15 minutes or until the sauce thickens.

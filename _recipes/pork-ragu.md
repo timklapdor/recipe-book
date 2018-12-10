@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Season the pork shoulder well with salt and pepper. Heat the oil in a large, heavy bottomed Dutch oven over medium-high heat. Brown the pork on all sides, 3 to 4 minutes per side, until it is evenly seared. This will take a good 15 minutes. Remove pork to a large bowl or plate.
 2. Reduce heat to medium and add the onions and garlic, stirring well to coat with the oil. Saute until translucent, about 10 minutes. Add the pork back to the pot, raise the heat to medium-high, and pour in the wine. Let it boil for a minute before adding the tomatoes, bay leaves, and rosemary. Reduce the heat to medium-low.

@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 150°C. Line a large baking tray with non-stick baking paper. Draw a 20cm disc on the paper and turn the paper ink-side down.
 2. Use an electric beater to beat the egg white in a clean, dry bowl until firm peaks form. Gradually add the sugar, 1 tablespoon at a time, beating constantly, until the sugar dissolves and the mixture is thick and glossy. Beat in the cornflour, vinegar and vanilla essence.

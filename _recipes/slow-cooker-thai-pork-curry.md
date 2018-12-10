@@ -31,7 +31,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Remove string from pork. Remove and discard rind from pork. Heat oil in a large frying pan over medium-high heat. Add pork. Cook, turning occasionally for 8 minutes or until browned all over.
 2. Meanwhile, place mushrooms, lemongrass, ginger, garlic and star anise in the base of a 5.5-litre slow cooker. Whisk curry paste, tamarind, sugar, stock powder and coconut milk in a bowl.

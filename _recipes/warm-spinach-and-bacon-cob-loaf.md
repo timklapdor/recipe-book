@@ -19,7 +19,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat the oven to 200°C
 2. Place bacon in a large pan over medium-high heat. When the bacon starts to brown, add the onion and mushrooms. Cook and stir until everything is tender and browned.

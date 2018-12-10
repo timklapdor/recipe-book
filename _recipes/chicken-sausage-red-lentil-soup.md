@@ -24,7 +24,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat the oil in a large saucepan over medium heat. Add onion and garlic. Cook, stirring, for 1 minute or until onion softens.
 2. Add the water, tomato puree, lentils, vinegar and oregano. Cover. Bring to the boil. Reduce heat to low and uncover.

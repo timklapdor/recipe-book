@@ -22,7 +22,7 @@ ingredients:
 - 6 tbsp thick, creamy yogurt
 - 2 garlic cloves, crushed
 
-### Directions
+
 
 1. 1.Heat the oil in a heavy-based frying pan. Stir in the onions, pepper and chillies. Cook until they begin to soften. Add the tomatoes and sugar, mixing well. Cook until the liquid has reduced, season.
 2. Using a wooden spoon, create 4 pockets in the tomato mixture and crack the eggs into them. Cover the pan and cook the eggs over a low heat until just set.

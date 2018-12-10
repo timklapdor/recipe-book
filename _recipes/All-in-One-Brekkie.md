@@ -21,8 +21,6 @@ ingredients:
 
 ---
 
-### Directions
-
 1. Preheat oven to 200°C.
 2. Arrange the sausages and mushrooms in a large roasting pan. Drizzle over oil and season with salt and pepper. Bake in the oven, turning once, for 10 minutes.
 4. Add the bacon and tomato and bake for a further 10 minutes or until mushrooms and tomato are soft.

@@ -26,7 +26,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place all ingredients for the salad in a large salad bowl and toss until combined.
 2. In a medium screw-top jar, shake up ingredients for the dressing until smooth. Pour over salad, toss thoroughly and top with fresh parsley to serve.

@@ -14,8 +14,8 @@ plugins:
   - "jekyll-github-metadata" # Helps resolves issues with baseurl and github pages. Use baseurl in links and this will resolve the correct base
 
 #social
-logo: assets/images/logo-sq.svg
-image: assets/images/logo.png
+logo: assets/images/recipe-book-rev.svg
+image: assets/images/recipe-book-logo.png
 social-twitter:
 social-facebook:
 social-linkedin:
@@ -73,4 +73,11 @@ permalink: /:year/:title.html
 collections:
   recipes:
     output: true
-    permalink: /recipes/:title.html
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: recipes

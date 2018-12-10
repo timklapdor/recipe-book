@@ -26,8 +26,6 @@ ingredients:
 
 ---
 
-### Directions
-
 1. Place the beef and half the curry paste in a glass or ceramic bowl, and turn to coat. Heat half the oil in a saucepan over medium heat. Add the beef and cook, turning occasionally, for 4-5 minutes or until brown. Transfer to a plate.
 2. Heat the remaining oil in the pan over medium-low heat. Add onion, garlic and ginger and cook, stirring occasionally, for 2 minutes or until the onion softens slightly. Stir in the remaining curry paste.
 3. Add the lentils, stock, coconut milk and water to the pan. Bring to the boil over high heat. Reduce heat to medium and simmer for 10 minutes. Return the beef to the pan and simmer for a further 8 minutes or until tender. Stir in the chopped coriander.

@@ -17,8 +17,6 @@ ingredients:
 
 ---
 
-### Directions
-
 1. Preheat the oven to 180C.
 2. Remove the cheese from its packaging. Cut a circle of baking paper 2cm larger in diameter than the cheese and place the wheel of camembert on it.
 3. Using a sharp knife, score the top of the Camembert in a crisscross pattern. Bake for about 10-15 minutes or until the cheese is melting and the rind has started to caramelise.

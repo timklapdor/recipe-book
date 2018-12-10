@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place carrot, celery, ham hock, onion, passata, stock cubes, lentils, thyme, bay leaves and 1.25 litres water in a slow cooker. Cover with lid. Cook on LOW for 8 hours (or HIGH for 4 hours) or until lentils have softened and ham hock is tender.
 2. Transfer ham hock to a heatproof bowl. Remove and discard rind and bone. Using two forks, shred meat. Return ham to tomato mixture. Cook, covered, on HIGH for 5 minutes. Stir in spinach. Stand, covered, for 2 minutes. Season with salt and pepper.

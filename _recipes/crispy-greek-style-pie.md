@@ -18,7 +18,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Put the spinach into a large pan. Pour over a couple tbsp water, then cook until just wilted. Tip into a sieve, leave to cool a little, then squeeze out any excess water and roughly chop.
 2. Roughly chop the tomatoes and put into a bowl along with the spinach, feta and eggs. Mix well.

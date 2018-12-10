@@ -26,7 +26,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 #### Meatballs
 

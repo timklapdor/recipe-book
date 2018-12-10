@@ -26,7 +26,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. In a bowl, cover pecans with at least 1 inch water and let soak for 1 hour.
 2. Meanwhile, adjust oven rack to middle position and preheat oven to 260°C. Place cauliflower on a foil-lined rimmed baking sheet, toss with olive oil, and season with salt and pepper. Roast, flipping cauliflower with a thin metal spatula halfway through roasting, until tender and deeply browned on both sides, about 20 minutes total.

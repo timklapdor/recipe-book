@@ -26,7 +26,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. To make the harissa, place chillies in a bowl and cover with boiling water. Soak for 30 minutes then drain. Meanwhile, place coriander, caraway and cumin seeds in a frying pan over medium heat. Cook, tossing, for 1 minute or until aromatic. Use a food processor to finely chop chilli, spices, garlic, coriander and mint. With the motor running, add oil in a thin, steady stream until well incorporated.
 2. Preheat oven to 200°C. Line an oven tray with baking paper. Place pumpkin and carrot on the tray and drizzle with half the oil. Season with salt and pepper. Roast the vegetables, turning, for 20 minutes or until they are tender.

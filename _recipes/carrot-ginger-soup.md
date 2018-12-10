@@ -26,7 +26,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat a large saucepan over medium heat. Spray with olive oil spray. Add the onion and cook, stirring occasionally, for 5 minutes or until soft. Add the garlic, ginger and cumin. Cook, stirring, for 1-2 minutes or until aromatic.
 2. Add the sweet potato, carrot, water and stock powder. Increase heat to high. Bring to the boil. Cover and reduce heat to low. Cook for 15-20 minutes or until the vegetables are soft. Set aside to cool slightly.

@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Heat half the oil in a large saucepan over medium-low heat. Add the onion and chilli, stirring occasionally, for 5 minutes or until soft. Add half the ginger and cook, stirring, for 2 minutes. Add the pumpkin, sweet potato and half the cumin and cook, stirring, for 2 minutes or until aromatic.
 2. Increase heat to high. Add the stock and coconut cream. Bring to the boil. Reduce heat to medium-low. Simmer for 15 minutes or until the pumpkin and sweet potato are very tender. Set aside to cool slightly. Transfer to the jug of a blender and blend until smooth. Season with salt and pepper.

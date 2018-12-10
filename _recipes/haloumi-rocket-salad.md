@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Cut the halloumi in half crossways, then cut each piece in half horizontally. Place flour on a plate and season with salt and pepper.
 2. Place the rocket, onion and olives in a large bowl. Season with salt and pepper. Combine vinegar, extra virgin olive oil and oregano in a small bowl. Drizzle over the salad. Toss to combine.

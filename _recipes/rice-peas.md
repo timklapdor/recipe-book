@@ -20,6 +20,6 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Rinse the rice in plenty of cold water, then tip it into a rice cooker with all the remaining ingredients. Season with a little salt.

@@ -18,7 +18,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Slice the bananas and set them aside.
 2. Heat a frypan over medium heat and add the butter and light brown sugar. Stir until ingredients are incorporated and simmering.

@@ -25,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat a large frypan over medium-low heat and add some nonstick spray or a bit of olive oil. Once hot add the onion and sauté, seasoning with a pinch each salt and pepper.
 2. When the onions are soft – about 5 minutes – turn up the heat to medium and add the mushrooms. Season with another pinch of salt and pepper and cook until the mushrooms and onions are slightly browned and fragrant – about 3 minutes.

@@ -24,7 +24,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. The night before cooking the soup, place beans in a colander and wash them with cold running water. Pick out any rocks or beans that are broken or shriveled. Put the beans in a large (4 quarts or larger) Dutch oven or soup pot with a lid and cover with enough cold water so that it comes to one inch over the top of the beans. Soak overnight.
 2. The next day, drain the water out of the pot and refill with clean cold water. Add enough water so that it comes an inch above the beans. Stir in the chopped onion, pepper, and garlic. Add the ham bone or hock, and stir in the olive oil. Add 2 teaspoons salt and a generous quantity of black pepper.

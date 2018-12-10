@@ -33,7 +33,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat oil in a large heavy-based saucepan over medium heat. Add the vegetables, garlic, chilli and coriander. Cook, stirring occasionally, for 5 minutes or until soft.
 2. Add the cumin, paprika and cayenne. Cook, stirring, for 2 minutes or until aromatic. Add the tomato, beans and water. Season. Reduce heat to low.

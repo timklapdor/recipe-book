@@ -27,7 +27,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place flour in a bowl. Season with salt and pepper. Add steak. Toss to coat.
 2. Heat 1 tablespoon oil in a frying pan over medium-high heat. Cook steak, in small batches, for 2 to 3 minutes or until browned, adding extra oil if necessary. Transfer to a bowl.

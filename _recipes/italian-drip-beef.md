@@ -20,7 +20,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Combine all ingredients in the slow cooker. Stir lightly to combine seasoning with the liquid.
 2. Cover and cook for for 5 to 6 hours, or until meat is fork-tender and falling apart.

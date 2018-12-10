@@ -29,7 +29,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  In a food processor, blitz all the ingredients (except the chicken) to a fine paste, then smear over the chicken pieces. Cover and marinate overnight.
 2. Preheat the oven to 220 degrees fan-forced.

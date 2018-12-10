@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Cook the pasta in a large saucepan of salted boiling water following packet directions or until al dente. Drain and return to the pan.
 2. Meanwhile, heat a large non-stick frying pan over medium-high heat. Spray with olive oil spray to grease. Add the zucchini, mushrooms, chicken and garlic, and cook, stirring occasionally, for 2 minutes or until the zucchini is tender.

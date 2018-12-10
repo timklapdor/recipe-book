@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Cook the rice following directions. Set aside to cool.
 2. Meanwhile, combine the oil, lemon juice and sugar in a small jug. Season with salt and pepper.

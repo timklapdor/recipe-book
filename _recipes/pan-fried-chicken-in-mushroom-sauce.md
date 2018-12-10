@@ -21,7 +21,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Heat the oil in a large non-stick frying pan. Fry the thighs for 8-10 mins, skin side only, until golden brown, then transfer to a casserole dish. Fry the drumsticks for about 5 mins each side and add them to the thighs.
 2. Pour the stock over the chicken legs in the casserole. There should be enough stock to just cover the chicken, if not add a little water. Bring stock to the boil and cover, leaving lid slightly ajar. Cook at just below simmering point for 30-35 mins.

@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. For the dressing, put the lemon juice, half the zest, honey, soy sauce, mustard and oil into a small jar. Seal the lid, give it a quick shake, season and put aside until needed.
 2. Using a mandolin or sharp knife, thinly slice the zucchini, then cut the snowpeas into thin strips and put the vegetables into a salad bowl.

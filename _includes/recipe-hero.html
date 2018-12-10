@@ -1,0 +1,5 @@
+<section class="no-flick hero small" style="transform-style: preserve-3d; background-image: linear-gradient(to top right, rgba(0,0,0,.5), rgba(0,0,0,0)), url({{ page.image | absolute_url }})">
+  <h2 class="promo">{{ page.title }}</h2>
+  <h3 class="promo">{{ page.description }}</h3>
+  {% for text in item.button-text %}<a href="{{ item.button-link }}" aria-label="Call to Action" class="no-flick {{ item.button-color }} call-to-action {{item.button-background }}">{{ text }}</a> {% endfor %}
+</section>

@@ -31,7 +31,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place the Ketchup, Dark Brown Sugar, Water, Onion, Cider Vinegar, Worcestershire Sauce,Garlic Powder and Black Pepper  in a larger slow cooker and stir to combine.
 3. Place the mixture in a medium bowl and stir to combine.

@@ -25,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Cook the sweet potato in a saucepan of boiling water for 10 minutes or until tender. Drain. Return to the pan. Mash until smooth. Transfer to a bowl. Place in the fridge for 30 minutes to chill.
 2. Mash the chickpeas in a bowl.
