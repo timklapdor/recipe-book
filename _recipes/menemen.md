@@ -5,8 +5,8 @@ yield: serves 4
 category: breakfast
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
-cuisine: Middle Eastern, Vegetarian
-tags: [turkish, vegetarian, eggs]
+cuisine: [Middle Eastern,Vegetarian]
+tags: [turkish,Vegetarian, eggs]
 image: images/menemen.jpg
 description: Turkish One-Pan Eggs & Peppers.
 tested: false

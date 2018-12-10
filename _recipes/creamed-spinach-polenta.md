@@ -5,8 +5,8 @@ yield: serves 4
 categories: side
 prep-time: 5 Minutes
 cooking-time: 15 Minutes
-cuisine: Italian, Vegetarian
-tags: [polenta, vegetarian, spinach]
+cuisine: [Italian,Vegetarian]
+tags: [polenta,Vegetarian, spinach]
 image: images/creamed-spinach-polenta.jpg
 description: Healthy side dish with spinach and polenta
 ingredients:

@@ -5,7 +5,7 @@ yield: 2 burgers
 category: main
 prep-time: 5 Minutes
 cooking-time: 35 Minutes
-cuisine: American, Vegetarian
+cuisine: [American,Vegetarian]
 tags: [vegetarian, burgers, tofu]
 image: /images/smoky-black-bean-beet-burgers.jpg
 description: Hearty, nutritionally dense, and simple to prepare.

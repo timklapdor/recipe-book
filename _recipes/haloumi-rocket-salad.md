@@ -5,7 +5,7 @@ yield: serves 4
 category: salad
 prep-time: 15 Minutes
 cooking-time: 5 Minutes
-cuisine: Greek, Vegetarian
+cuisine: Greek,Vegetarian
 tags: [vegetarian, halloumi]
 image: images/haloumi-rocket.jpeg
 description: An easy and delicious salad that's cooked in five minutes.

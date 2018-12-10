@@ -5,8 +5,8 @@ yield: serves 4
 category: side
 prep-time: 5 Minutes
 cooking-time: 35 Minutes
-cuisine: Indian, Vegetarian
-tags: [curry, vegetarian, eggplant]
+cuisine: [Indian,Vegetarian]
+tags: [curry,Vegetarian, eggplant]
 image: images/curry-spiced-eggplant.jpg
 description: Spiced eggplant dish.
 tested: false

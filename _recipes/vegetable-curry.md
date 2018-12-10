@@ -5,7 +5,7 @@ yield: serves 4-6
 category: main
 prep-time: 10 Minutes
 cooking-time: 35-45 Minutes
-cuisine: Indian, Vegetarian
+cuisine: [Indian,Vegetarian]
 tags: [vegetarian, curry]
 image: images/vegetable-curry.jpg
 description: Rich vegetarian curry.

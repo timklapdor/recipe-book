@@ -5,8 +5,8 @@ yield: serves 6
 category: main
 prep-time: 20 Minutes
 cooking-time: 1 Hour
-cuisine: Italian, Vegetarian
-tags: [pumpkin, pasta, vegetarian]
+cuisine: [Italian,Vegetarian]
+tags: [pumpkin, pasta,Vegetarian]
 image: images/pumpkin-ricotta-basil-cannelloni.jpg
 description: The ultimate cool-weather comfort food.
 ingredients:

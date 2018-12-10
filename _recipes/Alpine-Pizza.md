@@ -2,11 +2,11 @@
 
 title: Alpine Pizza
 yield: Makes 2 large pizzas
-categories: main
+category: main
 prep-time: 5 Minutes
 cooking-time: 10 Minutes
 cuisine: Italian
-tags: [pizza,salmon,salami,]
+tags: [pizza, salmon, salami,]
 image: /images/alpine-pizza.jpg
 description: A different take on pizza - sans tomatoes!
 ingredients:

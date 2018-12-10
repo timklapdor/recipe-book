@@ -6,7 +6,7 @@ category: salad
 prep-time: 15 Minutes
 cooking-time: 30 Minutes
 cuisine: Vegetarian
-tags: [salad, rice, vegetarian]
+tags: [salad, rice,Vegetarian]
 image: images/rice-herb-salad.jpg
 description: Fragrant salad made with herbs, coconut and chilli.
 ingredients:

@@ -5,7 +5,7 @@ yield: serves 6
 category: salad
 prep-time: 60 Minutes
 cooking-time: 30 Minutes
-cuisine: Middle Eastern, Vegetarian
+cuisine: [Middle Eastern,Vegetarian]
 tags: [vegetarian, pumkin, beetroot, zucchini]
 image: /images/jewelled-vegetable-and-couscous-salad.jpeg
 description: Just roast up some vegetables before hand to whip up a quick and hearty salad

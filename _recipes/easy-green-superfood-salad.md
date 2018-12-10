@@ -5,7 +5,7 @@ yield: serves 6
 category: salad
 prep-time: 10 Minutes
 cuisine: [Vegetarian]
-tags: [greens, vegetarian, salad]
+tags: [greens,Vegetarian, salad]
 image: images/easy-green-superfood-salad.jpg
 description: Sprouts and a tangy dressing give this lean, green salad texture and bite.
 tested: false

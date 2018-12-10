@@ -5,7 +5,7 @@ yield: serves 4
 categories: salad
 prep-time: 15 Minutes
 cuisine: [Vegetarian]
-tags: [cabbage, vegetarian,]
+tags: [cabbage,Vegetarian,]
 image: images/classic-coleslaw.jpg
 description: Crunchy fresh coleslaw
 ingredients:

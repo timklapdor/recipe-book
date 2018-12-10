@@ -5,7 +5,7 @@ yield: 4 serves
 categories: main
 prep-time: 20 Minutes
 cooking-time: 30 Minutes
-cuisine: Latin America, Vegetarian
+cuisine: [Latin America,Vegetarian]
 tags: [vegetarian, beans, mexican]
 image: /images/vegetarian-chilli.jpeg
 description: Clear out the fridge and pantry with this fun Mexican dinner idea.

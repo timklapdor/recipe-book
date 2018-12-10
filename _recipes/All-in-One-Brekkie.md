@@ -2,7 +2,7 @@
 
 title: All-in-One Brekkie
 yield: serves 6
-categories: breakfast
+category: breakfast
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
 tags: [bacon,egg,sausage]

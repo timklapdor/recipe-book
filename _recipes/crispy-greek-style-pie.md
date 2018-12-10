@@ -4,7 +4,7 @@ yield: serves 4
 categories: main
 prep-time: 15 Minutes
 cooking-time: 30 Minutes
-cuisine: Greek, Vegetarian
+cuisine: [Greek,Vegetarian]
 tags: [vegetarian, spinach]
 image: images/crispy-greek-style-pie.jpg
 description: A crispy pie that you can adapt for your needs, add chicken or keep it veggie.
