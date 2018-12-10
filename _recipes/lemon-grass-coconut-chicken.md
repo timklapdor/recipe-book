@@ -2,7 +2,7 @@
 
 title: Lemon Grass & Coconut Chicken
 yield: serves 6
-category: main
+categories: main
 prep-time: 10 Minutes
 inactive-prep-time: Overnight
 cooking-time: 30 Minutes

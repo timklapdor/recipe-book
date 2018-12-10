@@ -2,7 +2,7 @@
 
 title: Lasagne
 yield: serves 6
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 1 Hour 20 Minutes
 cuisine: Italian

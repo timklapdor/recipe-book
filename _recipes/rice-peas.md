@@ -2,7 +2,7 @@
 
 title: Rice & Peas
 yield: serves 6
-category: side
+categories: side
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
 cuisine: [Caribbean,Vegetarian]

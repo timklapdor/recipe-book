@@ -2,7 +2,7 @@
 
 title: Tray-Baked Chicken Stroganoff
 yield: serves 4
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 1 Hour
 cuisine: Hungarian

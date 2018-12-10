@@ -2,7 +2,7 @@
 
 title: Red Rice & Beans
 yield: serves 6
-category: side
+categories: side
 prep-time: 15 Minutes
 cooking-time: 30 Minutes
 cuisine: Vegetarian

@@ -2,7 +2,7 @@
 
 title: Vegetable Curry
 yield: serves 4-6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 35-45 Minutes
 cuisine: [Indian,Vegetarian]

@@ -2,7 +2,7 @@
 
 title: Spinach, Zucchini & Ricotta Rice Tart
 yield: serves 4
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 50 Minutes
 cuisine: [Vegetarian]

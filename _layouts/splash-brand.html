@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+<!--  Hero -->
+{% for item in page.hero %}
+  {% include hero-brand.html %}
+{% endfor %}
+
+
+{% include just-nav.html %}
+
+<main>
+
+  <!--  Feature -->
+
+  {% for item in page.feature %}
+    {% include feature.html %}
+  {% endfor %}
+
+</main>
+
+
+<!--  Footer -->
+
+{% include footer.html %}
+
+
+
+</body>
+</html>

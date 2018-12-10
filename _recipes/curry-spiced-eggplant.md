@@ -2,7 +2,7 @@
 
 title: Curry Spiced Eggplant
 yield: serves 4
-category: side
+categories: side
 prep-time: 5 Minutes
 cooking-time: 35 Minutes
 cuisine: [Indian,Vegetarian]

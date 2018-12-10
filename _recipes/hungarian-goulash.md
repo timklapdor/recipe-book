@@ -2,7 +2,7 @@
 
 title: Hungarian Goulash
 yield: serves 6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 4 Hours
 cuisine: Hungarian

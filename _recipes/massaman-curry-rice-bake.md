@@ -2,7 +2,7 @@
 
 title: Massaman Curry & Rice Bake
 yield: serves 8
-category: main
+categories: main
 prep-time: 30 Minutes
 cooking-time: 1 Hour 30 Minutes
 cuisine: Asian

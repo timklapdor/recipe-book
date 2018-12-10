@@ -2,7 +2,7 @@
 
 title: Pea & Ham Soup
 yield: serves 8
-category: soup
+categories: soup
 prep-time: 10 Minutes
 cooking-time: 4-8 Hours
 inactive prep-time: Overnight

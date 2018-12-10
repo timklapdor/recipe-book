@@ -2,7 +2,7 @@
 
 title: Alpine Pizza
 yield: Makes 2 large pizzas
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 10 Minutes
 cuisine: Italian

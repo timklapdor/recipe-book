@@ -2,7 +2,7 @@
 
 title: Vegetarian Pâté With Roasted Cauliflower and Pecans Recipe
 yield: 4 cups
-category: Vegetarian
+categories: Vegetarian
 prep-time: 30 Minutes
 cooking-time: 30 Minutes
 cuisine: [Vegetarian]

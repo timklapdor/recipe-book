@@ -2,7 +2,7 @@
 
 title: Soft Polenta with Braised Mushroom Ragu
 yield: serves 6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 45 Minutes
 cuisine: Italian

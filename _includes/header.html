@@ -1,0 +1,20 @@
+<header>
+
+{% include brand.html %}
+
+<nav>
+  <label for="show-menu" class="show-menu">Menu + </label>
+  <input type="checkbox" id="show-menu" role="button">
+
+  <ul id="menu">
+    {% for item in site.data.menu %}
+    <li><a href="{{ site.baseurl }}{{ item.path }}" aria-label="Navigation Link">{{ item.id }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+{% if site.social-twitter or site.social-facebook or site.social-linkedin or site.social-github %}
+  {% include social.html %}
+{% endif %}
+
+</header>

@@ -2,7 +2,7 @@
 
 title: Slow Cooker BBQ Beef Brisket
 yield: serves 6
-category: main
+categories: main
 prep-time: 30 Minutes
 cooking-time: 10 Hours
 cuisine: American

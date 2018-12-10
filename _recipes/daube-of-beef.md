@@ -2,7 +2,7 @@
 
 title: Daube Of Beef
 yield: serves 6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 3 Hours 30 Minutes
 cuisine: French

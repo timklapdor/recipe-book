@@ -2,7 +2,7 @@
 
 title: Moroccan Spiced Chicken
 yield: serves 4
-category: main
+categories: main
 prep-time: 20 Minutes
 cooking-time: 1-2 Hours
 inactive prep-time: Overnight

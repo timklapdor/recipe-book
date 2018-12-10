@@ -2,7 +2,7 @@
 
 title: Sausage Ragu
 yield: serves 6
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 45 Minutes
 cuisine: Italian

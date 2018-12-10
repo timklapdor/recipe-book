@@ -2,7 +2,7 @@
 
 title: Lemon and chicken slow-cooker soup
 yield: serves 4
-category: soup
+categories: soup
 prep-time: 10 Minutes
 cooking-time: 6 hours
 cuisine: greek

@@ -2,7 +2,7 @@
 
 Title: Pumpkin, Ricotta & Basil Cannelloni
 yield: serves 6
-category: main
+categories: main
 prep-time: 20 Minutes
 cooking-time: 1 Hour
 cuisine: [Italian,Vegetarian]

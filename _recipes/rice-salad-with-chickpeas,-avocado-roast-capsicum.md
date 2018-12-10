@@ -2,7 +2,7 @@
 
 title: Rice Salad with Chickpeas, Avocado & Roast Capsicum
 yield: serves 4
-category: salad
+categories: salad
 prep-time: 30 Minutes
 tags: [salad, rice, chick pea]
 image: images/rice-salad-chickpeas-avocado.jpg

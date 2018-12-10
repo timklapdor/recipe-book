@@ -1,0 +1,52 @@
+header {
+  color: $rev;
+  background: $primary;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+ & > div {
+  padding: 0 1em;
+}
+
+a {
+  color: $rev;
+  text-decoration: none;
+}
+div.social {
+  display: none;
+
+img {
+  height: 1em;
+  width: auto;
+  padding: .25em;
+  margin: 0 .5em;
+  fill: currentcolor;
+}
+}
+}
+
+.logo-present {
+  display: none;
+}
+
+.brand img {
+  height: 4em;
+  width: auto;
+}
+
+
+@media only screen and (min-width:600px){
+  header {
+    div.social {
+      padding-left: 10vw;
+      display: flex;
+  }
+}
+}
+
+@media only screen and (min-width:1100px){
+ .brand {
+   padding-right: 10vw;
+ }
+}

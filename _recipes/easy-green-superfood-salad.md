@@ -2,7 +2,7 @@
 
 title: Easy Green Superfood Salad
 yield: serves 6
-category: salad
+categories: salad
 prep-time: 10 Minutes
 cuisine: [Vegetarian]
 tags: [greens,Vegetarian, salad]

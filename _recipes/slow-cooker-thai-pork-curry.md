@@ -2,7 +2,7 @@
 
 title: Slow-cooker Thai pork curry
 yield: serves 8
-category: slowcooker
+categories: slowcooker
 prep-time: 10 Minutes
 cooking-time: 5 hours
 cuisine: thai

@@ -2,7 +2,7 @@
 
 title: Menemen
 yield: serves 4
-category: breakfast
+categories: breakfast
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
 cuisine: [Middle Eastern,Vegetarian]

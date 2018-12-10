@@ -2,7 +2,7 @@
 
 title: Pork Ragu
 yield: serves 8
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hour
 cuisine: Italian

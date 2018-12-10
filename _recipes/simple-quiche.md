@@ -2,7 +2,7 @@
 
 title: Simple Quiche
 yield: serves 4
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 40 Minutes
 cuisine: French

@@ -2,7 +2,7 @@
 
 title: Spicy Chorizo Minestrone
 yield: serves 4
-category: soup
+categories: soup
 prep-time: 10 Minutes
 cooking-time: 30 Minutes
 cuisine: Italian

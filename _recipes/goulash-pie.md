@@ -2,7 +2,7 @@
 
 title: Goulash Pie
 yield: serves 4
-category: main
+categories: main
 prep-time: 20 Minutes
 cooking-time: 2 Hours
 tags: [beef, pie, goulash, potato]

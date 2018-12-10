@@ -2,7 +2,7 @@
 
 title: Pumpkin and Spinach Lasagne
 yield: serves 4
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 55 Minutes
 cuisine: Italian

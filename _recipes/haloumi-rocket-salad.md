@@ -2,7 +2,7 @@
 
 title: Haloumi & Rocket Salad
 yield: serves 4
-category: salad
+categories: salad
 prep-time: 15 Minutes
 cooking-time: 5 Minutes
 cuisine: Greek,Vegetarian

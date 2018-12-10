@@ -2,7 +2,7 @@
 
 title: Harissa Paste
 yield: A medium jar of paste
-category: condiment
+categories: condiment
 prep-time: 15 Minutes
 cuisine: Middle Eastern
 tags: [paste, sauce]

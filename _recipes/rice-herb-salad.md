@@ -2,7 +2,7 @@
 
 title: Rice & Herb Salad
 yield: serves 6
-category: salad
+categories: salad
 prep-time: 15 Minutes
 cooking-time: 30 Minutes
 cuisine: Vegetarian

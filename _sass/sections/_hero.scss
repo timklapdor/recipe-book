@@ -1,0 +1,94 @@
+section.hero {
+  min-height: 20vh;
+  color: $rev;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: center;
+  background-size: cover, cover;
+  background-color: $blk;
+  background-position: bottom center;
+  padding: 20vh 1em 0 1em;
+  align-items: center;
+  justify-content: center;
+  -webkit-transform: translateZ(0);
+
+h2 {
+  font-size: 450%;
+  font-weight: 700;
+  text-shadow: $shadow-3;
+  margin: 0 0 0 0;
+}
+
+h3 {
+  font-family: $font-sans;
+  font-weight: 300;
+  font-size: 250%;
+  margin: 0;
+}
+
+&.full {
+  min-height: 100vh !important;
+}
+
+&.large {
+  min-height: 70vh !important;
+}
+
+&.medium {
+  min-height: 50vh !important;
+}
+
+&.small {
+  min-height: 40vh !important;
+}
+&.brand {
+
+  padding: 3vh 5vw;
+  justify-content: inherit;
+
+  div {
+    padding-right: 0;
+    align-self: flex-start;
+  }
+
+  div.brand a img {
+    height: 30vh;
+  }
+
+  div.tagline {
+    background-color: $accent;
+  }
+
+  .bottom-left {
+  margin-left: -10vw;
+  margin-bottom: 10vw;
+  padding-right: 1rem;
+
+  h3 {
+    margin-left: 10vw;
+    align-self: flex-start;
+    padding: 1rem;
+  }
+  }
+
+  .bottom-right {
+  align-self: flex-end;
+  margin-right: -10vw;
+  margin-bottom: 10vw;
+  padding-left: 1rem;
+
+  h3 {
+    margin-right: 10vw;
+    align-self: flex-start;
+    padding: 1rem;
+  }
+  }
+
+
+
+
+
+}
+}

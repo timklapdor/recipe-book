@@ -2,7 +2,7 @@
 
 title: Middle Eastern-style Lamb Shanks with Saffron Rice
 yield: serves 4
-category: main
+categories: main
 prep-time: 20 Minutes
 cooking-time: 1 Hour 50 Minutes
 cuisine: Middle Eastern

@@ -1,0 +1,23 @@
+---
+
+layout: default
+
+---
+
+{% for item in page.hero %}
+  {% include hero.html %}
+{% endfor %}
+
+<section class="article">
+
+<article class="">
+  {{ content }}
+</article>
+
+</section>
+
+{% include team.html %}
+
+{% for item in page.feature %}
+  {% include feature.html %}
+{% endfor %}

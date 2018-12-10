@@ -2,7 +2,7 @@
 
 title: Smoky Black Bean Beet Burgers
 yield: 8 patties
-category: main
+categories: main
 prep-time: 20 Minutes
 cooking-time: 30 Minutes
 cuisine: [American,Vegetarian]

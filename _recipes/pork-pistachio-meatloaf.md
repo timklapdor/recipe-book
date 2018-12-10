@@ -2,7 +2,7 @@
 
 title: Pork & Pistachio Meatloaf
 yield: serves 6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hour
 tags: [pork, meatloaf,]

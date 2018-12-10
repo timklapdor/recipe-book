@@ -1,0 +1,18 @@
+---
+
+layout: default
+
+---
+
+
+<!--  Hero -->
+
+{% for item in page.hero %}
+  {% include hero.html %}
+{% endfor %}
+
+{% for item in page.form %}
+  <section class="contact">
+    {% include {{ item }}.html %}
+  </section>
+{% endfor %}

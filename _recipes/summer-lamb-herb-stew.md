@@ -2,7 +2,7 @@
 
 title: Summer Lamb & Herb Stew
 yield: serves 4
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hours 40 Minutes
 tags: [slow cooker, lamb, casserole]

@@ -1,0 +1,30 @@
+---
+
+layout: default
+
+---
+
+{% for item in page.hero %}
+  {% include hero.html %}
+{% endfor %}
+
+<section class="article">
+
+<article class="">
+  {{ page.content | markdownify }}
+</article>
+
+  <aside>
+    <label>Meta Element</label><h4>Data</h4>
+    <label>Meta Element</label><h4>Data</h4>
+    <label>Meta Element</label><h4>Data</h4>
+    <label>Meta Element</label><h4>Data</h4>
+    <div class="map"></div>
+    <nav>
+      <button class="previous">Previous</button>
+      <button class="next">Next</button>
+    </nav>
+  </aside>
+
+
+</section>

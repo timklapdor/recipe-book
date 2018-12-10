@@ -2,7 +2,7 @@
 
 title: Pesto with Chicken & Zucchini
 yield: serves 4
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 20 Minutes
 cuisine: Italian

@@ -2,7 +2,7 @@
 
 title: Warm Spinach and Bacon Cob Loaf
 yield: serves 10
-category: snack
+categories: snack
 prep-time: 6 Minutes
 cooking-time: 15 Minutes
 tags: [bread, bacon, spinach, snack]

@@ -2,7 +2,7 @@
 
 title: Italian Drip Beef
 yield: serves 10
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 6 Hours
 cuisine: Italian

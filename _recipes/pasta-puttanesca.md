@@ -2,7 +2,7 @@
 
 title: Pasta Puttanesca
 yield: serves 4
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 15 Minutes
 cuisine: Italian

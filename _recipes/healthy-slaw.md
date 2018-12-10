@@ -2,7 +2,7 @@
 
 title: Healthy Slaw
 yield: make 10
-category: salad
+categories: salad
 prep-time: 15 Minutes
 cooking-time: 5 Minutes
 cuisine: Vegetarian

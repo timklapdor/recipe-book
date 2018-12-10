@@ -2,7 +2,7 @@
 
 title: Jewelled Vegetable and Couscous Salad with Green Harissa Dressing
 yield: serves 6
-category: salad
+categories: salad
 prep-time: 60 Minutes
 cooking-time: 30 Minutes
 cuisine: [Middle Eastern,Vegetarian]

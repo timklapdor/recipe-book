@@ -2,7 +2,7 @@
 
 title: Pork With Cider & Cream
 yield: serves 6
-category: main
+categories: main
 prep-time: 30 Minutes
 cooking-time: 2 Hour 30 Minutes
 tags: [pork, beans, cider,]

@@ -2,7 +2,7 @@
 
 title: Pavlova
 yield: serves 10
-category: dessert
+categories: dessert
 prep-time: 30 Minutes
 cooking-time: 1 Hours 10 Minutes
 cuisine: Australian

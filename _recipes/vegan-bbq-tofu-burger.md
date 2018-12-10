@@ -2,7 +2,7 @@
 
 title: Vegan BBQ Tofu Burger
 yield: 2 burgers
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 35 Minutes
 cuisine: [American,Vegetarian]
