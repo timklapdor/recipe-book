@@ -7,7 +7,7 @@ prep-time: 10 Minutes
 cooking-time: 40 Minutes
 cuisine: Christmas
 effort: low
-season:
+season: 
 tags:
 - Christmas
 - Turkey
