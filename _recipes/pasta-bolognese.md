@@ -6,7 +6,10 @@ category: main
 prep-time: 10 Minutes
 cooking-time: 1 Hour
 cuisine: Italian
-tags:  [pasta, veal, pork, spaghetti]
+tags:
+- pasta
+season: winter & spring
+effort: high
 image: images/pasta-bolognese.jpg
 description: This homestyle sauce, made with pantry staples.
 ingredients:
@@ -29,8 +32,6 @@ ingredients:
 - freshly grated parmesan cheese
 
 ---
-
-
 
 1. Heat oil in a cast iron pot over medium-high heat. Cook onion, carrot, celery, zucchini and garlic, covered and stirring occasionally until softened.
 2. Add mince and cook, breaking up with a wooden spoon, for 6 to 8 minutes or until browned.

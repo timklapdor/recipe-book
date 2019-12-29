@@ -5,8 +5,10 @@ yield: serves 4
 categories: soup
 prep-time: 10 Minutes
 cooking-time: 30 Minutes
-cuisine: Italian
-tags:  [soup, sausage, pasta]
+cuisine: Spansih
+tags:
+- chorizo
+- pasta
 image: images/spicy-chorizo-minestrone.jpg
 description: Italian style soup with a little kick.
 ingredients:
@@ -26,8 +28,6 @@ ingredients:
 - Grated Parmesan & Crusty Bread
 
 ---
-
-
 
 1. Heat oil in a large saucepan over medium-high heat. Add Onion, Garlic, Chilli and Chorizo. Cook, stirring often, for 5 minutes.
 2. Add carrot and celery. Cook, stirring, for 3 minutes. Stir in tomatoes and stock. Bring to the boil.

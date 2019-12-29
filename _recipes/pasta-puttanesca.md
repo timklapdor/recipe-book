@@ -6,7 +6,9 @@ categories: main
 prep-time: 5 Minutes
 cooking-time: 15 Minutes
 cuisine: Italian
-tags: [pasta, sauce]
+season: winter
+effort: easy
+tags: [pasta]
 image: images/pasta-puttanesca.jpg
 description: This homestyle sauce, made with pantry staples.
 ingredients:

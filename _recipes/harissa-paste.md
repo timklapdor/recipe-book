@@ -5,7 +5,11 @@ yield: A medium jar of paste
 categories: condiment
 prep-time: 15 Minutes
 cuisine: Middle Eastern
-tags: [paste, sauce]
+tags:
+- chilli
+- sauce
+season: all-year
+effort: easy
 image: images/harissa-paste.jpg
 description: Spicy middle eastern flavours.
 ingredients:

@@ -32,6 +32,9 @@ layout: default
   {% if page.inactive-prep-time %}<li>Inactive Preparation Time: {{ page.inactive-prep-time }}</li>{% endif %}
   {% if page.cooking-time %}<li>Cooking Time: {{ page.cooking-time }}</li>{% endif %}
   {% if page.original-link %}<li>Original Recipe: <a href="{{ page.original-link}}" target="blank">{{ page.original-source }}</a></li>{% endif %}
+  {% if page.effort %}<li>Effort: {{ page.effort | capitalize }}</li>{% endif %}
+  {% if page.season %}<li>Season: {{ page.season | capitalize }}</li>{% endif %}
+
 </ul>
 
 <h3> Ingredients</h3>

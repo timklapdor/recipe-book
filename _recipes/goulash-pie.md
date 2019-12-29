@@ -5,7 +5,12 @@ yield: serves 4
 categories: main
 prep-time: 20 Minutes
 cooking-time: 2 Hours
-tags: [beef, pie, goulash, potato]
+cuisine: Hungarian
+tags:
+- beef
+- pie
+season: winter
+effort: medium
 image: images/goulash-pie.jpg
 description: This hearty pie will satisfy even the hungriest of diners.
 original-source: Taste

@@ -1,29 +1,25 @@
 ---
 
-title: All-in-One Brekkie
+title: Dish Name
 yield: serves 6
-categories: breakfast
+categories: meal type
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
-cuisine: Australian
+cuisine: French
+effort:: 
+season:
 tags:
-- bacon
-- eggs
-- sausage
-season: all-year
-effort:: easy
-image: /images/all-in-one-brekkie.jpg
-description: Breakfast done in the oven
-original-source: taste.com
-original-link: http://www.taste.com.au/recipes/one-brekkie/12ebc261-f3d9-4871-9609-d63e625f03c4
+- tag 1
+- tag 2
+image: /images/something.jpg
+description: ""
+original-source: ""
+original-link: ""
 ingredients:
-- 6 Knackwurst sausage
-- 6 large Portobello mushrooms, ends trimmed
-- 2 tbs extra virgin olive oil
-- 6 bacon rashers
-- 6 ripe Roma tomatoes, halved lengthways
-- 6 eggs
-- toast, buttered, to serve
+- 1 Ingredient
+- 2 Ingredient
+- 3 Ingredient
+- 4 Ingredient
 
 ---
 

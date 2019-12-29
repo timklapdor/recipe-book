@@ -6,7 +6,12 @@ categories: main
 prep-time: 30 Minutes
 cooking-time: 1 Hour 30 Minutes
 cuisine: Asian
-tags: [curry, rice, beef,]
+tags:
+- curry
+- rice
+- beef
+season: Winter & Spring
+effort: medium
 image: images/massaman-curry-rice-bake.jpg
 description: Creamy Massaman curry and rice bake is a hearty crowd pleaser.
 ingredients:
@@ -28,8 +33,6 @@ ingredients:
 - chopped roasted peanuts and sliced green onion, to serve
 
 ---
-
-
 
 1. Heat half the oil in a large, saucepan over medium-high heat. Cook beef, in batches, for 2 to 3 minutes or until browned. Transfer to a bowl.
 2. Reduce heat to medium. Add the remaining oil to pan. Add onion. Cook, stirring, for 5 minutes, or until onion has softened. Add garlic and curry paste. Cook, stirring, for 1 minute, or until fragrant. Add coconut milk, coconut cream, stock, tamarind, fish sauce, sugar, cinnamon sticks and bay leaves. Bring to the boil. Return beef. Reduce heat to low. Simmer, partially covered, for 1 hour or until beef is just tender.

@@ -5,7 +5,7 @@ yield: 8 patties
 categories: main
 prep-time: 20 Minutes
 cooking-time: 30 Minutes
-cuisine: [American,Vegetarian]
+cuisine: [American, Vegetarian]
 tags: [vegetarian, beans, burgers, beetroot, gluten free]
 image: /images/smoky-black-bean-beet-burgers.jpg
 description: Hearty, nutritionally dense, and simple to prepare.

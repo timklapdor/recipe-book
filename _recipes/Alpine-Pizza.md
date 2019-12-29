@@ -6,9 +6,14 @@ categories: main
 prep-time: 5 Minutes
 cooking-time: 10 Minutes
 cuisine: Italian
-tags: [pizza, salmon, salami,]
+season: winter
+effort: easy
+tags:
+- pizza
+- salmon
+- salami
 image: /images/alpine-pizza.jpg
-description: A different take on pizza - sans tomatoes!
+description: A different take on pizza - sans tomatoes! It's rich, cheesy and tasty.
 ingredients:
 - 80g Gruyère cheese, grated
 - 250g crème fraîche

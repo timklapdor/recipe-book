@@ -6,7 +6,11 @@ categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hour 30 Minutes
 cuisine: Spanish
-tags: [chicken, chorizo]
+tags:
+- chicken
+- chorizo
+season: winter
+effort: 
 image: images/chicken-chorizo-hot-pot.jpg
 description: One pot chicken dish.
 tested: false

@@ -5,7 +5,13 @@ yield: serves 4
 categories: soup
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
-tags: [chicken, sausage, lentil]
+cuisine: Australian
+effort: medium
+season: winter
+tags:
+- chicken
+- sausage
+- lentils
 image: images/chicken-sausage-red-lentil-soup.jpg
 description: A rich soup with tomato, oregano and tasty bites of sausage.
 tested: false

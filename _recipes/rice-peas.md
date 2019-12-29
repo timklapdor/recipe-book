@@ -5,7 +5,7 @@ yield: serves 6
 categories: side
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
-cuisine: [Caribbean,Vegetarian]
+cuisine: [Caribbean, Vegetarian]
 tags: [rice, beans, coconut,Vegetarian]
 image: images/rice-peas.jpg
 description: Rich coconut rice is the perfect accompaniment to spicy food.

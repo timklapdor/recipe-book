@@ -6,8 +6,12 @@ categories: soup
 prep-time: 10 Minutes
 inactive-prep-time: Overnight
 cooking-time: 5 Hours
-cuisine: Latin America
-tags: [cuban, ham, beans, soup,]
+cuisine: Latin
+effort: easy
+season: winter
+tags:
+- ham
+- beans
 image: images/black-bean-soup.jpg
 description: A cuban classic that combines rich beans and smoked pork.
 original-source: thekitchn.com

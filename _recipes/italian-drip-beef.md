@@ -6,7 +6,11 @@ categories: main
 prep-time: 5 Minutes
 cooking-time: 6 Hours
 cuisine: Italian
-tags: [beef, slow cooker]
+tags:
+- beef
+- slowcooker
+season: Spring & Winter
+effort: easy
 image: images/italian-drip-beef.jpg
 description: Great filling for American style sandwiches.
 ingredients:

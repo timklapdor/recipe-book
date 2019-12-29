@@ -5,8 +5,13 @@ yield: serves 4
 categories: main
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
-cuisine: Asian
-tags: [curry, beef, lentil]
+cuisine: Indian
+effort:
+season:
+tags:
+- curry
+- beef
+- lentils
 image: images/beef-lentil-curry.jpg
 description: Rich beef and pulse curry.
 original-source: taste.com

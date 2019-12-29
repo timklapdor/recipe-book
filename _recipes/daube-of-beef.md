@@ -6,7 +6,13 @@ categories: main
 prep-time: 10 Minutes
 cooking-time: 3 Hours 30 Minutes
 cuisine: French
-tags: [beef, mushroom,]
+tags:
+- beef
+- mushroom
+- casserole
+- slowcooker
+effort: medium
+season: winter
 image: images/daube-of-beef.jpg
 description: Perfect for a cold winter's night it is warming and delicious.
 ingredients:

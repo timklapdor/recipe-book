@@ -6,7 +6,12 @@ categories: main
 prep-time: 5 Minutes
 cooking-time: 15 Minutes
 cuisine: Italian
-tags: [pasta, mushroom, bacon, cream,]
+tags:
+- pasta
+- mushroom
+- bacon
+season: winter & spring
+effort: low
 image: images/pasta-carbonara.jpg
 description: Creamy, rich Carbonara with an added smokey flavour.
 ingredients:

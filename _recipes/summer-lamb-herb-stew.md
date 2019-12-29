@@ -5,6 +5,7 @@ yield: serves 4
 categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hours 40 Minutes
+cuisine: Australian
 tags: [slow cooker, lamb, casserole]
 image: images/summer-lamb-herb-stew.jpg
 description: A great, light and spicy stew.

@@ -6,7 +6,10 @@ categories: main
 prep-time: 15 Minutes
 cooking-time: 1 Hour 20 Minutes
 cuisine: Italian
-tags: [pork, pasta,]
+tags:
+- pasta
+season: Winter & Spring
+effort: high
 image: images/lasagne.jpg
 description: Easy and tasty lasagne.
 ingredients:

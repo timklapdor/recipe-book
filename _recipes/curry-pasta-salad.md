@@ -5,8 +5,12 @@ yield: serves 4
 categories: salad
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
-cuisine: [Australian,Vegetarian]
-tags: [pasta, salad, tofu,Vegetarian]
+cuisine: [Australian, Vegetarian]
+tags:
+- pasta
+- tofu
+season: summer
+effort: medium
 image: images/curry-pasta-salad.jpg
 description: Tasty pasta salad dish.
 ingredients:

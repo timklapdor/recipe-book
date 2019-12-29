@@ -5,6 +5,7 @@ yield: serves 6
 categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hour
+cuisine: American
 tags: [pork, meatloaf,]
 image: images/pork-pistachio-meatloaf.jpg
 description: New twist on meatloaf, lightly spiced and wrapped in prosciutto.

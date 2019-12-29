@@ -5,6 +5,7 @@ yield: serves 4
 categories: soup
 prep-time: 30 Minutes
 cooking-time: 30 Minutes
+cuisine: Australian
 tags: [pumpkin, soup, sweet potato]
 image: images/spicy-pumpkin-sweet-potato-soup.jpg
 description: A spicy rich take on Pumpkin Soup.

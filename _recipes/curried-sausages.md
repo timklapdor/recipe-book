@@ -6,7 +6,11 @@ categories: main
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
 cuisine: Indian
-tags: [sausage, curry]
+season:
+effort: medium
+tags:
+- sausage
+- curry
 image: images/curried-sausages.jpg
 description: Add an Indian touch to curried sausages.
 ingredients:

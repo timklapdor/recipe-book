@@ -6,7 +6,10 @@ categories: main
 prep-time: 5 Minutes
 cooking-time: 20 Minutes
 cuisine: Italian
-tags: [pasta, chicken, zucchini,]  
+tags:
+- pasta
+- chicken
+- zucchini
 image: images/pesto-chicken-zucchini.jpg
 description: Family-friendly combo of pesto and pasta that's ready in 25 minutes.
 ingredients:

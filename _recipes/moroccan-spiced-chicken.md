@@ -7,7 +7,10 @@ prep-time: 20 Minutes
 cooking-time: 1-2 Hours
 inactive prep-time: Overnight
 cuisine: Middle Eastern
-tags: [moroccan, chicken]
+tags:
+- chicken
+season: all-year
+effort: easy
 image: images/moroccan-spiced-chicken.jpg
 description: Moroccan Mechoui style chicken.
 tested: false
@@ -28,8 +31,6 @@ ingredients:
 - couscous and plain yoghurt to serve
 
 ---
-
-
 
 1.  In a food processor, blitz all the ingredients (except the chicken) to a fine paste, then smear over the chicken pieces. Cover and marinate overnight.
 2. Preheat the oven to 220 degrees fan-forced.

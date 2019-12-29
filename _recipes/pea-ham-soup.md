@@ -6,6 +6,7 @@ categories: soup
 prep-time: 10 Minutes
 cooking-time: 4-8 Hours
 inactive prep-time: Overnight
+cuisine: Australian
 tags: [pea, ham]
 image: images/pea-ham-soup.jpg
 description: You have to start this one the night before, but the final result is well worth the effort!

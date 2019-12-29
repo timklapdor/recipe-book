@@ -1,6 +1,6 @@
 ---
 
-title: Shaved Zucchini, Snowpea and Almond Salad
+title: Zucchini, Snowpea and Almond Salad
 yield: serves 4
 categories: salad
 prep-time: 15 Minutes

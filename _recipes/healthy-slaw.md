@@ -5,8 +5,11 @@ yield: make 10
 categories: salad
 prep-time: 15 Minutes
 cooking-time: 5 Minutes
-cuisine: Vegetarian
-tags: [vegetarian, vegan, dairy free, egg free, coleslaw, gluten free,]
+cuisine: [Vegetarian, Vegan]
+tags:
+- cabbage
+season: Spring & Summer
+diet: [dairy, egg, gluten, vegan]
 image: /images/healthy-slaw.jpg
 description: A simple slaw with a lemon dressing and toasted seeds
 ingredients:
@@ -22,8 +25,6 @@ ingredients:
 - ½ teaspoon salt
 
 ---
-
-
 
 1. In a medium serving bowl, combine the prepared purple and green cabbage, carrots and parsley. Set aside.
 2. Measure out your seeds into a small frypan. Toast over medium heat, stirring frequently, until the seeds are fragrant. Pour the toasted seeds into the mixing bowl and toss to combine.

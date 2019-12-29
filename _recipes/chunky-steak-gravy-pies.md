@@ -6,7 +6,11 @@ categories: main
 prep-time: 10 Minutes
 cooking-time: 2 Hours 15 Minutes
 cuisine: Australian
-tags: [beef, steak, pie]
+tags:
+- beef
+- steak
+- pie
+effort:
 image: images/chunky-steak-gravy-pies.jpg
 description: A classic bakery favourites.
 ingredients:

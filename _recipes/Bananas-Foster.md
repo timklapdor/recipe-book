@@ -5,7 +5,11 @@ yield: serves 4
 categories: dessert
 prep-time: 5 Minutes
 cooking-time: 10 Minutes
-tags:  [bananas, caramel]
+cuisine: Australian
+tags:
+- bananas
+- caramel
+effort: easy
 image: images/banana-foster.jpg
 description: Easy and tasty fruity dessert.
 ingredients:

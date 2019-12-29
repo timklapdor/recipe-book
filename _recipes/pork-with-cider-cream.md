@@ -5,6 +5,7 @@ yield: serves 6
 categories: main
 prep-time: 30 Minutes
 cooking-time: 2 Hour 30 Minutes
+cuisine: French
 tags: [pork, beans, cider,]
 image: images/pork-with-cider-cream.jpg
 description: Savour each bite of this pork, leek and broad bean dish that's doused in cider and spiked with tarragon.

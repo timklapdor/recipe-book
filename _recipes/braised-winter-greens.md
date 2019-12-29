@@ -5,7 +5,12 @@ yield: serves 6
 categories: side
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
-tags: [greens, bacon, vegetables, winter]
+cuisine: German
+tags:  
+- bacon
+- greens
+season: winter
+effort: easy
 image: images/braised-winter-greens.jpg
 description: Braised greens make a perfect accompaniment dish.
 ingredients:

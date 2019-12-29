@@ -6,7 +6,10 @@ categories: snack
 prep-time: 1 Minutes
 cooking-time: 10-15 Minutes
 cuisine: French
-tags: [cheese, camembert]
+tags:
+- cheese
+- baked
+effort: easy
 image: /images/baked-camembert.jpg
 description: Baked Cheese, need I say more?
 ingredients:

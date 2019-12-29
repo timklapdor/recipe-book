@@ -5,8 +5,12 @@ yield: serves 4
 categories: soup
 prep-time: 10 Minutes
 cooking-time: 30 Minutes
-cuisine: [Vegetarian]
-tags: [carrot, sweet potato,Vegetarian]
+cuisine: Vegetarian
+tags:
+- carrot
+- sweet potato
+effort: easy
+season: winter
 image: images/carrot-ginger-soup.jpg
 description: Sure to warm in the cooler months
 original-source: taste.com

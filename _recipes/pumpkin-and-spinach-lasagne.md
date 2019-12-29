@@ -5,7 +5,7 @@ yield: serves 4
 categories: main
 prep-time: 15 Minutes
 cooking-time: 55 Minutes
-cuisine: Italian
+cuisine: [Italian, Vegetarian]
 tags: [pasta, pumpkin, spinach,Vegetarian]
 image: images/pumpkin-spinach-lasagne.jpg
 description: Creamy and cheesy vegetarian lasagne

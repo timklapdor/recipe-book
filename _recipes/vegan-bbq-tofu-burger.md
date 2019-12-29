@@ -5,8 +5,8 @@ yield: 2 burgers
 categories: main
 prep-time: 5 Minutes
 cooking-time: 35 Minutes
-cuisine: [American,Vegetarian]
-tags: [vegetarian, burgers, tofu]
+cuisine: [American, Vegetarian]
+tags: [vegan, burgers, tofu]
 image: /images/smoky-black-bean-beet-burgers.jpg
 description: Hearty, nutritionally dense, and simple to prepare.
 original-source: Vegan Miam
@@ -22,8 +22,6 @@ ingredients:
 - buns to serve
 
 ---
-
-
 
 1. Put all the BBQ Rub ingredients (dry mustard, onion powder, smoked paprika, garlic powder, ground cumin and ground pepper) in a small bowl and stir to combine.
 2. Preheat oven to 175°C. Rub the tofu slabs all over with the remaining BBQ Rub. Apply a thin layer of oil (or use a non-stick spray) to condition the surface of the pan, when needed. Bake for about 25-30 minutes until slightly browned and flipping both sides halfway.
