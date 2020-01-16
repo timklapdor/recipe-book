@@ -1,0 +1,33 @@
+
+section.recipe {
+
+  display: flex;
+  flex-direction: column;
+  margin: 0 5vw;
+}
+
+
+@media screen and (min-width: 700px) {
+section.recipe {
+
+  display: grid;
+  grid-template-columns: 10vw 2fr 1fr 10vw;
+  grid-row: auto;
+  grid-gap: 1em;
+  align-items: flex-start;
+
+  article.recipe {
+    grid-column: 2 / span 1;
+
+    .directions ol li {
+      margin: .5rem 0;
+      padding: 0 .7rem;
+    }
+
+  aside {
+    grid-column: 3 / span 1;
+    grid-row: 1 / span 2;
+  }
+  }
+}
+}
