@@ -1,0 +1,35 @@
+article.gridup {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-rows: repeat(auto-fill, 200px);
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
+  padding: 1rem;
+
+section {
+  grid-column: auto;
+  border-radius: 4px;
+  padding: 0;
+
+  a {
+    padding: .5rem;
+    align-items: flex-start;
+    color: $rev;
+    height: 95%;
+    width: 95%;
+    text-decoration: none;
+
+  h2 {
+    text-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23) !important; 
+  }
+
+  p {
+    line-height: 1;
+  }
+  }
+
+  a:hover {
+    box-shadow: $shadow-3;
+  }
+}
+}

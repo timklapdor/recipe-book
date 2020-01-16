@@ -5,7 +5,11 @@ yield: serves 8
 categories: snack
 prep-time: 5 Minutes
 cooking-time: 10 Minutes
-tags:  [bananas, caramel, bake]
+cuisine: Australian
+tags:
+- bananas
+- baked
+effort: medium
 image: images/banana-bread.jpg
 description: A nutty banana bread.
 ingredients:
@@ -21,8 +25,6 @@ ingredients:
 - 100g unsalted butter, melted, cooled
 
 ---
-
-### Directions
 
 1. Preheat the oven to 175°C. Lightly grease an 11cm x 22cm loaf pan and line base and 2 long sides with a sheet of baking paper, leaving 2cm overhanging.
 2. Sift flour, cinnamon, baking powder, soda and ½ teaspoon salt into a bowl with the brown sugar, then add the nuts.

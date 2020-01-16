@@ -2,11 +2,15 @@
 
 title: Hungarian Goulash
 yield: serves 6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 4 Hours
 cuisine: Hungarian
-tags: [hungarian, casserole, potato, winter]
+tags:
+- casserole
+- potato
+- slowcooker
+season: winter
 image: images/hungarian-goulash.jpg
 description: Hungary's slow-cooked favourite has it all.
 ingredients:
@@ -23,8 +27,6 @@ ingredients:
 - cooked pasta, sour cream & chopped flat-leafed parsley to serve
 
 ---
-
-### Directions
 
 1. Place flour and salt and pepper in a shallow dish. Lightly coat steak in seasoned flour.
 2. Heat 1 tablespoon oil in a frying pan over medium-high heat. Cook steak in small batches, adding more oil as required, for 2 to 3 minutes or until browned. Transfer to slow cooker.

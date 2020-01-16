@@ -1,0 +1,97 @@
+
+.btn-rev {
+  color: $rev;
+  -webkit-transform: translateZ(0);
+
+  &:hover {
+    background: rgba($primary, 1);
+    box-shadow: $shadow-4;
+  }
+}
+
+
+.btn-blk {
+  color: $blk;
+  -webkit-transform: translateZ(0);
+
+  &:hover {
+    color: $rev;
+    background: rgba($primary, .9);
+    box-shadow: $shadow-2;
+}
+}
+
+.call-to-action {
+  font-size: 100%;
+  border: 2px solid;
+  padding: 1em 2em;
+  text-transform: uppercase;
+  border-radius: .5em;
+  text-decoration: none;
+  text-align: center;
+  margin: 5vh 0 0 0;
+}
+
+.call-to-action:hover {
+  // background: rgba($blk, .2);
+
+}
+
+.download-btn {
+  -webkit-transform: translateZ(0);
+  // border: 2px solid;
+  padding: .5em 1em;
+  text-transform: uppercase;
+  border-radius: .5em;
+  text-decoration: none;
+  background: transparent;
+  text-align: center;
+  line-height: 2;
+  margin: 1em;
+
+  &:before {
+    content: ""
+  }
+
+  &:hover {
+    color: #af1a00;
+    background: $primary;
+    box-shadow: $shadow-2;
+    // border: $primary;
+}
+}
+
+div.filters-button-group {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 1em;
+}
+
+button.filter {
+  flex: 0 1 8em;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin: .2em;
+
+  &:hover {
+    background: $accent;
+  }
+}
+
+
+input:focus,
+textarea:focus {
+  -webkit-transform: translateZ(0);
+  outline: 1px solid $primary;
+}
+
+input,
+textarea,
+button {
+  width: 100%;
+  border: 1px solid $neutral-a;
+  min-height: 2em;
+  padding: .5em;
+  border-radius: .2em;
+}

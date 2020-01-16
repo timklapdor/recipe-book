@@ -6,7 +6,10 @@ category: main
 prep-time: 15 Minutes
 cooking-time: 40 Minutes
 cuisine: Swedish
-tags: [meatballs, lingon]
+tags:
+- meatballs
+season: winter & spring
+effort: medium
 image: images/kottbullar.jpg
 description: Traditional Swedish meatballs & cream sauce.
 ingredients:
@@ -25,8 +28,6 @@ ingredients:
 - white pepper
 
 ---
-
-### Directions
 
 #### Meatballs
 

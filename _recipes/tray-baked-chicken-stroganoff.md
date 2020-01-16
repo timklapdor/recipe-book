@@ -2,7 +2,7 @@
 
 title: Tray-Baked Chicken Stroganoff
 yield: serves 4
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 1 Hour
 cuisine: Hungarian
@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 180°C fan-forced. Place chicken in a bowl. Sprinkle with paprika. Toss to coat.
 2. Place chicken in a baking dish. Pour over combined stock and garlic. Bake for 40 minutes, turning chicken halfway.

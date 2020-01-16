@@ -2,11 +2,15 @@
 
 title: Italian Drip Beef
 yield: serves 10
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 6 Hours
 cuisine: Italian
-tags: [beef, slow cooker]
+tags:
+- beef
+- slowcooker
+season: Spring & Winter
+effort: easy
 image: images/italian-drip-beef.jpg
 description: Great filling for American style sandwiches.
 ingredients:
@@ -20,7 +24,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Combine all ingredients in the slow cooker. Stir lightly to combine seasoning with the liquid.
 2. Cover and cook for for 5 to 6 hours, or until meat is fork-tender and falling apart.

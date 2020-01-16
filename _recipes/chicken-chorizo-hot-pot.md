@@ -6,7 +6,11 @@ categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hour 30 Minutes
 cuisine: Spanish
-tags: [chicken, chorizo]
+tags:
+- chicken
+- chorizo
+season: winter
+effort: 
 image: images/chicken-chorizo-hot-pot.jpg
 description: One pot chicken dish.
 tested: false
@@ -25,7 +29,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 200°C.
 2. Use a baking dish that will comfortably hold all the ingredients. Add chicken pieces, sausage, garlic, onion, capsicum, tomato and white wine, season with salt and pepper, toss to mix but arrange chicken pieces skin side up. Add the bay leaves and olives and drizzle over the extra virgin olive oil. Cook in the oven for 1½ hours.

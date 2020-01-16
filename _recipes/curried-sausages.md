@@ -6,7 +6,11 @@ categories: main
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
 cuisine: Indian
-tags: [sausage, curry]
+season:
+effort: medium
+tags:
+- sausage
+- curry
 image: images/curried-sausages.jpg
 description: Add an Indian touch to curried sausages.
 ingredients:
@@ -21,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat 1 tablespoon oil in a non-stick frying pan over medium heat. Cook sausages, in batches, for 8 to 10 minutes or until browned. Transfer to a plate.
 2. Add remaining oil to pan and add onion and cook for 4 minutes or until soft. Add curry paste, flour and apple. Cook, stirring, for 1 minute. Gradually stir in stock. Bring to the boil. Return sausages to pan and simmer for 2 minutes or until heated through.

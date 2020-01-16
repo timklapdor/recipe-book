@@ -2,10 +2,14 @@
 
 title: Harissa Paste
 yield: A medium jar of paste
-category: condiment
+categories: condiment
 prep-time: 15 Minutes
 cuisine: Middle Eastern
-tags: [paste, sauce]
+tags:
+- chilli
+- sauce
+season: all-year
+effort: easy
 image: images/harissa-paste.jpg
 description: Spicy middle eastern flavours.
 ingredients:
@@ -19,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place all ingredients into the bowl of a food processor; process until very smooth.
 2. Place into a sterilised jar and refrigerate.

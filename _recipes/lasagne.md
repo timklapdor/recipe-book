@@ -2,11 +2,14 @@
 
 title: Lasagne
 yield: serves 6
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 1 Hour 20 Minutes
 cuisine: Italian
-tags: [pork, pasta,]
+tags:
+- pasta
+season: Winter & Spring
+effort: high
 image: images/lasagne.jpg
 description: Easy and tasty lasagne.
 ingredients:
@@ -26,7 +29,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 190ºC. Spray large lasagne dish with oil. Heat a pot over medium heat. Add oil and cook the onion, celery and carrot, stirring, for 5 minutes or until the onion softens. Add the garlic and cook for 1 minute or until aromatic.
 2. Add the mince and cook, stirring with a wooden spoon to break up any lumps, for 5 minutes or until browned. Add the tomato paste and cook off.

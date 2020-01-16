@@ -2,7 +2,7 @@
 
 title: Up-The-Duff Chook
 yield: serves 4
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 1 Hour
 cuisine: Australian
@@ -19,7 +19,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Empty half the can of Beer and stuff Sage leaves or Rosemary into the cavity. Rub the Olive Oil over the bird with your hands to coat evenly, then season well, inside and out, with plenty of salt and pepper. Sprinkle on your favourite spice blend for some extra flavour.
 2. Hold the beer can upright on the bench, then impale the chicken with it, so the tinny is standing upright, and the chicken is sticking up in the air, legs facing down.

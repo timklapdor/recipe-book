@@ -1,0 +1,98 @@
+// Font Size
+
+$type-min: 16; // baseline
+$type-max: 22; //
+$type-large: 30; //at 2400px
+
+// Responsive
+
+$type-reponsive: calc( 16px + (#{$type-max} - #{$type-min}) * ( (100vw - 300px) / ( 2000 - 300) )) !important;
+
+/**  Sans Serif **/
+
+$font-sans: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif !important;
+
+/**  Serif **/
+
+$font-serif: 'Zilla Slab', Times, Georgia, serif !important;
+
+/** Font Settings **/
+
+body {
+  font-size: $type-reponsive;
+  font-family: $font-sans;
+  font-weight: 400;
+}
+
+// @media  screen and (min-width: 2400px) {
+//   font-size: 30px;
+// }
+
+/**  Base Sizes **/
+
+h1 {font-size: 240%; padding: 0.2em 0 0 0; line-height: .9;}
+h2 {font-size: 200%; padding: 0.2em 0 0 0; line-height: .9;}
+h3 {font-size: 180%; padding: 0.2em 0 0 0; line-height: .9;}
+h4 {font-size: 150%; padding: 0.2em 0 0 0; line-height: .9;}
+h5 {font-size: 130%; padding: 0.2em 0 0 0; line-height: .9;}
+h6 {font-size: 120%; padding: 0.2em 0 0 0; margin: 0.2em 0; line-height: .9;}
+p {font-size: 100%; padding: 0.2em 0 0 0; line-height: 1.7;}
+
+
+/** Set Fonts **/
+
+p {font-family: $font-sans}
+
+h1, h2, h3, h4, h5, h6, aside {font-family: $font-sans; font-weight: 700}
+
+p, blockquote, ul, ol { line-height: 1.7; font-weight: 400;}
+
+
+/** Base Styles **/
+
+code {font-size: 95%; color: $secondary; background: #f8f8f8; padding: 0.4em; margin: .5vw;}
+p code {padding: .125em; margin: 0;}
+
+a {
+  color: $accent;
+  // transition: all 0.5s ease;
+  text-decoration-skip: ink;
+  webkit-perspective: none;
+  webkit-backface-visibility:none;
+}
+
+blockquote {
+  border-left: 4px solid;
+  color: $neutral-l1;
+  font-style: italic;
+  padding: 1em;
+  font-size: 120%;
+  line-height: .9;
+}
+
+cite {font-size: 80%;}
+cite:before {content: '\2014\00a0\00a0 '; margin-left: 1em;}
+
+sub, sup {
+  font-size: 75% !important;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {top: -0.5em;}
+
+sub {bottom: -0.25em;}
+
+hr {border-top: 2px solid; width: 98%}
+
+
+.label {
+  background: $neutral-l2;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  color: $neutral-a;
+  font-size: 60%;
+  font-weight: normal;
+  margin: 4em 0 .5em -.3em;
+  text-transform: uppercase;
+}

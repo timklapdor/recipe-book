@@ -1,0 +1,45 @@
+section.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5vw;
+    background-color: #FAF9F8;
+    article {
+    }
+}
+
+
+
+@media screen and (min-width: 700px) {
+  section.contact {
+    display: grid;
+    grid-template-columns: 1fr 40em 1fr;
+    grid-row: auto;
+    grid-gap: 1em;
+
+
+    article {
+      grid-column: 2 / span 1;
+      grid-row: 1;
+
+    h2 {
+      border-bottom: 2px solid;}
+    }
+
+    p img {
+      max-width: 100%;
+    }
+
+    aside {
+      grid-column: 2 /span 1;
+      grid-row: 1;
+
+    .bustout {
+      grid-column: 1 / span 3;
+      grid-row: 1;
+    }
+    }
+  }
+
+  }

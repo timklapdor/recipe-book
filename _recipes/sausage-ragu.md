@@ -2,7 +2,7 @@
 
 title: Sausage Ragu
 yield: serves 6
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 45 Minutes
 cuisine: Italian
@@ -31,7 +31,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. For this rich Ragu, half the work is done before you start, thanks to the pork and fennel sausages, preferably bought from a good Italian butcher. Already cured and seasoned, they inject instant flavour into the braise. Serve this with any pasta — gnocchi or pappardelle are my favourites. This recipe can also be the base of a spectacular lasagne, as I discovered one desperate Sunday: add two extra tins of tomatoes and layer the ragu with pasta sheets and bechamel sauce.
 2. Remove skins from sausages and crumble meat. Heat a heavy-based pot over medium heat, then add sausage meat and pancetta. Fry until golden brown, stirring every few minutes. Don’t worry if you get some sticky, crunchy bits — it’s all flavour.

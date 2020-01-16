@@ -2,11 +2,13 @@
 
 title: Pasta Puttanesca
 yield: serves 4
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 15 Minutes
 cuisine: Italian
-tags: [pasta, sauce]
+season: winter
+effort: easy
+tags: [pasta]
 image: images/pasta-puttanesca.jpg
 description: This homestyle sauce, made with pantry staples.
 ingredients:
@@ -26,7 +28,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat oil in a frying pan and saute onion. Add chilli, anchovies, tomatoes, passata, water, capers, sun-dried tomatoes and olives and cook over a medium heat for 15 minutes, stirring occasionally.
 2. Cook pasta in a pot of boiling salted water until al dente. Drain, reserving half a cup of pasta water.

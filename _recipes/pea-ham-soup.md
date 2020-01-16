@@ -2,10 +2,11 @@
 
 title: Pea & Ham Soup
 yield: serves 8
-category: soup
+categories: soup
 prep-time: 10 Minutes
 cooking-time: 4-8 Hours
 inactive prep-time: Overnight
+cuisine: Australian
 tags: [pea, ham]
 image: images/pea-ham-soup.jpg
 description: You have to start this one the night before, but the final result is well worth the effort!
@@ -22,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Place the peas in a large bowl and cover with cold water. Cover and set aside overnight to soak.
 2. The next day, drain the peas and transfer them to a large saucepan or slow cooker. Add the onion, carrot, (celery), stock and water. Stir to combine, then add the kaiserfleisch.

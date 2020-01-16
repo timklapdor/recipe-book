@@ -2,10 +2,16 @@
 
 title: All-in-One Brekkie
 yield: serves 6
-category: breakfast
+categories: breakfast
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
-tags: [bacon,egg,sausage]
+cuisine: Australian
+tags:
+- bacon
+- eggs
+- sausage
+season: all-year
+effort:: easy
 image: /images/all-in-one-brekkie.jpg
 description: Breakfast done in the oven
 original-source: taste.com
@@ -20,8 +26,6 @@ ingredients:
 - toast, buttered, to serve
 
 ---
-
-### Directions
 
 1. Preheat oven to 200°C.
 2. Arrange the sausages and mushrooms in a large roasting pan. Drizzle over oil and season with salt and pepper. Bake in the oven, turning once, for 10 minutes.

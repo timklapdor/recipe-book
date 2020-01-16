@@ -2,11 +2,14 @@
 
 title: Pesto with Chicken & Zucchini
 yield: serves 4
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 20 Minutes
 cuisine: Italian
-tags: [pasta, chicken, zucchini,]  
+tags:
+- pasta
+- chicken
+- zucchini
 image: images/pesto-chicken-zucchini.jpg
 description: Family-friendly combo of pesto and pasta that's ready in 25 minutes.
 ingredients:
@@ -23,7 +26,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Cook the pasta in a large saucepan of salted boiling water following packet directions or until al dente. Drain and return to the pan.
 2. Meanwhile, heat a large non-stick frying pan over medium-high heat. Spray with olive oil spray to grease. Add the zucchini, mushrooms, chicken and garlic, and cook, stirring occasionally, for 2 minutes or until the zucchini is tender.

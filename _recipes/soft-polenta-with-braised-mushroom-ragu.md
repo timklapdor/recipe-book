@@ -2,7 +2,7 @@
 
 title: Soft Polenta with Braised Mushroom Ragu
 yield: serves 6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 45 Minutes
 cuisine: Italian
@@ -23,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat 2 litres of water until nearly boiling then add the salt and sprinkle in the polenta, stirring constantly. Bring to the boil then turn down and simmer very gently. Stir often, using a flat-bottomed wooden spatula, for at least 40 minutes though an hour is even better. I stir every few minutes, keeping a lid on in-between to stop it splattering. If it becomes hard to stir, add a little more water. Fold in the butter and cheese until melted and taste for seasoning. Serve immediately with the braised mushrooms, below.
 2. Heat the butter and fry the onions until soft, add the garlic and give it another minute. Toss in the mushrooms and some salt and fry as well as you can until they soften right down. Add the red wine boil until nearly dry, then stir in the tomatoes, a good grind of pepper and boil down until thick and rich. Add some sage or basil for flavour if you like. Serve over the polenta.

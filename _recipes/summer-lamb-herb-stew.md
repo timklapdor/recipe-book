@@ -2,9 +2,10 @@
 
 title: Summer Lamb & Herb Stew
 yield: serves 4
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hours 40 Minutes
+cuisine: Australian
 tags: [slow cooker, lamb, casserole]
 image: images/summer-lamb-herb-stew.jpg
 description: A great, light and spicy stew.
@@ -22,7 +23,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat the oven to 190°C. Heat 1 tbsp olive oil in a non-stick, lidded casserole. Brown the lamb all over then remove from the pan. Add the aubergine and another tablespoon of oil and cook until browned and softened a bit. Scoop out the aubergine then add the onion and garlic and cook until softened.
 2. Add the lamb and Egpplant with the Harissa, tomatoes and stock. Bring to a simmer then put on a lid and cook in the oven for 1½ hours until the lamb and aubergine are tender. Stir in the parsley and lemon. Good with new potatoes or rice.

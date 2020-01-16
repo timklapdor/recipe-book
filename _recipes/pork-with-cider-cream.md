@@ -2,9 +2,10 @@
 
 title: Pork With Cider & Cream
 yield: serves 6
-category: main
+categories: main
 prep-time: 30 Minutes
 cooking-time: 2 Hour 30 Minutes
+cuisine: French
 tags: [pork, beans, cider,]
 image: images/pork-with-cider-cream.jpg
 description: Savour each bite of this pork, leek and broad bean dish that's doused in cider and spiked with tarragon.
@@ -23,7 +24,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1.  Preheat oven to 180°C. Place the flour on a plate. Add the pork and toss to coat. Shake off excess. Season with salt and pepper.
 2. Heat one-third of the oil in a flameproof casserole dish or large frying pan over medium heat. Add one-quarter of the pork. Cook for 2-3 minutes each side or until browned. Transfer to a large plate. Repeat, in 3 more batches, with remaining oil and pork, reheating the dish between batches.

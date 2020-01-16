@@ -2,11 +2,15 @@
 
 title: Curry Spiced Eggplant
 yield: serves 4
-category: side
+categories: main
 prep-time: 5 Minutes
 cooking-time: 35 Minutes
-cuisine: [Indian,Vegetarian]
-tags: [curry,Vegetarian, eggplant]
+cuisine: [Indian, Vegetarian]
+tags:
+- curry
+- eggplant
+effort: medium
+season:
 image: images/curry-spiced-eggplant.jpg
 description: Spiced eggplant dish.
 tested: false
@@ -28,7 +32,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat 2 ½ tablespoons of the sunflower oil in a large frypan over medium-high heat. Cook half the eggplant for 3-5 minutes, stirring occasionally, until golden brown and tender. Remove and drain on paper towel. Repeat with another 2 ½ tbs of oil and remaining eggplant. Remove from heat, season with salt to taste, then stir through coriander and set aside.
 2. Heat remaining 1 tbs of oil in a large saucepan over medium-low heat. Cook curry leaves, cumin, mustard seeds, fenugreek, onion, garlic, ginger and chilli for 6-8 minutes, stirring occasionally, until onion is soft. Add the curry powder, tumeric and masala, stirring vigorously to combine. Cook for a further minute then add the eggplant and ½ cup water and stir to combine.

@@ -1,0 +1,11 @@
+<section class="feature {% if item.full-screen == true %}full-screen{% endif %}" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient-corner}} {{item.gradient-side}}, rgba({{ item.gradient-color1 }}), rgba({{ item.gradient-color2 }})), url({{ site.baseurl }}{{ item.image }})">
+  {% for section in item.text-area %}
+    <div class="feature {{ section.size }}" {% for item in section.background %} style="transform-style: preserve-3d; background-image: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url({{ site.baseurl }}{{ section.background }});" {% endfor %}>
+      {% for item in section.image %}<img src="{{ section.image }}" alt="{{ section.image-title }}"> {% endfor %}
+      {% for item in section.heading %}<h3>{{ section.heading }}</h3>{% endfor %}
+      {% for item in section.lead %}<div class="lead">{{ section.lead | markdownify }}</div>{% endfor %}
+      {% for item in section.text %}{{ section.text | markdownify }}{% endfor %}
+      {% for item in section.button %}<a href="{{ section.button-link }}" aria-label="Navigation Link" class="{{ section.button-class }} call-to-action">{{ item }}</a> {% endfor %}
+    </div>
+  {% endfor %}
+</section>

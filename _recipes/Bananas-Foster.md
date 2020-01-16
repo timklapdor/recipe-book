@@ -5,7 +5,11 @@ yield: serves 4
 categories: dessert
 prep-time: 5 Minutes
 cooking-time: 10 Minutes
-tags:  [bananas, caramel]
+cuisine: Australian
+tags:
+- bananas
+- caramel
+effort: easy
 image: images/banana-foster.jpg
 description: Easy and tasty fruity dessert.
 ingredients:
@@ -18,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Slice the bananas and set them aside.
 2. Heat a frypan over medium heat and add the butter and light brown sugar. Stir until ingredients are incorporated and simmering.

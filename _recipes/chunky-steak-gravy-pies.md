@@ -6,7 +6,11 @@ categories: main
 prep-time: 10 Minutes
 cooking-time: 2 Hours 15 Minutes
 cuisine: Australian
-tags: [beef, steak, pie]
+tags:
+- beef
+- steak
+- pie
+effort:
 image: images/chunky-steak-gravy-pies.jpg
 description: A classic bakery favourites.
 ingredients:
@@ -27,7 +31,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat half the oil in a saucepan over high heat. Cook beef, in batches, for 3 to 4 minutes or until browned. Transfer to a bowl.
 2. Heat remaining oil in pan. Add onion and garlic. Cook, stirring, for 3 minutes or until softened. Return beef to pan. Add flour. Cook, stirring, for 1 minute. Add gravy powder, sauce and 2 cups cold water. Cover. Bring to the boil. Reduce heat to low. Simmer for 45 minutes.

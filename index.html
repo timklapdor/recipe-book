@@ -1,65 +1,15 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-{% assign types = site.recipes | map: 'categories' | join: ','  | split: ',' | sort %}
 
-
-{% assign previousTag = "" %}
-{% assign counter = 0 %}
-
-<h2>Meals</h2>
-<ul>
-{% for currentTag in types %}
-
-  {% comment %}first loop : initializing previousTag{% endcomment %}
-  {% if previousTag == "" %}
-    {% assign previousTag = currentTag %}
-  {% endif %}
-
-  {% if currentTag == previousTag %}
-    {% assign counter = counter | plus: 1 %}
-  {% else %}
-  <li style="display: inline; background-color: red; color: #fff; padding: .25em; ">{{ previousTag | capitalize }} has {{ counter }} recipes</li>
-    {% assign counter = 1 %}
-  {% endif %}
-
-  {% comment %}last loop : flushing what's left to print{% endcomment %}
-  {% if forloop.last %}
-    <li style="display: inline; background-color: red; color: #fff; padding: .25em; ">{{ currentTag | capitalize }} has {{ counter }} recipes</li>
-  {% endif %}
-
-  {% assign previousTag = currentTag %}
-
-{% endfor %}
-</ul>
-
-<h2>Cuisine</h2>
-
-{% assign cuisine = site.recipes | map: 'cuisine' | join: ','  | split: ',' | uniq | sort %}
-<ul>{% for item in cuisine %}
-  <li style="display: inline; background-color: green; color: #fff; padding: .25em; ">{{ item  | capitalize }}</li>
-{% endfor %}
-</ul>
-
-<h2>Tags</h2>
-{% assign tags = site.recipes | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
-<ul>{% for item in tags %}
-  <li style="display: inline; background-color: blue; color: #fff; padding: .25em; ">{{ item  | capitalize }}</li>
-{% endfor %}
-</ul>
-
-<hr />
-<br>
-<br>
-
+<article class="gridup">
 {% assign all-recipes = site.recipes | sort: 'title' %}
 {% for item in all-recipes %}
-  <h2>{{ item.title }}</h2>
-  <p>{{ item.description }} <img src="{{ item.image }}"/ width="300px"></p>
-  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
-
-  <hr>
+  <section>
+      <a href="{{ site.baseurl }}/{{ item.url }}" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url({{ site.baseurl }}/{{ item.image }}); background-position: center center; background-size: cover;">
+      <h2>{{ item.title }}</h2>
+      <p>{{ item.description }}</p>
+    </a>
+  </section>
 {% endfor %}
+</article>
