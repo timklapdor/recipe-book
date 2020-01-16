@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Combine coconut milk, curry paste, fish sauce, sugar and lemongrass in a large saucepan. Bring to the boil over medium/high heat. Cook, uncovered, for 10 to 15 minutes or until sauce thickens slightly.
 2. Stir pork, chillies, lime leaves and peanuts into curry mixture. Bring to the boil. Reduce heat to low and simmer, uncovered, stirring often, for 1 hour 20 minutes or until pork is tender.

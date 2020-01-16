@@ -4,8 +4,10 @@ title: Classic Coleslaw
 yield: serves 4
 categories: salad
 prep-time: 15 Minutes
-cuisine: [Vegetarian]
-tags: [cabbage,Vegetarian,]
+cuisine: Vegetarian
+effort:: easy
+tags:
+- cabbage
 image: images/classic-coleslaw.jpg
 description: Crunchy fresh coleslaw
 ingredients:
@@ -18,9 +20,6 @@ ingredients:
 - 1 tbsp dijon mustard
 
 ---
-
-
-### Directions
 
 1. Place cabbage, carrot and onion in a large bowl. Toss to combine.
 2. Combine horseradish cream, mayonnaise, lemon juice and mustard in a bowl. Add to cabbage mixture. Season with salt and pepper.

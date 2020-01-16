@@ -2,10 +2,10 @@
 
 title: Vegetable Curry
 yield: serves 4-6
-category: main
+categories: main
 prep-time: 10 Minutes
 cooking-time: 35-45 Minutes
-cuisine: [Indian,Vegetarian]
+cuisine: [Indian, Vegetarian]
 tags: [vegetarian, curry]
 image: images/vegetable-curry.jpg
 description: Rich vegetarian curry.
@@ -34,7 +34,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat the oil in a large deep frying pan over high heat. Add the potatoes and cook, stirring often, for 5 minutes, or until golden brown. Using a slotted spoon, transfer to paper towels to drain.
 2. Reduce the heat to medium. Add the cardamom pods, cloves, cinnamon, and cumin seeds and stir until the spices are very fragrant. Add the onion and cook, stirring often, for about 5 minutes, or until softened. Add the ginger, garlic, turmeric, and coriander, and season with salt and pepper. Stir for 1 minute.

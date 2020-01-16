@@ -5,7 +5,12 @@ yield: serves 6
 categories: side
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
-tags: [greens, bacon, vegetables, winter]
+cuisine: German
+tags:  
+- bacon
+- greens
+season: winter
+effort: easy
 image: images/braised-winter-greens.jpg
 description: Braised greens make a perfect accompaniment dish.
 ingredients:
@@ -19,7 +24,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat the oil in a large deep frying pan over medium heat. Add the pork and cook, stirring occasionally, for 2 minutes or until golden.
 2. Add the leek and cook, stirring, for 2 minutes. Add the witlof and cook, stirring, for 3-4 minutes.

@@ -2,7 +2,7 @@
 
 title: Rice & Herb Salad
 yield: serves 6
-category: salad
+categories: salad
 prep-time: 15 Minutes
 cooking-time: 30 Minutes
 cuisine: Vegetarian
@@ -25,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Cook the Rice and then set aside for 10 minutes to cool. Spread the rice over a large baking tray. Set aside to cool completely.
 2. Meanwhile, place the coconut in a non-stick frying pan over medium-low heat. Cook, stirring, for 1-2 minutes or until toasted.

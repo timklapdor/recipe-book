@@ -2,8 +2,9 @@
 
 title: Rice Salad with Chickpeas, Avocado & Roast Capsicum
 yield: serves 4
-category: salad
+categories: salad
 prep-time: 30 Minutes
+cuisine: Vegetarian
 tags: [salad, rice, chick pea]
 image: images/rice-salad-chickpeas-avocado.jpg
 description: Each mouthful of this quick and colourful salad has crunchy pecans, sweet roast capsicum and healthy brown rice.
@@ -21,8 +22,6 @@ ingredients:
 - 4 pieces of Lebanese bread
 
 ---
-
-### Directions
 
 1. Cook the rice following directions. Set aside to cool.
 2. Meanwhile, combine the oil, lemon juice and sugar in a small jug. Season with salt and pepper.

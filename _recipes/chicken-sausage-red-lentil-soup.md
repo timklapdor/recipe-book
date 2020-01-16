@@ -5,7 +5,13 @@ yield: serves 4
 categories: soup
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
-tags: [chicken, sausage, lentil]
+cuisine: Australian
+effort: medium
+season: winter
+tags:
+- chicken
+- sausage
+- lentils
 image: images/chicken-sausage-red-lentil-soup.jpg
 description: A rich soup with tomato, oregano and tasty bites of sausage.
 tested: false
@@ -24,7 +30,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat the oil in a large saucepan over medium heat. Add onion and garlic. Cook, stirring, for 1 minute or until onion softens.
 2. Add the water, tomato puree, lentils, vinegar and oregano. Cover. Bring to the boil. Reduce heat to low and uncover.

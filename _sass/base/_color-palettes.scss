@@ -1,0 +1,59 @@
+// User Interface Palette
+
+// Palette Colours
+
+$primary: #335C67;
+$secondary: #303036;
+$accent: #A4D100;
+$warning: #FFDC0B;
+$success: #318700;
+$page: #F8F8F8;
+
+//Neutrals
+
+$neutral-a: #BBBBBB;
+$neutral-l1: #E2E2E2;
+$neutral-l2: #F2F2F2;
+$neutral-d1: #4A4A4A;
+$neutral-d2: #323232;
+$rev: #ffffff;
+$blk: #000000;
+
+// Brand Pallette
+$brand-colors: (
+primary: $primary,
+secondary: $secondary,
+accent: $accent,
+warning: $warning,
+success: $success,
+);
+
+@each $color, $value in $brand-colors {
+  .#{$color}-text {color: $value;}
+  .#{$color}-l1 {background-color: mix(white, $value, 30%);}
+  .#{$color}-l2 {background-color: mix(white, $value, 85%);}
+  .#{$color}-a {background-color: $value; color: #fff;}
+  .#{$color}-d1 {background-color: mix(black, $value, 40%); color: #fff;}
+  .#{$color}-d2 {background-color: mix(black, $value, 50%); color: #fff;}
+  .#{$color}-blk {background-color: mix(black, $value, 80%); color: #fff;}
+  .#{$color}-trans-90 {background-color: transparentize($value, .9); color: #fff;}
+  .#{$color}-trans-70 {background-color: transparentize($value, .7); color: #fff;}
+  .#{$color}-trans-50 {background-color: transparentize($value, .5); color: #fff;}
+  .#{$color}-trans-30 {background-color: transparentize($value, .3); color: #fff;}
+  .#{$color}-trans-10 {background-color: transparentize($value, .1); color: #fff;}
+}
+
+.neutral-l1 {background-color: $neutral-l1;}
+.neutral-l2 {background-color: $neutral-l2;}
+.neutral-a {background-color: $neutral-a; color: #fff;}
+.neutral-d1 {background-color: $neutral-d1; color: #fff;}
+.neutral-d2 {background-color: $neutral-d2; color: #fff;}
+.blk {background-color: $blk; color: $rev;}
+.rev {background-color: $rev; color: $blk;}
+
+// Overlays
+
+$overlay-1: linear-gradient(to left, rgba($blk, .1), rgba($blk, .1));
+$overlay-3: linear-gradient(to left, rgba($blk, .2), rgba($blk, .2));
+$overlay-2: linear-gradient(to left, rgba($rev, .1), rgba($rev, .1));
+$overlay-4: linear-gradient(to left, rgba($rev, .2), rgba($rev, .2));

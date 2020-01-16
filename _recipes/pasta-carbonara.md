@@ -2,11 +2,16 @@
 
 title: Pasta Carbonara
 yield: serves 6
-category: main
+categories: main
 prep-time: 5 Minutes
 cooking-time: 15 Minutes
 cuisine: Italian
-tags: [pasta, mushroom, bacon, cream,]
+tags:
+- pasta
+- mushroom
+- bacon
+season: winter & spring
+effort: low
 image: images/pasta-carbonara.jpg
 description: Creamy, rich Carbonara with an added smokey flavour.
 ingredients:
@@ -25,7 +30,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Bring a pot of water to the boil and add the Salt. Once boiled add the Spaghetti and cook as per directions.
 2. Heat the oil in a man and fry off the Bacon. Add the Garlic to the pan and once fragrant, add the Mushrooms. Once the Mushrooms are softened add the Paprika and cook for a minute. Deglaze the pan with the White Wine and stir the mixture.

@@ -1,12 +1,16 @@
 ---
 
-title: Middle Eastern-style Lamb Shanks with Saffron Rice
+title: Middle Eastern Lamb Shanks with Saffron Rice
 yield: serves 4
-category: main
+categories: main
 prep-time: 20 Minutes
 cooking-time: 1 Hour 50 Minutes
 cuisine: Middle Eastern
-tags: [lamb, rice]
+tags:
+- lamb
+- rice
+season: winter & Spring
+effort: medium
 image: images/middle-eastern-style-lamb-shanks.jpg
 description: Rich meaty dish full of spice and flavour.
 tested: false
@@ -30,8 +34,6 @@ ingredients:
 - 95g flame raisins
 
 ---
-
-### Directions
 
 1. Heat the oil in a stockpot over medium-high heat. Add the lamb shanks and cook, turning, for 5 minutes or until brown. Transfer to a plate. Add the onion and garlic to the pan and cook, stirring, for 3 minutes or until soft. Add the cumin, ground coriander, cinnamon and turmeric and cook, stirring, for 30 seconds or until aromatic.
 2. Return the lamb shanks to the pan with the stock and tomato. Bring to the boil. Reduce heat to medium-low and simmer, covered, for 1 hour. Uncover and cook, stirring, for 30 minutes or until the lamb is tender. Transfer the lamb shanks to a plate and cover with foil to keep warm. Increase heat to high and bring the stock mixture to the boil. Boil, uncovered, for 10-15 minutes or until the sauce thickens.

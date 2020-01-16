@@ -2,10 +2,15 @@
 
 title: Goulash Pie
 yield: serves 4
-category: main
+categories: main
 prep-time: 20 Minutes
 cooking-time: 2 Hours
-tags: [beef, pie, goulash, potato]
+cuisine: Hungarian
+tags:
+- beef
+- pie
+season: winter
+effort: medium
 image: images/goulash-pie.jpg
 description: This hearty pie will satisfy even the hungriest of diners.
 original-source: Taste
@@ -27,7 +32,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Place flour in a bowl. Season with salt and pepper. Add steak. Toss to coat.
 2. Heat 1 tablespoon oil in a frying pan over medium-high heat. Cook steak, in small batches, for 2 to 3 minutes or until browned, adding extra oil if necessary. Transfer to a bowl.

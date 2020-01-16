@@ -2,11 +2,15 @@
 
 title: Lemon and chicken slow-cooker soup
 yield: serves 4
-category: soup
+categories: soup
 prep-time: 10 Minutes
 cooking-time: 6 hours
 cuisine: greek
-tags:  [soup, chicken, slowcooker]
+tags:
+- chicken
+- slowcooker
+effort: low
+season: winter
 image: images/lemon-chicken-soup.jpg
 description: Warm up with this creamy Greek lemon and chicken slow-cooker soup.
 ingredients:
@@ -22,8 +26,6 @@ ingredients:
 - Lemon zest, to serve
 
 ---
-
-### Directions
 
 1. Place the chicken, stock, 3 1/2 cups water, bay leaves, garlic and rice in a slow cooker. Cover with lid. Cook on LOW for 6 hours (or HIGH for 3 hours) or until chicken is tender.
 2. Using tongs, transfer chicken to a heatproof bowl. Using 2 forks, shred chicken. Remove and discard bay leaves.

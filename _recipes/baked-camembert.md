@@ -6,7 +6,10 @@ categories: snack
 prep-time: 1 Minutes
 cooking-time: 10-15 Minutes
 cuisine: French
-tags: [cheese, camembert]
+tags:
+- cheese
+- baked
+effort: easy
 image: /images/baked-camembert.jpg
 description: Baked Cheese, need I say more?
 ingredients:
@@ -16,8 +19,6 @@ ingredients:
 - accompany with fresh fruit and nuts
 
 ---
-
-### Directions
 
 1. Preheat the oven to 180C.
 2. Remove the cheese from its packaging. Cut a circle of baking paper 2cm larger in diameter than the cheese and place the wheel of camembert on it.

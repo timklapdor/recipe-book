@@ -2,7 +2,7 @@
 
 title: Red Rice & Beans
 yield: serves 6
-category: side
+categories: side
 prep-time: 15 Minutes
 cooking-time: 30 Minutes
 cuisine: Vegetarian
@@ -20,7 +20,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Heat the oil in a large saucepan over medium heat. Add the rice and cumin seeds, and cook, stirring, for 2-3 minutes or until the rice is heated through. Add the tomato paste and paprika, and cook, stirring, for 1 minute or until aromatic.
 2. Add the stock and bring to a simmer. Reduce heat to low. Cover. Cook for 15 minutes or until the rice is almost tender.

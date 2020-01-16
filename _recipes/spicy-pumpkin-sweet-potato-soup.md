@@ -2,10 +2,11 @@
 
 title: Spicy Pumpkin & Sweet Potato Soup
 yield: serves 4
-category: soup
+categories: soup
 prep-time: 30 Minutes
 cooking-time: 30 Minutes
-tags: [pumpkin, soup, sweet potato] 
+cuisine: Australian
+tags: [pumpkin, soup, sweet potato]
 image: images/spicy-pumpkin-sweet-potato-soup.jpg
 description: A spicy rich take on Pumpkin Soup.
 ingredients:
@@ -23,8 +24,8 @@ ingredients:
 
 ---
 
-### Directions
 
-1.  Heat half the oil in a large saucepan over medium-low heat. Add the onion and chilli, stirring occasionally, for 5 minutes or until soft. Add half the ginger and cook, stirring, for 2 minutes. Add the pumpkin, sweet potato and half the cumin and cook, stirring, for 2 minutes or until aromatic. 
-2. Increase heat to high. Add the stock and coconut cream. Bring to the boil. Reduce heat to medium-low. Simmer for 15 minutes or until the pumpkin and sweet potato are very tender. Set aside to cool slightly. Transfer to the jug of a blender and blend until smooth. Season with salt and pepper. 
+
+1.  Heat half the oil in a large saucepan over medium-low heat. Add the onion and chilli, stirring occasionally, for 5 minutes or until soft. Add half the ginger and cook, stirring, for 2 minutes. Add the pumpkin, sweet potato and half the cumin and cook, stirring, for 2 minutes or until aromatic.
+2. Increase heat to high. Add the stock and coconut cream. Bring to the boil. Reduce heat to medium-low. Simmer for 15 minutes or until the pumpkin and sweet potato are very tender. Set aside to cool slightly. Transfer to the jug of a blender and blend until smooth. Season with salt and pepper.
 4. Ladle the soup among serving bowls. Top with the coconut mixture. Serve with the cumin bread and yoghurt, if desired.

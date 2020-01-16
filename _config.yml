@@ -1,32 +1,75 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Recipe Book
-email: your-email@example.com
-description: A collection of favourite recipes.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: timklapdor
-github_username:  timklapdor
+email:
+description: "My recipe collection." # Be descriptive
+keywords:
+  - jekyll
+
+# URL
+# url:
+baseurl: /recipe-book
+
+# plugins
+#plugins:
+#  - "jekyll-github-metadata" # Helps resolves issues with baseurl and github pages. Use baseurl in links and this will resolve the correct base
+
+#social
+logo: assets/images/recipe-book-rev.svg
+image: assets/images/recipe-book-logo.png
+social-twitter:
+social-facebook:
+social-linkedin:
+social-github:
+
+
+#contacts
+contact-email: ''
+contact-address: ''
+contact-phone: ''
+
+#Timezone
+timezone: Australia/Sydney
+
+#Colors
+## Need to be added to SCSS file - color-palettes
+colors:
+  - primary: 243,170,57,1
+  - secondary: 21,56,108,1
+  - accent: 217,47,79,1
+  - warning: FFDC0B;
+  - success: 318700;
+
+# Fonts
+## Need to be specifid in SCSS file - type-settings
+fonts: https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700
+
+# Maps
+google_maps_javascript_api_key: ''
+location:
+  - lat: ''
+    long: ''
+    zoom: ''
+    title: ''
+    description: ''
+    address:
+
+# Contact Form API from 99inbound
+99inbound:
+
+# sass:
+#  style: compressed
+
+# encoding
+encoding: utf-8
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 
+# Setup for pages
+include: ["_pages"]
+permalink: /:year/:title.html
+
+# Setup for Categories
 collections:
   recipes:
     output: true
@@ -38,15 +81,3 @@ defaults:
       type: recipes
     values:
       layout: recipes
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

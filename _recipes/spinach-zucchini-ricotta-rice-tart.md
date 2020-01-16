@@ -2,7 +2,7 @@
 
 title: Spinach, Zucchini & Ricotta Rice Tart
 yield: serves 4
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 50 Minutes
 cuisine: [Vegetarian]
@@ -25,7 +25,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Bring rice and chicken stock to the boil in a large saucepan. Reduce heat to medium and cook, covered, for 15 minutes. Remove from heat and stand, covered, for 5 minutes. Spoon onto a baking tray and set aside to cool.
 2. Meanwhile, halve 2 zucchini lengthways and thickly slice. Heat half of oil in a large frying pan over medium-high heat. Cook sliced zucchini and garlic, stirring, for 8 minutes or until golden and just tender. Set aside to cool.

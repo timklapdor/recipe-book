@@ -2,11 +2,12 @@
 
 title: Vegetarian Pâté With Roasted Cauliflower and Pecans Recipe
 yield: 4 cups
-category: Vegetarian
+categories: snack
 prep-time: 30 Minutes
 cooking-time: 30 Minutes
 cuisine: [Vegetarian]
-tags: [cauliflower,Vegetarian, pate]
+tags:
+- cauliflower
 image: images/vegetarian-pate.jpg
 description: The meaty texture and flavour comes from roasted cauliflower, while pecans help thicken the purée to a pâté-like consistency. Splashes of brandy and soy sauce add even more savoury depth.
 tested: false
@@ -26,7 +27,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. In a bowl, cover pecans with at least 1 inch water and let soak for 1 hour.
 2. Meanwhile, adjust oven rack to middle position and preheat oven to 260°C. Place cauliflower on a foil-lined rimmed baking sheet, toss with olive oil, and season with salt and pepper. Roast, flipping cauliflower with a thin metal spatula halfway through roasting, until tender and deeply browned on both sides, about 20 minutes total.

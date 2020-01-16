@@ -1,0 +1,6 @@
+<section class="no-flick hero brand {{ item.size }}" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient-corner}} {{item.gradient-side}}, rgba({{ item.gradient-color1 }}), rgba({{item.gradient-color2 }})) {% for image in item.image %}, url({{ image }}){% endfor %}">
+  {% include brand.html %}
+  <div class="tagline {{ item.tagline-position }}">
+    {% for text in item.promo-text %}<h3 class="promo">{{ text }}</h3>{% endfor %}
+  </div>
+</section>

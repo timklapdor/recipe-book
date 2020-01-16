@@ -2,10 +2,10 @@
 
 title: Rice & Peas
 yield: serves 6
-category: side
+categories: side
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
-cuisine: [Caribbean,Vegetarian]
+cuisine: [Caribbean, Vegetarian]
 tags: [rice, beans, coconut,Vegetarian]
 image: images/rice-peas.jpg
 description: Rich coconut rice is the perfect accompaniment to spicy food.
@@ -20,6 +20,6 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Rinse the rice in plenty of cold water, then tip it into a rice cooker with all the remaining ingredients. Season with a little salt.

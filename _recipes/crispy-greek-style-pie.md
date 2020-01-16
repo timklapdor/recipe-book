@@ -1,11 +1,16 @@
 ---
+
 title: Crispy Greek-Style Pie
 yield: serves 4
 categories: main
 prep-time: 15 Minutes
 cooking-time: 30 Minutes
-cuisine: [Greek,Vegetarian]
-tags: [vegetarian, spinach]
+cuisine: [Greek, Vegetarian]
+tags:
+- spinach
+- pie
+season: Spring & Summer
+effort:
 image: images/crispy-greek-style-pie.jpg
 description: A crispy pie that you can adapt for your needs, add chicken or keep it veggie.
 ingredients:
@@ -17,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Put the spinach into a large pan. Pour over a couple tbsp water, then cook until just wilted. Tip into a sieve, leave to cool a little, then squeeze out any excess water and roughly chop.
 2. Roughly chop the tomatoes and put into a bowl along with the spinach, feta and eggs. Mix well.

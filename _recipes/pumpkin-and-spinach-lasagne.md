@@ -2,10 +2,10 @@
 
 title: Pumpkin and Spinach Lasagne
 yield: serves 4
-category: main
+categories: main
 prep-time: 15 Minutes
 cooking-time: 55 Minutes
-cuisine: Italian
+cuisine: [Italian, Vegetarian]
 tags: [pasta, pumpkin, spinach,Vegetarian]
 image: images/pumpkin-spinach-lasagne.jpg
 description: Creamy and cheesy vegetarian lasagne
@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 180°C. Rinse spinach in cold water. Place, with water clinging, in a microwave-safe dish. Cover and microwave on HIGH (100%) for 2 minutes or until wilted. Remove cover. Allow to cool for 5 minutes. Drain. Squeeze to remove excess water. Set spinach aside.
 2. Combine cream, ricotta, egg yolks and 1 cup parmesan in a bowl. Season with salt and pepper. Stir until well combined.

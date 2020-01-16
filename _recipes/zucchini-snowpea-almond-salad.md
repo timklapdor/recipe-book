@@ -1,8 +1,8 @@
 ---
 
-title: Shaved Zucchini, Snowpea and Almond Salad
+title: Zucchini, Snowpea and Almond Salad
 yield: serves 4
-category: salad
+categories: salad
 prep-time: 15 Minutes
 tags: [salad, zucchini, snowpea, greens]
 image: /images/zucchini-snowpea-almond-salad.jpg
@@ -22,7 +22,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. For the dressing, put the lemon juice, half the zest, honey, soy sauce, mustard and oil into a small jar. Seal the lid, give it a quick shake, season and put aside until needed.
 2. Using a mandolin or sharp knife, thinly slice the zucchini, then cut the snowpeas into thin strips and put the vegetables into a salad bowl.

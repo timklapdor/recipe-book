@@ -1,0 +1,12 @@
+<section class="card-grid ">
+  {% for item in page.grid-items %}
+  <article>
+    <div class="thumb" style="background-image: url(assets/images/{{ item.image}})"></div>
+    <h3>{{ item.heading }}</h3>
+    <p>{{ item.text}}</p>
+    <a href="" class="{{ item.button-class }} call-to-action" aria-label="Card Link">
+      {{ item.button-text }}
+    </a>
+  </article>
+  {% endfor %}
+</section>

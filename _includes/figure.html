@@ -1,0 +1,10 @@
+<figure class="{{ include.class }}">
+   {% if include.url %}
+    <a href="{{ include.url }}" aria-label="Image Link">
+      <img src="{{ site.basurl }}{{ include.file }}" style="max-width: {{ include.max-width }}%;" alt="{{ include.alt }}"/>
+    </a>
+   {% else %}
+    <img src="{{ site.basurl }}{{ include.file }}" style="max-width: {{ include.max-width }}%;" alt="{{ include.alt }}" title="{{ include.alt }}"/>
+   {% endif %}
+   <figcaption>{{ include.caption }}</figcaption>
+</figure>

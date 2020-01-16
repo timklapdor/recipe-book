@@ -5,7 +5,12 @@ yield: serves 6
 categories: main
 prep-time: 10 Minutes
 cooking-time: 30 Minutes
-tags: [chicken, leek, risoni, winter]
+cuisine: Australian
+tags:
+- chicken
+- leek
+season: all-year
+effort:
 image: images/chicken-leek-casserole.jpg
 description: Flavoursome and morish one pot dish.
 original-source: taste.com
@@ -28,7 +33,7 @@ ingredients:
 
 ---
 
-### Directions
+
 
 1. Preheat oven to 160°C
 2. Add leek, bacon and garlic to pan. Cook, stirring occasionally, for 3 to 4 minutes or until leek is tender.

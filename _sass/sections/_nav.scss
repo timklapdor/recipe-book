@@ -1,0 +1,138 @@
+nav {
+  flex: 2 2 100%;
+  order: 1;
+}
+
+#menu {
+  display: none;
+  transition: all 0.5s ease;
+ -webkit-transform: translateZ(0);
+}
+
+nav ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  justify-content: center;
+}
+
+nav ul li{
+  list-style-type: none;
+  background: $primary;
+}
+
+nav ul li a {
+  padding: 1em 1.5em;
+  text-transform: uppercase;
+  font-weight: 700;
+  display: block;
+  text-decoration: none;
+  color:#f9f9f9;
+  text-align: center;
+}
+
+.dropdown ul {
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dropdown ul a {
+  font-size: 80%;
+  border-top: 1px solid rgba($blk, .1);
+  background: darken($primary, 20%);
+}
+
+nav ul li:hover, .dropdown ul a:hover {
+  background-image: $overlay-1;
+}
+
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+  padding: 1em 2em;
+  text-transform: uppercase;
+  display: block;
+  text-decoration: none;
+  color: $rev;
+  text-align: center;
+  display: block;
+  cursor: pointer;
+}
+
+
+/*Hide checkbox*/
+input[type=checkbox]{
+    display: none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+input[type=checkbox]:checked ~ #menu{
+    display: flex;
+}
+
+label.show-menu:hover{
+  background: darken($primary, 20%);
+  }
+
+@media only screen and (max-width:480px){
+
+
+  .dropdownul li a{
+    padding-left:2rem;
+  }
+
+  .dropdown ul .dropdown ul a{
+    padding-left: 3rem;
+  }
+nav ul li:hover, .dropdown ul a:hover {
+  background: darken($primary, 30%)
+}
+  .arrow-down::after{
+    content:"\f107";
+  }
+}
+
+@media only screen and (min-width:1000px){
+  nav {
+    flex: 1 1 20%;
+    order: 0;
+  }
+
+  nav #menu {
+    display: flex;
+  }
+
+  nav ul{
+    flex-direction:row;
+   justify-content:flex-end;
+  }
+  nav ul li{
+    position:relative;
+    flex:1 0 auto;
+    text-align:left;
+    background: none;
+  }
+  .show-menu {
+    display: none;
+  }
+
+  .dropdown > a:after {
+    content: '\2003+'
+  }
+
+  .dropdown ul, .dropdown ul .dropdown ul{
+    display: none;
+    width:100%;
+    position: absolute;
+    padding: 0;
+  }
+  .dropdown ul .dropdown ul{
+    left:100%;
+    top:0;
+  }
+  nav ul li:hover ul,  .dropdown ul .dropdown:hover ul{
+     display: flex;
+     flex-direction: column;
+
+}
+}
