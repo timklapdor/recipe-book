@@ -9,11 +9,13 @@ body {
   min-height: 100vh;
 }
 
+
 header, footer {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+	padding: 1em 0;
 }
 }
 

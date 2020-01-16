@@ -1,17 +1,17 @@
 # Site settings
-title: Jekyll Basics
-email: your-email@domain.com
-description: "Jekyll basics is a Jekyll Starter package. It creates a basic structure, CSS and HTML templates to get a site up quickly." # Be descriptive
+title: Recipe Book
+email:
+description: "My recipe collection." # Be descriptive
 keywords:
   - jekyll
 
 # URL
 # url:
-# baseurl: 'jekyll-basics' # the subpath of your site, e.g. /blog/
+baseurl: /recipe-book
 
 # plugins
-plugins:
-  - "jekyll-github-metadata" # Helps resolves issues with baseurl and github pages. Use baseurl in links and this will resolve the correct base
+#plugins:
+#  - "jekyll-github-metadata" # Helps resolves issues with baseurl and github pages. Use baseurl in links and this will resolve the correct base
 
 #social
 logo: assets/images/recipe-book-rev.svg

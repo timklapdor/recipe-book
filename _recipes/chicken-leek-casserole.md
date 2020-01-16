@@ -10,7 +10,7 @@ tags:
 - chicken
 - leek
 season: all-year
-effort: 
+effort:
 image: images/chicken-leek-casserole.jpg
 description: Flavoursome and morish one pot dish.
 original-source: taste.com
