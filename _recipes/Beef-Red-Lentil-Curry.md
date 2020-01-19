@@ -12,7 +12,7 @@ tags:
 - curry
 - beef
 - lentils
-image: images/beef-red-lentil-curry.jpeg
+image: images/beef-red-lentil-curry.jpg
 description: Rich beef and pulse curry.
 original-source: taste.com
 original-link: http://www.taste.com.au/recipes/beef-red-lentil-curry/ea9fa252-b027-4259-83c5-36b567bbf7ec

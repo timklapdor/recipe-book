@@ -10,7 +10,7 @@ tags:
 - melon
 - indian
 - chicken
-image: /images/tandoor-chichen-melon-salsa.jpeg
+image: /images/tandoor-chichen-melon-salsa.jpg
 description: "Indian style chicken with a refreshing spicy melon side."
 original-source: ""
 original-link: ""

@@ -11,7 +11,7 @@ tags:
 - beetroot
 - zucchini
 diet: [vegan, dairy, egg]
-image: /images/jewelled-vegetable-and-couscous-salad.jpeg
+image: /images/jewelled-vegetable-couscous-salad.jpg
 description: Just roast up some vegetables before hand to whip up a quick and hearty salad
 original-source: taste.com
 original-link: http://www.taste.com.au/recipes/jewelled-vegetable-couscous-salad-green-harissa-dressing/bdace738-d0fd-4cd5-8deb-9ab53eb6c293

@@ -9,7 +9,7 @@ cuisine: [Greek, Vegetarian]
 tags:
 - halloumi
 - rocket
-image: images/haloumi-rocket.jpeg
+image: images/haloumi-rocket.jpg
 description: An easy and delicious salad that's cooked in five minutes.
 ingredients:
 - 2 x 180g packets of Haloumi

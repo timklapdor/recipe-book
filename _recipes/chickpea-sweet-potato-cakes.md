@@ -11,7 +11,7 @@ season:
 tags:
 - sweet potato
 - chickpea
-image: /images/chickpea-and-sweet-potato-cakes.jpeg
+image: /images/chickpea-sweet-potato-cakes.jpg
 description: Quick & easy vegetarian meal
 original-source: taste.com
 original-link: http://www.taste.com.au/recipes/chickpea-sweet-potato-cakes/25ab4460-5600-499c-92bb-a02c377ceb32

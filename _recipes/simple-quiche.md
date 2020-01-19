@@ -7,7 +7,7 @@ prep-time: 10 Minutes
 cooking-time: 40 Minutes
 cuisine: French
 tags: [egg, bacon,]
-image: /images/simple-quiche.jpeg
+image: /images/simple-quiche.jpg
 description: A beautiful golden brown ham and cheese quiche that will delight the whole family.
 ingredients:
 - 125g bacon, chopped
