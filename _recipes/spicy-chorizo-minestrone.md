@@ -5,7 +5,7 @@ yield: serves 4
 categories: soup
 prep-time: 10 Minutes
 cooking-time: 30 Minutes
-cuisine: Spansih
+cuisine: Italian
 tags:
 - chorizo
 - pasta

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CiviCRM//NONSGML CiviEvent iCal//EN
+X-WR-TIMEZONE:UTC
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:CiviCRM_EventID_133_9bc1aaf81cd39ed45b504ba2db67349e@transformingassessment.com
+SUMMARY:2020: Online Knowledge Maps for Assessment and Fee
+ dback
+DESCRIPTION:Presenter: Prof. Gary Velan&nbsp\;(University of N
+ ew South Wales\, Australia).\n \n Concept and know
+ ledge maps have the potential to improve student l
+ earning and understanding by promoting meaningful 
+ learning and critical thinking. However\, providin
+ g manual feedback on students&rsquo\; maps is not 
+ feasible for large classes. Accordingly\, a user-f
+ riendly\, valid and reliable\, automated online to
+ ol for assessment and feedback of students&rsquo\;
+  maps might have significant benefits for learning
+ . Knowledge Maps is a web-based platform developed
+  at UNSW and integrated with Moodle. The platform 
+ can be used to create\, edit and share maps\, as w
+ ell as providing automate feedback on students&rsq
+ uo\; inputs. This webinar will describe the afford
+ ances of Knowledge Maps\, evidence of its effectiv
+ eness. The potential benefits of Knowledge Maps fo
+ r learning in a variety of disciplines might make 
+ this platform a useful addition to the digital ass
+ essment repertoire in higher education.\n \n To re
+ gister for this session please login (or create an
+  account) then click the &#39\;register now&#39\; 
+ button.\n \n Sessions are hosted by Professor Geof
+ frey Crisp\, DVC Academic\, University of Canberra
+  and Dr Mathew Hillier\, Australia.\n \n Please no
+ te all sessions are recorded and made public after
+  the event.
+CATEGORIES:Webinar
+CALSCALE:GREGORIAN
+DTSTAMP;VALUE=DATE-TIME:20200304T070000
+DTSTART;VALUE=DATE-TIME:20200304T070000
+DTEND;VALUE=DATE-TIME:20200304T080000
+URL:http://transformingassessment.com/civicrm/event/info?reset=1&id=133
+END:VEVENT
+END:VCALENDAR

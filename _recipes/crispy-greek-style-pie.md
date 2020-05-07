@@ -9,7 +9,7 @@ cuisine: [Greek, Vegetarian]
 tags:
 - spinach
 - pie
-season: Spring & Summer
+season: [spring, summer]
 effort:
 image: images/crispy-greek-style-pie.jpg
 description: A crispy pie that you can adapt for your needs, add chicken or keep it veggie.

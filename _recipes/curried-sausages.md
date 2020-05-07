@@ -5,7 +5,7 @@ yield: serves 4
 categories: main
 prep-time: 5 Minutes
 cooking-time: 30 Minutes
-cuisine: Indian
+cuisine: Australian
 season:
 effort: medium
 tags:

@@ -5,7 +5,7 @@ yield: serves 8
 categories: main
 prep-time: 10 Minutes
 cooking-time: 25 Minutes
-cuisine: Italian
+cuisine: Vegetarian
 effort: easy
 season:
 tags:

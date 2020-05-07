@@ -8,7 +8,7 @@ cooking-time: 5 Minutes
 cuisine: [Vegetarian, Vegan]
 tags:
 - cabbage
-season: Spring & Summer
+season: [spring, summer, ]
 diet: [dairy, egg, gluten, vegan]
 image: /images/healthy-slaw.jpg
 description: A simple slaw with a lemon dressing and toasted seeds

@@ -5,7 +5,7 @@ yield: serves 6
 categories: main
 prep-time: 10 Minutes
 cooking-time: 1 Hour 40 Minutes
-cuisine: Asian
+cuisine: Burmese
 tags: [burmese, pork, curry]
 image: images/pork-peanut-curry.jpg
 description: Fresh flavoursome Burmese curry.

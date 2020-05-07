@@ -6,7 +6,7 @@ categories: main
 prep-time: 10 Minutes
 inactive-prep-time: Overnight
 cooking-time: 30 Minutes
-cuisine: Asian
+cuisine: Thai
 tags:
 - chicken
 - coconut

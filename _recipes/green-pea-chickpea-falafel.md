@@ -2,12 +2,12 @@
 
 title: Green Pea and Chickpea Falafel
 yield: serves 6
-categories: dinner
+categories: main
 prep-time: 10 Minutes
 cooking-time: 10 Minutes
 cuisine: Vegetarian
 effort: easy
-season: sprig
+season: spring
 tags:
 - chickpea
 - falafel

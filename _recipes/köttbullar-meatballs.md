@@ -8,7 +8,7 @@ cooking-time: 40 Minutes
 cuisine: Swedish
 tags:
 - meatballs
-season: winter & spring
+season: [autumn, winter, spring,]
 effort: medium
 image: images/kottbullar.jpg
 description: Traditional Swedish meatballs & cream sauce.

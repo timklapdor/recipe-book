@@ -5,7 +5,7 @@ yield: serves 8
 categories: main
 prep-time: 30 Minutes
 cooking-time: 1 Hour 30 Minutes
-cuisine: Asian
+cuisine: Malayasian
 tags:
 - curry
 - rice

@@ -1,20 +1,20 @@
 ---
 
 title: Dish Name
-yield: serves 6
-categories: meal type
-prep-time: 10 Minutes
-cooking-time: 25 Minutes
-cuisine: French
-effort:: 
-season:
-tags:
-- tag 1
-- tag 2
-image: /images/something.jpg
 description: ""
 original-source: ""
 original-link: ""
+image: /images/something.jpg
+categories: [breakfast, condiment, dessert, main, salad, side, snack, soup, ]
+cuisine: [American, Australian, Burmese, Caribbean, French, German, Greek, Hungarian, Indian, Italian, Latin, Malaysian, Mexican, Middle Eastern, Spanish, Swedish, Thai, Vegan, Vegetarian, ]
+effort: [easy, medium, hard]
+season: [all-year, summer, autumn, winter, spring, ]
+tags: [GF, V, VG, ]
+- tag 1
+- tag 2
+yield: serves 6
+prep-time: 10 Minutes
+cooking-time: 25 Minutes
 ingredients:
 - 1 Ingredient
 - 2 Ingredient

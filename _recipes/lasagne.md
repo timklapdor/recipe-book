@@ -8,8 +8,8 @@ cooking-time: 1 Hour 20 Minutes
 cuisine: Italian
 tags:
 - pasta
-season: Winter & Spring
-effort: high
+season: [ autumn, winter, spring,]
+effort: hard
 image: images/lasagne.jpg
 description: Easy and tasty lasagne.
 ingredients:

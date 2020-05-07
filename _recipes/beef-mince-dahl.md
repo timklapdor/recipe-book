@@ -10,6 +10,7 @@ effort:: easy
 season:
 tags:
 - split peas
+- curry
 image: /images/beef-mince-dahl.jpg
 description: "This beef mince dahl, full of delicious spices, is sure to warm you up this winter."
 original-source: "taste.com"
