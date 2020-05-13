@@ -9,7 +9,8 @@ categories: [breakfast, condiment, dessert, main, salad, side, snack, soup, ]
 cuisine: [American, Australian, Burmese, Caribbean, French, German, Greek, Hungarian, Indian, Italian, Latin, Malaysian, Mexican, Middle Eastern, Spanish, Swedish, Thai, Vegan, Vegetarian, ]
 effort: [easy, medium, hard]
 season: [all-year, summer, autumn, winter, spring, ]
-tags: [GF, V, VG, ]
+guide: [GF, V, VG, DF,]
+tags:
 - tag 1
 - tag 2
 yield: serves 6
