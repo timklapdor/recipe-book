@@ -6,6 +6,7 @@ original-source: ""
 original-link: ""
 image: /images/something.jpg
 categories: [breakfast, condiment, dessert, main, salad, side, snack, soup, ]
+status: [untested, proven, tweak,]
 cuisine: [American, Australian, Burmese, Caribbean, French, German, Greek, Hungarian, Indian, Italian, Latin, Malaysian, Mexican, Middle Eastern, Spanish, Swedish, Thai, Vegan, Vegetarian, ]
 effort: [easy, medium, hard]
 season: [all-year, summer, autumn, winter, spring, ]
