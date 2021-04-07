@@ -63,7 +63,6 @@ location:
 encoding: utf-8
 
 # Build settings
-# markdown: kramdown
 
 # Setup for pages
 include: ["_pages"]
