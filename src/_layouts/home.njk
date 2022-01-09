@@ -1,0 +1,17 @@
+---
+layout: base.njk
+---
+
+{{ content | safe }}
+
+
+<article class="gridup">
+{% for post in collections.sortedRecipes %}
+  <section>
+      <a href="{{ post.url | url }}" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/{{ post.data.image | url }}); background-position: center center; background-size: cover;">
+      <h2>{{ post.data.title }}</h2>
+      <p>{{ post.data.description }}</p>
+    </a>
+  </section>
+{% endfor %}
+</article>

@@ -1,0 +1,53 @@
+---
+layout: base.njk
+---
+
+
+<section class="no-flick hero small" style="transform-style: preserve-3d; background-image: linear-gradient(to top right, rgba(0,0,0,.5), rgba(0,0,0,0)), url(../../images/{{ image | url }})">
+  <h2 class="promo">{{ title }}</h2>
+  <h3 class="promo">{{ description }}</h3>
+  {% for text in button-text %}<a href="{{ button-link }}" aria-label="Call to Action" class="no-flick {{ button-color }} call-to-action {{ button-background }}">{{ text }}</a> {% endfor %}
+</section>
+
+<section class="recipe">
+
+<article class="recipe">
+
+<h3>Directions</h3>
+
+<div class="directions">
+  {{ content | safe }}
+</div>
+
+<figure class="center u-pad-extra">
+  <img src="../../images/{{ image | url }}" style="width: 100%;" alt="{{ title }}" title="{{  title }}"/>
+  <figcaption>{{  title }}</figcaption>
+</figure>
+
+
+</article>
+
+<aside>
+
+<ul style="list-style: none; padding: .5em; ">
+  {% if yield %}<li><strong>Yield:</strong> {{ yield | capitalize}}</li>{% endif %}
+  {% if prep_time %}<li><strong>Preparation Time:</strong> {{ prep_time }}</li>{% endif %}
+  {% if inactive_prep_time %}<li><strong>Inactive Preparation Time:</strong> {{ inactive_prep_time }}</li>{% endif %}
+  {% if cooking_time %}<li><strong>Cooking Time:</strong> {{ cooking_time }}</li>{% endif %}
+
+  {% if effort %}<li><strong>Effort:</strong> {{ effort | capitalize}}</li>{% endif %}
+  {% if keywords %}<li>{% for item in keywords %}{{ item | capitalize }}{{ ", " if not loop.last else "" }} {% endfor %}</li>{% endif %}
+  {% if original_source %}<li><strong>Original Recipe:</strong> <a href="{{ original_link }}" target="blank">{{ original_source }}</a></li>{% endif %}
+</ul>
+
+<h3> Ingredients</h3>
+
+<ul style="list-style: circle;">
+  {% for entry in ingredients %}
+    <li>{{ entry | capitalize}}</li>
+  {% endfor %}
+</ul>
+
+</aside>
+
+</section>

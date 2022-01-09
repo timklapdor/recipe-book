@@ -1,0 +1,1410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recipe Book</title>
+<link rel="icon" type="image/svg+xml" href="/recipe-book/assets/favicon.svg">
+<link rel="icon" type="image/png" href="/recipe-book/assets/favicon.png">
+<link rel="stylesheet" href="/recipe-book/css/new.css" />
+</head>
+
+
+	<body class="home">
+
+<header class="brand">
+  <a href="/recipe-book/">
+    <h1 class="logo-present">Recipe Book</h1>
+    <img src="/recipe-book/assets/recipe-book-blk.svg" alt="Recipe Book Logo">
+  </a>
+
+</header>
+
+<section class="tags">
+
+<h2>Diet</h2>
+
+<!-- <ul class="button-group">
+  <li><button type="button" class="tag button is-checked" data-filter="all">show all</button></li>
+  
+  <li><button type="button" class="tag button mix diet gf" data-toggle=".gf">GF</button></li>
+  
+  <li><button type="button" class="tag button mix diet df" data-toggle=".df">DF</button></li>
+  
+  <li><button type="button" class="tag button mix diet v" data-toggle=".v">V</button></li>
+  
+  <li><button type="button" class="tag button mix diet vg" data-toggle=".vg">VG</button></li>
+  
+</ul> -->
+
+
+  <ul>
+  
+    <li class="tag diet mix gf button" data-toggle=".gf">GF</li>
+  
+    <li class="tag diet mix df button" data-toggle=".df">DF</li>
+  
+    <li class="tag diet mix v button" data-toggle=".v">V</li>
+  
+    <li class="tag diet mix vg button" data-toggle=".vg">VG</li>
+  
+  </ul>
+
+<h2>Status</h2>
+<ul class="status">
+  <li class="tag status mix button" data-toggle=".proven"><strong>Proven</strong><svg><use xlink:href="#status-proven" title="Proven"/></svg></li>
+  <li class="tag status mix button" data-toggle=".tweak"><strong>Tweak</strong><svg><use xlink:href="#status-tweak" title="Proven"/></svg></li>
+  <li class="tag status mix button" data-toggle=".untested"><strong>Untested</strong><svg><use xlink:href="#status-untested" title="Proven"/></svg></li>
+</ul>
+
+<h2>Effort</h2>
+  <ul>
+  
+    <li class="tag effort mix button" data-toggle=".easy">easy</li>
+  
+    <li class="tag effort mix button" data-toggle=".high">high</li>
+  
+    <li class="tag effort mix button" data-toggle=".medium">medium</li>
+  
+  </ul>
+
+<h2>Categories</h2>
+  <ul>
+  
+    <li class="tag category mix button" data-toggle=".slow-cooker">Slow cooker</li>
+  
+    <li class="tag category mix button" data-toggle=".breakfast">breakfast</li>
+  
+    <li class="tag category mix button" data-toggle=".condiment">condiment</li>
+  
+    <li class="tag category mix button" data-toggle=".dessert">dessert</li>
+  
+    <li class="tag category mix button" data-toggle=".drink">drink</li>
+  
+    <li class="tag category mix button" data-toggle=".lunch">lunch</li>
+  
+    <li class="tag category mix button" data-toggle=".main">main</li>
+  
+    <li class="tag category mix button" data-toggle=".salad">salad</li>
+  
+    <li class="tag category mix button" data-toggle=".share">share</li>
+  
+    <li class="tag category mix button" data-toggle=".side">side</li>
+  
+    <li class="tag category mix button" data-toggle=".snack">snack</li>
+  
+    <li class="tag category mix button" data-toggle=".soup">soup</li>
+  
+  </ul>
+
+<h2>Cuisines</h2>
+  <ul>
+  
+    <li class="tag cuisine mix button" data-toggle=".american">American</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".australian">Australian</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".burmese">Burmese</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".caribbean">Caribbean</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".christmas">Christmas</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".french">French</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".german">German</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".greek">Greek</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".hungarian">Hungarian</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".indian">Indian</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".italian">Italian</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".japanese">Japanese</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".latin">Latin</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".malayasian">Malayasian</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".mexican">Mexican</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".middle-eastern">Middle Eastern</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".slow-cooker">Slow Cooker</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".spanish">Spanish</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".sri-lankan">Sri Lankan</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".swedish">Swedish</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".thai">Thai</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".vegetarian">Vegetarian</li>
+  
+    <li class="tag cuisine mix button" data-toggle=".vietnamese">Vietnamese</li>
+  
+  </ul>
+
+
+
+</section>
+
+<section class="gridup container">
+
+  <article class="grid-item mix
+  gf 
+  proven 
+  easy 
+  breakfast 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/all-in-one-brekkie/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/all-in-one-brekkie.jpg); background-position: center center; background-size: cover;">
+      <h2>All-in-One Brekkie</h2>
+      <p>Breakfast done in the oven</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf 
+  proven 
+  easy 
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/alpine-pizza/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/alpine-pizza.jpg); background-position: center center; background-size: cover;">
+      <h2>Alpine Pizza</h2>
+      <p>A different take on pizza - sans tomatoes! It&#39;s rich, cheesy and tasty.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  share 
+  french 
+  ">
+      <a href="/recipe-book/recipes/baked-cheese-round/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/baked-cheese-round.jpg); background-position: center center; background-size: cover;">
+      <h2>Baked Cheese Round</h2>
+      <p>Beautiful soft melty cheese that makes the perfect centrepiece for a proper cheese board</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  proven 
+  easy 
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/baked-pumpkin-risotto/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pumpkin-risotto.jpg); background-position: center center; background-size: cover;">
+      <h2>Baked Pumpkin Risotto</h2>
+      <p>Creamy rich risotto baked in the oven!</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  untested 
+  easy 
+  breakfast lunch main 
+  latin 
+  ">
+      <a href="/recipe-book/recipes/baleadas-red-beans-feta/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/baleadas-red-beans-feta.jpg); background-position: center center; background-size: cover;">
+      <h2>Baleadas with red beans &amp; feta</h2>
+      <p>Simple, filling and so delicious, this is a fast version of a popular breakfast or lunch in Honduras.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  
+  medium 
+  snack 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/banana-bread/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/banana-bread.jpg); background-position: center center; background-size: cover;">
+      <h2>Banana Bread</h2>
+      <p>A nutty banana bread.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  proven 
+  easy 
+  dessert 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/bananas-foster/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/banana-foster.jpg); background-position: center center; background-size: cover;">
+      <h2>Bananas Foster</h2>
+      <p>Easy and tasty fruity dessert.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  untested 
+  easy 
+  main 
+  indian 
+  ">
+      <a href="/recipe-book/recipes/beef-red-lentil-curry/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/beef-red-lentil-curry.jpg); background-position: center center; background-size: cover;">
+      <h2>Beef &amp; Red Lentil Curry</h2>
+      <p>Rich beef and pulse curry.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf 
+  untested 
+  easy 
+  main 
+  indian 
+  ">
+      <a href="/recipe-book/recipes/beef-mince-dahl/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/beef-mince-dahl.jpg); background-position: center center; background-size: cover;">
+      <h2>Beef mince dahl</h2>
+      <p>This beef mince dahl, full of delicious spices, is sure to warm you up this winter.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  proven 
+  easy 
+  soup main 
+  latin 
+  ">
+      <a href="/recipe-book/recipes/black-bean-soup/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/black-bean-soup.jpg); background-position: center center; background-size: cover;">
+      <h2>Black Bean Soup</h2>
+      <p>A cuban classic that combines rich beans and smoked pork.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  proven 
+  high 
+  
+  italian 
+  ">
+      <a href="/recipe-book/recipes/bolognese-sauce/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pasta-bolognese.jpg); background-position: center center; background-size: cover;">
+      <h2>Bolognese Sauce</h2>
+      <p>This chunky vegetable heavy bolognese is perfect with spaghetti or used for lasagne with some extra passatta. Or better yet - in a toastie.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  proven 
+  easy 
+  side 
+  german 
+  ">
+      <a href="/recipe-book/recipes/braised-winter-greens/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/braised-winter-greens.jpg); background-position: center center; background-size: cover;">
+      <h2>Braised Winter Greens</h2>
+      <p>Braised greens make a perfect accompaniment dish.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  
+  easy 
+  soup 
+  vegetarian 
+  ">
+      <a href="/recipe-book/recipes/carrot-ginger-soup/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/carrot-ginger-soup.jpg); background-position: center center; background-size: cover;">
+      <h2>Carrot, Sweet Potato &amp; Ginger Soup</h2>
+      <p>Sure to warm in the cooler months</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  side 
+  french vegetarian 
+  ">
+      <a href="/recipe-book/recipes/cauliflower-gratin/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/cauliflower-gratin.jpg); background-position: center center; background-size: cover;">
+      <h2>Cauliflower Gratin</h2>
+      <p>A whole cauliflower makes a perfect vegetarian roast.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  untested 
+  medium 
+  main 
+  spanish 
+  ">
+      <a href="/recipe-book/recipes/chicken-chorizo-hot-pot/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/chicken-chorizo-hot-pot.jpg); background-position: center center; background-size: cover;">
+      <h2>Chicken &amp; Chorizo Hot Pot</h2>
+      <p>One pot chicken dish.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  medium 
+  main 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/chicken-leek-casserole/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/chicken-leek-casserole.jpg); background-position: center center; background-size: cover;">
+      <h2>Chicken &amp; Leek Casserole</h2>
+      <p>Flavoursome and morish one pot dish.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  u n t e s t e d 
+  medium 
+  soup 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/chicken-sausage-red-lentil-soup/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/chicken-sausage-red-lentil-soup.jpg); background-position: center center; background-size: cover;">
+      <h2>Chicken Sausage &amp; Red Lentil Soup</h2>
+      <p>A rich soup with tomato, oregano and tasty bites of sausage.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  
+  medium 
+  main 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/chickpea-sweet-potato-cakes/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/chickpea-sweet-potato-cakes.jpg); background-position: center center; background-size: cover;">
+      <h2>Chickpea &amp; Sweet Potato Cakes</h2>
+      <p>Quick &amp; easy vegetarian meal.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  easy 
+  main 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/chunky-steak-gravy-pies/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/chunky-steak-gravy-pies.jpg); background-position: center center; background-size: cover;">
+      <h2>Chunky Steak &amp; Gravy Pies</h2>
+      <p>A classic bakery favourites.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v df 
+  proven 
+  easy 
+  salad 
+  american 
+  ">
+      <a href="/recipe-book/recipes/classic-coleslaw/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/classic-coleslaw.jpg); background-position: center center; background-size: cover;">
+      <h2>Classic Coleslaw</h2>
+      <p>Crunchy fresh coleslaw.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  easy 
+  drink 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/cold-brew-coffee/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/cold-brew.jpg); background-position: center center; background-size: cover;">
+      <h2>Cold Brew Coffee</h2>
+      <p>Perfect hot weather caffeine fix.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  easy 
+  main 
+  french 
+  ">
+      <a href="/recipe-book/recipes/coq-au-vin/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/coq-au-vin.jpg); background-position: center center; background-size: cover;">
+      <h2>Coq Au Vin</h2>
+      <p>Classic French dish.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  
+  easy 
+  side 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/creamed-spinach-polenta/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/creamed-spinach-polenta.jpg); background-position: center center; background-size: cover;">
+      <h2>Creamed Spinach Polenta</h2>
+      <p>Healthy side dish with spinach and polenta</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  proven 
+  medium 
+  main 
+  greek 
+  ">
+      <a href="/recipe-book/recipes/crispy-greek-style-pie/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/crispy-greek-style-pie.jpg); background-position: center center; background-size: cover;">
+      <h2>Crispy Greek-Style Pie</h2>
+      <p>A crispy pie that you can adapt for your needs, add chicken or keep it veggie.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  main 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/curried-sausages/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/curried-sausages.jpg); background-position: center center; background-size: cover;">
+      <h2>Curried Sausages</h2>
+      <p>Add an Indian touch to curried sausages.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  
+  medium 
+  salad 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/curry-pasta-salad/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/curry-pasta-salad.jpg); background-position: center center; background-size: cover;">
+      <h2>Curry Pasta Salad</h2>
+      <p>Tasty pasta salad dish.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  untested 
+  medium 
+  main 
+  indian 
+  ">
+      <a href="/recipe-book/recipes/curry-spiced-eggplant/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/curry-spiced-eggplant.jpg); background-position: center center; background-size: cover;">
+      <h2>Curry Spiced Eggplant</h2>
+      <p>Spiced eggplant dish.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  medium 
+  main 
+  french 
+  ">
+      <a href="/recipe-book/recipes/daube-of-beef/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/daube-of-beef.jpg); background-position: center center; background-size: cover;">
+      <h2>Daube Of Beef</h2>
+      <p>Perfect for a cold winter&#39;s night it is warming and delicious.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  untested 
+  easy 
+  salad 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/easy-green-superfood-salad/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/easy-green-superfood-salad.jpg); background-position: center center; background-size: cover;">
+      <h2>Easy Green Superfood Salad</h2>
+      <p>Sprouts and a tangy dressing give this lean, green salad texture and bite.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v df 
+  proven 
+  easy 
+  salad side 
+  mexican 
+  ">
+      <a href="/recipe-book/recipes/easy-taco-slaw/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/easy-taco-slaw.jpg); background-position: center center; background-size: cover;">
+      <h2>Easy Taco Slaw</h2>
+      <p></p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  medium 
+  main 
+  hungarian 
+  ">
+      <a href="/recipe-book/recipes/goulash-pie/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/goulash-pie.jpg); background-position: center center; background-size: cover;">
+      <h2>Goulash Pie</h2>
+      <p>This hearty pie will satisfy even the hungriest of diners.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg 
+  
+  easy 
+  side 
+  mexican 
+  ">
+      <a href="/recipe-book/recipes/green-mexican-rice/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/mexican-green-rice.jpg); background-position: center center; background-size: cover;">
+      <h2>Green Mexican Rice</h2>
+      <p>A spicy Green Mexican Rice made with coriander, jalapeño, garlic, spinach and chicken stock.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v vg df 
+  tweak 
+  easy 
+  main 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/green-pea-chickpea-falafel/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/green-pea-and-chickpea-falafel.jpg); background-position: center center; background-size: cover;">
+      <h2>Green Pea and Chickpea Falafel</h2>
+      <p>The flavours of spring in these bright green the patties.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  salad 
+  greek vegetarian 
+  ">
+      <a href="/recipe-book/recipes/haloumi-rocket-salad/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/haloumi-rocket.jpg); background-position: center center; background-size: cover;">
+      <h2>Haloumi &amp; Rocket Salad</h2>
+      <p>An easy and delicious salad that&#39;s cooked in five minutes.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  soup 
+  
+  ">
+      <a href="/recipe-book/recipes/ham-lentil-soup/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/ham-and-lentil-slow-cooker-soup.jpg); background-position: center center; background-size: cover;">
+      <h2>Ham and lentil slow-cooker soup</h2>
+      <p>Hearty ham and lentil slow-cooker soup is the perfect winter warmer.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  condiment 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/harissa-paste/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/harissa-paste.jpg); background-position: center center; background-size: cover;">
+      <h2>Harissa Paste</h2>
+      <p>Spicy middle eastern flavours.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  
+  salad 
+  american 
+  ">
+      <a href="/recipe-book/recipes/healthy-slaw/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/healthy-slaw.jpg); background-position: center center; background-size: cover;">
+      <h2>Healthy Slaw</h2>
+      <p>A simple slaw with a lemon dressing and toasted seeds</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  main 
+  hungarian 
+  ">
+      <a href="/recipe-book/recipes/hungarian-goulash/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/hungarian-goulash.jpg); background-position: center center; background-size: cover;">
+      <h2>Hungarian Goulash</h2>
+      <p>Hungary&#39;s slow-cooked favourite has it all.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  untested 
+  easy 
+  side 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/incidentally-vegan-slaw/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/incidentally-vegan-slaw.jpg); background-position: center center; background-size: cover;">
+      <h2>Incidentally Vegan Street Coleslaw</h2>
+      <p>A fresh, crunchy vegan friendly salad.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/italian-drip-beef/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/italian-drip-beef.jpg); background-position: center center; background-size: cover;">
+      <h2>Italian Drip Beef</h2>
+      <p>Great filling for American style sandwiches.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v vg df 
+  
+  
+  salad 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/jewelled-vegetable-couscous-salad/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/jewelled-vegetable-couscous-salad.jpg); background-position: center center; background-size: cover;">
+      <h2>Jewelled Vegetable and Couscous Salad</h2>
+      <p>Just roast up some vegetables before hand to whip up a quick and hearty salad</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  
+  
+  main 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/lamb-herb-stew/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/lamb-herb-stew.jpg); background-position: center center; background-size: cover;">
+      <h2>Lamb &amp; Herb Stew</h2>
+      <p>A great, light and spicy stew.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  high 
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/lasagne/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/lasagne.jpg); background-position: center center; background-size: cover;">
+      <h2>Lasagne</h2>
+      <p>Easy and tasty lasagne.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  
+  medium 
+  main 
+  thai 
+  ">
+      <a href="/recipe-book/recipes/lemon-grass-coconut-chicken/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/lemon-grass-coconut-chicken.jpg); background-position: center center; background-size: cover;">
+      <h2>Lemon Grass &amp; Coconut Chicken</h2>
+      <p>Lots of spicy, creamy and tangy tamarind chicken with maximum flavour.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  soup 
+  greek 
+  ">
+      <a href="/recipe-book/recipes/lemon-chicken-soup/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/lemon-chicken-soup.jpg); background-position: center center; background-size: cover;">
+      <h2>Lemon and chicken slow-cooker soup</h2>
+      <p>Warm up with this creamy Greek lemon and chicken slow-cooker soup.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  untested 
+  easy 
+  share 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/lemony-whipped-feta/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/lemony-whipped-feta.jpg); background-position: center center; background-size: cover;">
+      <h2>Lemony Whipped Feta</h2>
+      <p>Creamy, lively, fluffy whipped feta is full of salty charm.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  
+  medium 
+  main 
+  malayasian 
+  ">
+      <a href="/recipe-book/recipes/massaman-curry-rice-bake/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/massaman-curry-rice-bake.jpg); background-position: center center; background-size: cover;">
+      <h2>Massaman Curry &amp; Rice Bake</h2>
+      <p>Creamy Massaman curry and rice bake is a hearty crowd pleaser.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  untested 
+  medium 
+  breakfast 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/menemen/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/menemen.jpg); background-position: center center; background-size: cover;">
+      <h2>Menemen</h2>
+      <p>Turkish One-Pan Eggs &amp; Peppers.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf 
+  untested 
+  medium 
+  main 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/middle-eastern-style-lamb-shanks-with-saffron-rice/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/middle-eastern-style-lamb-shanks.jpg); background-position: center center; background-size: cover;">
+      <h2>Middle Eastern Lamb Shanks with Saffron Rice</h2>
+      <p>Rich meaty dish full of spice and flavour.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  easy 
+  main 
+  japanese 
+  ">
+      <a href="/recipe-book/recipes/miso-roasted-eggplant/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/miso-roasted-eggplant.jpg); background-position: center center; background-size: cover;">
+      <h2>Miso-roasted Eggplant</h2>
+      <p>Miso and eggplant are just a fantastic combination.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  untested 
+  easy 
+  main 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/moroccan-spiced-chicken/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/moroccan-spiced-chicken.jpg); background-position: center center; background-size: cover;">
+      <h2>Moroccan Spiced Chicken</h2>
+      <p>Moroccan Mechoui style chicken.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  proven 
+  easy 
+  snack 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/muriels-scones/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/muriels-scones.webp); background-position: center center; background-size: cover;">
+      <h2>Muriel&#39;s scones</h2>
+      <p>The easiest scone recipe around</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v vg df 
+  
+  easy 
+  main 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/mushroom-vegie-burgers/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/mushroom-veggie-burgers.jpg); background-position: center center; background-size: cover;">
+      <h2>Mushroom Veggie Burgers</h2>
+      <p>Quick and easy mushroom burgers</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/pasta-carbonara/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pasta-carbonara.jpg); background-position: center center; background-size: cover;">
+      <h2>Pasta Carbonara</h2>
+      <p>Creamy, rich Carbonara with an added smokey flavour.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/pasta-puttanesca/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pasta-puttanesca.jpg); background-position: center center; background-size: cover;">
+      <h2>Pasta Puttanesca</h2>
+      <p>This homestyle sauce, made with pantry staples.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  dessert 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/pavlova/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pavlova.jpg); background-position: center center; background-size: cover;">
+      <h2>Pavlova</h2>
+      <p>An Aussie favourite, pavlova is prized for its crisp meringue and soft, marshmallowy centre.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf 
+  proven 
+  easy 
+  soup slow-cooker 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/pea-ham-soup/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pea-ham-soup.jpg); background-position: center center; background-size: cover;">
+      <h2>Pea &amp; Ham Soup</h2>
+      <p>You have to start this one the night before, but the final result is well worth the effort!</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/pesto-linguine-with-chicken-zucchini/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pesto-chicken-zucchini.jpg); background-position: center center; background-size: cover;">
+      <h2>Pesto with Chicken &amp; Zucchini</h2>
+      <p>Family-friendly combo of pesto and pasta that&#39;s ready in 25 minutes.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  
+  main 
+  burmese 
+  ">
+      <a href="/recipe-book/recipes/pork-peanut-curry/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pork-peanut-curry.jpg); background-position: center center; background-size: cover;">
+      <h2>Pork &amp; Peanut Curry</h2>
+      <p>Fresh flavoursome Burmese curry.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  
+  main 
+  american 
+  ">
+      <a href="/recipe-book/recipes/pork-pistachio-meatloaf/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pork-pistachio-meatloaf.jpg); background-position: center center; background-size: cover;">
+      <h2>Pork &amp; Pistachio Meatloaf</h2>
+      <p>New twist on meatloaf, lightly spiced and wrapped in prosciutto.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  proven 
+  
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/pork-ragu/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pork-ragu.jpg); background-position: center center; background-size: cover;">
+      <h2>Pork Ragu</h2>
+      <p>A meaty pork Ragu.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  main 
+  french 
+  ">
+      <a href="/recipe-book/recipes/pork-with-cider-cream/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pork-with-cider-cream.jpg); background-position: center center; background-size: cover;">
+      <h2>Pork With Cider &amp; Cream</h2>
+      <p>Savour each bite of this pork, leek and broad bean dish that&#39;s doused in cider and spiked with tarragon.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  proven 
+  medium 
+  main 
+  italian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/pumpkin-and-spinach-lasagne/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pumpkin-spinach-lasagne.jpg); background-position: center center; background-size: cover;">
+      <h2>Pumpkin and Spinach Lasagne</h2>
+      <p>Creamy and cheesy vegetarian lasagne.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  proven 
+  medium 
+  main 
+  italian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/pumpkin-ricotta-basil-cannelloni/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/pumpkin-ricotta-basil-cannelloni.jpg); background-position: center center; background-size: cover;">
+      <h2>Pumpkin, Ricotta &amp; Basil Cannelloni</h2>
+      <p>The ultimate cool-weather comfort food.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  untested 
+  easy 
+  lunch main 
+  italian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/quick-green-pasta/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/quick-green-pasta.jpg); background-position: center center; background-size: cover;">
+      <h2>Quick Green Pasta</h2>
+      <p>Think of this recipe as a principle and swap in your veges. </p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  easy 
+  side 
+  mexican 
+  ">
+      <a href="/recipe-book/recipes/red-rice-beans/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/red-rice-beans.jpg); background-position: center center; background-size: cover;">
+      <h2>Red Rice &amp; Beans</h2>
+      <p>A tasty side dish of rich beans, tomatoes and rice.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  
+  salad 
+  vietnamese 
+  ">
+      <a href="/recipe-book/recipes/rice-herb-salad/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/rice-herb-salad.jpg); background-position: center center; background-size: cover;">
+      <h2>Rice &amp; Herb Salad</h2>
+      <p>Fragrant salad made with herbs, coconut and chilli.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  
+  side 
+  caribbean vegetarian 
+  ">
+      <a href="/recipe-book/recipes/rice-peas/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/rice-peas.jpg); background-position: center center; background-size: cover;">
+      <h2>Rice &amp; Peas</h2>
+      <p>Rich coconut rice is the perfect accompaniment to spicy food.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  
+  salad 
+  middle-eastern 
+  ">
+      <a href="/recipe-book/recipes/rice-salad-with-chickpeas,-avocado-roast-capsicum/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/rice-salad-chickpeas-avocado.jpg); background-position: center center; background-size: cover;">
+      <h2>Rice Salad with Chickpeas, Avocado &amp; Roast Capsicum</h2>
+      <p>Each mouthful of this quick and colourful salad has crunchy pecans, sweet roast capsicum and healthy brown rice.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  untested 
+  easy 
+  main 
+  vegetarian 
+  ">
+      <a href="/recipe-book/recipes/ricotta-pea-burgers-avocado-dressing/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/ricotta-pea-burgers-avocado-dressing.jpg); background-position: center center; background-size: cover;">
+      <h2>Ricotta and pea burgers with avocado dressing</h2>
+      <p>This easy green vegetarian burgers make a deliciously healthy weeknight meal.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  easy 
+  main 
+  australian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/roast-cauliflower-chickpea-salad/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/roast-cauliflower-chickpea-salad.jpg); background-position: center center; background-size: cover;">
+      <h2>Roast Cauliflower with Chickpea Salad</h2>
+      <p>Roasting the cauliflower adds a beautiful depth of flavour and provides a &#39;wow&#39; factor.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  main 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/sausage-ragu/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/sausage-ragu.jpg); background-position: center center; background-size: cover;">
+      <h2>Sausage Ragu</h2>
+      <p>A rich Italian Ragu.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  main 
+  french 
+  ">
+      <a href="/recipe-book/recipes/simple-quiche/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/simple-quiche.jpg); background-position: center center; background-size: cover;">
+      <h2>Simple Quiche</h2>
+      <p>A beautiful golden brown ham and cheese quiche that will delight the whole family.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  proven 
+  easy 
+  main 
+  american slow-cooker 
+  ">
+      <a href="/recipe-book/recipes/slow-cooker-bbq-beef-brisket/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/slow-cooker-bbq-beef-brisket.jpg); background-position: center center; background-size: cover;">
+      <h2>Slow Cooker BBQ Beef Brisket</h2>
+      <p>Beefy brisket is transformed into tender morsels of barbecue goodness.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  proven 
+  easy 
+  main 
+  thai slow-cooker 
+  ">
+      <a href="/recipe-book/recipes/slow-cooker-thai-pork-curry/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/slow-cooker-thai-pork-curry.jpg); background-position: center center; background-size: cover;">
+      <h2>Slow-cooker Thai pork curry</h2>
+      <p>Throw pork, mushrooms, garlic, Thai red curry paste and a few other simple ingredients into the slow cooker and let it do all the hard work for you.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  
+  main 
+  american 
+  ">
+      <a href="/recipe-book/recipes/smoky-black-bean-beet-burgers/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/smoky-black-bean-beet-burgers.jpg); background-position: center center; background-size: cover;">
+      <h2>Smoky Black Bean Beet Burgers</h2>
+      <p>Hearty, nutritionally dense, and simple to prepare.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  proven 
+  easy 
+  main 
+  italian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/soft-polenta-with-braised-mushroom-ragu/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/soft-polenta-braised-mushroom-ragu.jpg); background-position: center center; background-size: cover;">
+      <h2>Soft Polenta with Braised Mushroom Ragu</h2>
+      <p>Polenta tastes far better if cooked the proper, slow way. Use as an accompaniment to a ragu of some kind, like osso buco or the mushrooms below.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  proven 
+  easy 
+  soup 
+  italian 
+  ">
+      <a href="/recipe-book/recipes/spicy-chorizo-minestrone/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/spicy-chorizo-minestrone.jpg); background-position: center center; background-size: cover;">
+      <h2>Spicy Chorizo Minestrone</h2>
+      <p>Italian style soup with a little kick.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  proven 
+  easy 
+  soup 
+  australian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/spicy-pumpkin-sweet-potato-soup/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/spicy-pumpkin-sweet-potato-soup.jpg); background-position: center center; background-size: cover;">
+      <h2>Spicy Pumpkin Soup</h2>
+      <p>A spicy rich take on Pumpkin Soup.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  share 
+  
+  ">
+      <a href="/recipe-book/recipes/spinach-bacon-cob-loaf/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/warm-spinach-bacon-cob-loaf.jpg); background-position: center center; background-size: cover;">
+      <h2>Spinach and Bacon Cob Loaf</h2>
+      <p>No mess party snack.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  
+  
+  main 
+  vegetarian 
+  ">
+      <a href="/recipe-book/recipes/spinach-zucchini-ricotta-rice-tart/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/spinach-zucchini-ricotta-rice-tart.jpg); background-position: center center; background-size: cover;">
+      <h2>Spinach, Zucchini &amp; Ricotta Rice Tart</h2>
+      <p>This cheesy spinach and zucchini tart is a deliciously easy lunch or dinner idea.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  v 
+  untested 
+  easy 
+  main 
+  italian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/spinach-lentil-pumpkin-lasagne/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/spinach-lentil-pumpkin-lasagne.jpg); background-position: center center; background-size: cover;">
+      <h2>Spinach, lentil and pumpkin lasagne</h2>
+      <p>This tasty recipe is the perfect size for sharing with friends and family.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf 
+  
+  
+  main 
+  sri-lankan 
+  ">
+      <a href="/recipe-book/recipes/sri-lankan-poached-chicken/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/sri-lankan-poached-chicken.jpg); background-position: center center; background-size: cover;">
+      <h2>Sri Lankan Poached Chicken</h2>
+      <p>This poaching liquid is used for the chicken as well as the rice and lentils.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  medium 
+  
+  swedish 
+  ">
+      <a href="/recipe-book/recipes/köttbullar-meatballs/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/kottbullar.jpg); background-position: center center; background-size: cover;">
+      <h2>Swedish Meatballs (Köttbullar)</h2>
+      <p>Traditional Swedish meatballs &amp; cream sauce.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf 
+  proven 
+  easy 
+  main 
+  indian 
+  ">
+      <a href="/recipe-book/recipes/tandoori-chicken-with-melon-salsa/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/tandoor-chichen-melon-salsa.jpg); background-position: center center; background-size: cover;">
+      <h2>Tandoori Chicken with Honeydew Melon Salsa</h2>
+      <p>Indian style chicken with a refreshing spicy melon side.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf 
+  proven 
+  easy 
+  main 
+  hungarian 
+  ">
+      <a href="/recipe-book/recipes/tray-baked-chicken-stroganoff/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/tray-baked-chicken-stroganoff.jpg); background-position: center center; background-size: cover;">
+      <h2>Tray-Baked Chicken Stroganoff</h2>
+      <p>Easy family dish.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  easy 
+  main 
+  christmas 
+  ">
+      <a href="/recipe-book/recipes/turkey-breast-lemon-thyme-gravy/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/turkey-breast-lemon-thyme-gravy.jpg); background-position: center center; background-size: cover;">
+      <h2>Turkey Breast with Lemon and Thyme Gravy</h2>
+      <p>A simple recipe for a melt in your mouth moist turkey</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf df 
+  proven 
+  easy 
+  main 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/up-the-duff-chook/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/up-the-duff-chook.jpg); background-position: center center; background-size: cover;">
+      <h2>Up-The-Duff Chook</h2>
+      <p>This “beer can chook” steams from the inside and guarantees a crispy skin.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  
+  main 
+  american vegetarian 
+  ">
+      <a href="/recipe-book/recipes/vegan-bbq-tofu-burger/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/smoky-black-bean-beet-burgers.jpg); background-position: center center; background-size: cover;">
+      <h2>Vegan BBQ Tofu Burger</h2>
+      <p>Hearty, nutritionally dense, and simple to prepare.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  
+  main 
+  indian vegetarian 
+  ">
+      <a href="/recipe-book/recipes/vegetable-curry/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/vegetable-curry.jpg); background-position: center center; background-size: cover;">
+      <h2>Vegetable Curry</h2>
+      <p>Rich vegetarian curry.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  main 
+  mexican vegetarian 
+  ">
+      <a href="/recipe-book/recipes/vegetarian-chili/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/vegetarian-chili.jpg); background-position: center center; background-size: cover;">
+      <h2>Vegetarian Chili</h2>
+      <p>The smokey, complex flavour of this simple vegetarian chili comes from basic pantry ingredients, vegetables and spices!</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v 
+  untested 
+  
+  share 
+  vegetarian 
+  ">
+      <a href="/recipe-book/recipes/vegetarian-pate/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/vegetarian-pate.jpg); background-position: center center; background-size: cover;">
+      <h2>Vegetarian Pâté</h2>
+      <p>A meaty texture and flavour with pâté-like consistency and savoury depth.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  gf v vg df 
+  
+  easy 
+  main 
+  australian 
+  ">
+      <a href="/recipe-book/recipes/whole-roasted-cauliflower/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/whole-roasted-cauliflower.jpg); background-position: center center; background-size: cover;">
+      <h2>Whole Roasted Cauliflower with Lemon &amp; Mustard</h2>
+      <p>This whole-roasted cauliflower certainly has &#39;wow&#39; factor.</p>
+    </a>
+  </article>
+
+  <article class="grid-item mix
+  
+  
+  
+  salad 
+  
+  ">
+      <a href="/recipe-book/recipes/zucchini-snowpea-almond-salad/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/zucchini-snowpea-almond-salad.jpg); background-position: center center; background-size: cover;">
+      <h2>Zucchini, Snowpea and Almond Salad</h2>
+      <p>This combination goes well with lamb and makes a cracking side to a good steak.</p>
+    </a>
+  </article>
+
+</section>
+
+<script src="/recipe-book/assets/mixitup.min.js"></script>
+<script>
+
+var mixer = mixitup('.gridup', {
+    controls: {
+        toggleLogic: 'and'
+    }
+});
+
+</script>
+
+<svg display="none" width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Artboard</title>
+    <g id="status-tweak" transform="translate(27.000000, 8.000000)">
+        <path d="M45,42.5 C45,42.3 45,42.1 44.9006623,41.9 L41.9205298,35.4 L41.9205298,6.4 C41.9205298,2.8 39.0397351,0 35.5629139,0 C32.0860927,0 29.205298,2.9 29.205298,6.4 L29.205298,26.8 C28.2119205,26.2 27.0198675,25.8 25.8278146,25.8 C22.8476821,25.8 20.2649007,27.9 19.6688742,30.7 C18.6754967,30 17.384106,29.6 16.0927152,29.6 C13.1125828,29.6 10.5298013,31.7 9.93377483,34.5 C8.94039735,33.8 7.64900662,33.4 6.35761589,33.4 C2.78145695,33.4 0,36.3 0,39.8 L0,55.2 C0,55.4 0,55.6 0,55.8 L0,56.4 C0,69.4 2.18543046,75 3.77483444,79.1 C4.66887417,81.4 5.36423841,83.1 5.36423841,85.5 C5.36423841,86.3 6.05960265,87 6.85430464,87 C7.64900662,87 8.34437086,86.3 8.34437086,85.5 C8.34437086,82.5 7.54966887,80.4 6.55629139,78 C5.26490066,74.6 3.47682119,70.1 3.0794702,60.8 C4.07284768,61.4 5.16556291,61.7 6.35761589,61.7 C9.33774834,61.7 11.9205298,59.6 12.5165563,56.8 C13.5099338,57.5 14.8013245,57.9 16.0927152,57.9 C19.0728477,57.9 21.6556291,55.8 22.2516556,53 C23.2450331,53.7 24.5364238,54.1 25.8278146,54.1 C28.7086093,54.1 31.192053,52.1 31.986755,49.4 L31.986755,54.2 C24.6357616,55.2 21.6556291,66.3 21.5562914,66.8 C21.3576159,67.6 21.8543046,68.4 22.6490066,68.6 C23.4437086,68.8 24.2384106,68.3 24.4370861,67.5 C25.2317881,64.6 28.2119205,57.1 33.0794702,57.1 L33.4768212,57.1 C34.2715232,57.1 34.9668874,56.4 34.9668874,55.6 L34.9668874,47.9 C34.9668874,47.7 34.9668874,47.6 34.8675497,47.4 C31.2913907,37.4 31.6887417,32.6 36.2582781,30 L42.0198675,42.9 L42.0198675,56.3 C42.0198675,68.6 39.2384106,73.9 37.2516556,77.7 C35.9602649,80.2 34.7682119,82.3 34.7682119,85.4 C34.7682119,86.2 35.4635762,86.9 36.2582781,86.9 C37.0529801,86.9 37.7483444,86.2 37.7483444,85.4 C37.7483444,83.1 38.6423841,81.4 39.8344371,79.1 C42.0198675,75 45,69.3 45,56.3 L45,42.5 Z M9.43708609,55.1 C9.43708609,57 7.94701987,58.5 6.05960265,58.5 C4.27152318,58.5 2.78145695,57.1 2.68211921,55.4 L2.68211921,55.1 C2.68211921,55 2.68211921,54.9 2.68211921,54.8 L2.68211921,39.7 C2.68211921,37.8 4.17218543,36.3 6.05960265,36.3 C7.94701987,36.3 9.43708609,37.8 9.43708609,39.7 L9.43708609,51.3 L9.43708609,55.1 Z M19.2715232,51.3 C19.2715232,53.2 17.781457,54.7 15.8940397,54.7 C14.0066225,54.7 12.4172185,53.2 12.4172185,51.3 L12.4172185,39.7 L12.4172185,35.9 C12.4172185,34 13.9072848,32.5 15.794702,32.5 C17.6821192,32.5 19.1721854,34 19.1721854,35.9 L19.1721854,47.5 L19.1721854,51.3 L19.2715232,51.3 Z M29.1059603,47.6 C29.1059603,49.5 27.615894,51 25.7284768,51 C23.8410596,51 22.3509934,49.5 22.3509934,47.6 L22.3509934,35.9 L22.3509934,32.1 C22.3509934,30.2 23.8410596,28.7 25.7284768,28.7 C27.615894,28.7 29.1059603,30.2 29.1059603,32.1 L29.1059603,44.1 L29.1059603,47.6 Z M36.2582781,26.6 C34.4701987,27.3 33.0794702,28.3 32.0860927,29.4 L32.0860927,6.4 C32.0860927,4.5 33.5761589,3 35.4635762,3 C37.3509934,3 38.8410596,4.5 38.8410596,6.4 L38.8410596,28.9 L38.2450331,27.3 C37.8476821,26.6 37.0529801,26.3 36.2582781,26.6 Z" id="Shape"></path>
+    </g>
+    <g id="status-proven" transform="translate(23.000000, 5.000000)">
+        <path d="M52.4852203,41.8 C52.685164,39.1 52.9850795,34.2 52.9850795,34.2 L53.984798,13.7 C53.984798,12.9 53.3849669,12.2 52.5851922,12.1 C50.8856707,12 48.086459,12.4 45.9870502,14.1 L44.5874443,1.3 C44.5874443,0.9 44.3875006,0.5 43.9876132,0.3 C43.6876977,0.1 43.2878103,0 42.8879229,0 C39.9887393,0.3 34.4902876,2.7 34.890175,9.1 C34.890175,9.3 34.890175,9.6 34.890175,10 L29.1917797,0.8 C28.991836,0.4 28.5919486,0.2 28.0920893,0.1 C27.692202,0 27.2923146,0.2 26.992399,0.5 C26.6924835,0.7 20.7941444,6.3 22.9935251,12.2 C23.7932999,14.4 26.7924553,20.1 26.992399,20.4 C26.992399,20.4 26.992399,20.5 27.0923709,20.5 L31.1912166,27.1 C27.2923146,26.4 16.5953268,27.2 14.3959461,29 C12.496481,30.6 7.09800122,36.6 6.89805753,36.9 C6.79808568,37 6.69811383,37.2 6.59814198,37.3 C6.19825459,37.1 5.7983672,36.9 5.3984798,36.7 C4.89862056,36.5 4.39876132,36.5 3.89890208,36.7 C3.19909914,37 2.19938066,37.5 0,51 C0,51.1 0,51.2 0,51.3 C0,51.6 0.199943696,58 8.0977197,66 C14.9957772,73 21.1940318,84.5 23.4933843,89.2 C23.7932999,89.7 24.2931591,90 24.7930184,90 C24.9929621,90 25.2928776,89.9 25.4928213,89.8 C26.1926242,89.4 26.4925398,88.5 26.1926242,87.8 C23.1934688,81.9 17.1951579,70.9 10.1971285,63.9 C3.79893023,57.4 2.99915545,52.1 2.8991836,51.3 C3.59898654,47 4.59870502,42.1 5.19853611,39.9 C9.29738188,42.1 9.19741003,43.8 8.99746634,46.3 C8.89749449,48.6 8.69755079,51.5 11.7966781,54.8 C16.6952986,59.9 21.2940037,62.4 21.3939755,62.5 C21.7938629,62.7 22.2937221,62.7 22.7935814,62.5 L33.2906255,57.5 C33.6905128,57.3 33.9904284,57 34.0904002,56.6 L36.0898372,49.5 C36.189809,49.2 36.189809,48.8 35.9898654,48.5 L31.6910759,39.2 C31.591104,39 31.4911322,38.9 31.3911603,38.8 C28.7918923,36.3 22.2937221,33.1 15.5956083,38.7 C14.6958617,39.4 13.8960869,39.7 12.9963403,39.6 C11.7966781,39.4 10.6969878,38.6 9.89721297,37.8 C11.7966781,35.7 14.9957772,32.2 16.1954394,31.2 C17.1951579,30.4 27.5922301,29.2 30.5913855,29.9 C31.4911322,30.7 34.0904002,33.4 36.7896401,36.2 C36.7896401,36.2 36.889612,36.3 36.889612,36.3 C38.5891334,38.1 40.2886548,39.9 41.6882607,41.5 C42.2880918,42.1 43.1878384,42.1 43.7876695,41.6 C44.3875006,41 44.3875006,40.1 43.8876414,39.5 C43.3877821,39 41.3883452,36.8 39.0889926,34.3 L29.4916952,18.8 C29.1917797,18.3 26.3925679,12.9 25.692765,11 C24.6930465,8.4 26.3925679,5.5 27.692202,3.9 L37.3894712,19.6 C37.3894712,19.6 37.3894712,19.7 37.4894431,19.7 C40.0887111,23.3 42.9878947,27.4 43.2878103,28.1 C43.487754,28.5 44.0875851,29.9 44.8873598,31.6 C44.8873598,31.6 44.8873598,31.6 44.8873598,31.7 C44.8873598,31.7 44.8873598,31.8 44.9873317,31.8 C46.3869376,34.7 48.3863745,39.1 48.7862619,40.1 C49.4860649,42 50.7856989,46.9 50.9856426,50.3 C50.9856426,51.2 50.4857833,54.5 49.9859241,57.9 C48.4863464,67.9 46.087022,83.1 48.5863182,89 C48.7862619,89.6 49.386093,89.9 49.9859241,89.9 C50.1858678,89.9 50.3858115,89.9 50.5857552,89.8 C51.38553,89.5 51.6854455,88.6 51.38553,87.8 C49.1861493,82.7 51.5854737,67.4 52.9850795,58.3 C53.6848825,53.7 54.0847699,51.2 53.984798,50.1 C53.8848262,47.5 53.0850514,44.2 52.4852203,41.8 Z M12.6964247,42.6 C14.495918,42.8 16.0954676,42.3 17.6950171,41 C23.2934406,36.3 28.292033,40 29.2917515,40.8 L33.2906255,49.3 L31.591104,55.2 L22.393694,59.6 C20.9940881,58.8 17.6950171,56.5 14.0960306,52.8 C11.8966499,50.5 11.9966218,48.7 12.1965655,46.6 C12.2965373,45.1 12.2965373,43.8 11.8966499,42.5 C12.0965936,42.5 12.3965092,42.6 12.6964247,42.6 Z M39.8887674,18.1 L38.0892742,15.2 C37.9893023,13.2 37.8893305,10.4 37.7893586,9 C37.5894149,5.4 39.9887393,3.9 41.6882607,3.4 L43.3877821,18.5 C43.3877821,18.6 43.3877821,18.6 43.3877821,18.7 L43.7876695,22.2 C43.7876695,22.2 43.8876414,23 43.9876132,24.1 C42.5880073,21.8 40.7885141,19.3 39.8887674,18.1 Z M47.7865434,30.7 C47.5865997,28.9 46.9867687,22.1 46.8867968,21.8 L46.4869094,18.5 C47.2866842,16.1 49.4860649,15.4 50.8856707,15.2 L49.9859241,34 C49.9859241,34 49.9859241,34.5 49.8859523,35.3 C49.2861212,33.9 48.4863464,32.3 47.7865434,30.7 Z" id="Shape"></path>
+    </g>
+    <g id="status-untested" transform="translate(27.000000, 8.000000)">
+        <path d="M45.2923077,50.5718614 C45.2923077,50.4715084 45.2923077,50.4715084 45.1912088,50.3711554 L44.1802198,47.9626835 L38.6197802,23.3761988 L44.0791209,8.62430793 C44.6857143,7.01865994 44.5846154,5.21230597 43.8769231,3.70701098 C43.1692308,2.101363 41.8549451,0.997480016 40.2373626,0.395362023 C38.6197802,-0.20675597 36.8,-0.106402971 35.2835165,0.596068021 C33.767033,1.29853901 32.6549451,2.502775 32.0483516,4.00806998 C30.632967,3.30559899 29.0153846,3.00453999 27.4989011,3.40595199 C25.7802198,3.80736398 24.3648352,4.81089397 23.4549451,6.31618895 C22.5450549,7.82148394 22.2417582,9.52748492 22.6461538,11.2334859 L24.9714286,22.1719628 L21.432967,31.7054977 C20.2197802,30.3005557 18.4,29.2970257 16.378022,29.2970257 C13.3450549,29.2970257 10.7164835,31.4044387 10.1098901,34.2143226 C9.0989011,33.5118516 7.78461538,33.1104396 6.47032967,33.1104396 C2.83076923,33.1104396 0,36.0206766 0,39.5330316 L0,56.1916294 C0,69.2375192 2.22417582,74.8572871 3.84175824,78.9717601 C4.75164835,81.2798791 5.45934066,82.98588 5.45934066,85.394352 C5.45934066,86.197176 6.16703297,86.899647 6.97582418,86.899647 C7.78461538,86.899647 8.49230769,86.197176 8.49230769,85.394352 C8.49230769,82.3837621 7.68351648,80.2763491 6.67252747,77.8678771 C5.35824176,74.4558751 3.53846154,69.9399902 3.13406593,60.6071613 C4.14505495,61.2092793 5.25714286,61.5103383 6.47032967,61.5103383 C9.5032967,61.5103383 12.1318681,59.4029253 12.7384615,56.5930414 C13.7494505,57.2955124 15.0637363,57.6969243 16.378022,57.6969243 C20.0175824,57.6969243 22.8483516,54.7866874 22.8483516,51.2743324 L22.8483516,42.7443275 C24.6681319,45.3535055 27.8021978,46.7584475 30.632967,47.9626835 L32.8571429,54.8870404 C25.2747253,56.3923354 22.1406593,66.2269292 22.0395604,66.6283412 C21.8373626,67.4311652 22.2417582,68.2339892 23.0505495,68.5350482 C23.8593407,68.7357542 24.6681319,68.3343422 24.9714286,67.5315182 C24.9714286,67.4311652 28.0043956,57.6969243 34.8791209,57.6969243 C35.3846154,57.6969243 35.789011,57.4962183 36.0923077,57.0948064 C36.3956044,56.6933944 36.4967033,56.1916294 36.2945055,55.7902174 L33.2615385,46.4573885 C33.1604396,46.0559765 32.8571429,45.6545645 32.4527473,45.5542115 C26.1846154,42.8446805 23.2527473,40.9379735 24.8703297,35.4185586 L29.0153846,37.0242066 C29.0153846,37.0242066 29.0153846,37.0242066 29.0153846,37.0242066 L34.4747253,39.2319726 C35.8901099,39.8340906 37.0021978,40.6369145 37.9120879,42.0418565 L42.3604396,51.6757444 C42.8659341,53.3817454 42.8659341,54.0842164 42.8659341,56.0912764 L42.8659341,56.2919824 C42.6637363,66.9294002 40.1362637,72.5491682 38.1142857,77.0650531 C36.8,79.9752901 35.6879121,82.4841151 35.6879121,85.494705 C35.6879121,86.297529 36.3956044,87 37.2043956,87 C38.0131868,87 38.7208791,86.297529 38.7208791,85.494705 C38.7208791,83.086233 39.6307692,81.0791731 40.843956,78.2692891 C42.8659341,73.7534042 45.5956044,67.6318712 46,56.2919824 L46,55.9909234 C46,53.7831574 46,52.7796274 45.2923077,50.5718614 Z M36.3956044,3.30559899 C37.2043956,2.90418699 38.2153846,2.90418699 39.0241758,3.20524599 C39.9340659,3.50630499 40.6417582,4.10842298 40.9450549,5.01159997 C41.2483516,5.91477696 41.3494505,6.81795395 41.0461538,7.62077794 L37.2043956,17.9571368 L34.9802198,8.22289593 C34.778022,7.52042494 34.4747253,6.81795395 34.0703297,6.21583595 L34.3736264,5.31265896 C34.8791209,4.30912898 35.5868132,3.70701098 36.3956044,3.30559899 Z M9.90769231,55.0877464 C9.90769231,56.9944534 8.39120879,58.4997483 6.47032967,58.4997483 C4.65054945,58.4997483 3.13406593,57.0948064 3.03296703,55.3888054 L3.03296703,55.0877464 C3.03296703,54.9873934 3.03296703,54.8870404 3.03296703,54.7866874 L3.03296703,39.6333846 C3.03296703,37.7266776 4.54945055,36.2213826 6.47032967,36.2213826 C8.39120879,36.2213826 9.90769231,37.7266776 9.90769231,39.6333846 L9.90769231,51.2743324 L9.90769231,55.0877464 Z M19.9164835,51.2743324 C19.9164835,53.1810394 18.4,54.6863344 16.4791209,54.6863344 C14.5582418,54.6863344 13.0417582,53.1810394 13.0417582,51.2743324 L13.0417582,39.6333846 L13.0417582,35.8199706 C13.0417582,33.9132636 14.5582418,32.4079686 16.4791209,32.4079686 C18.4,32.4079686 19.9164835,33.9132636 19.9164835,35.8199706 L19.9164835,51.2743324 Z M24.567033,31.9062037 L26.1846154,27.4906717 L27.4989011,33.0100866 L24.567033,31.9062037 Z M35.6879121,36.3217356 L30.9362637,34.4150286 L25.3758242,10.4306619 C25.1736264,9.52748492 25.2747253,8.62430793 25.7802198,7.82148394 C26.2857143,7.01865994 27.0945055,6.51689495 27.9032967,6.31618895 C28.8131868,6.11548296 29.7230769,6.21583595 30.5318681,6.71760095 C31.3406593,7.21936594 31.8461538,8.02218993 32.0483516,8.82501392 L38.7208791,38.3287956 C37.9120879,37.4256186 36.9010989,36.8235006 35.6879121,36.3217356 Z" id="Shape"></path>
+    </g>
+</svg>
+
+
+<footer>
+  <p>Made with 11ty by @timklapdor in 2022</p>
+</footer>
+</body>
+</html>
