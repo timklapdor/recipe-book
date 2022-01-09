@@ -1,9 +1,5 @@
 # dependencies installed by npm
-node_modules
-
-# build artefacts
-public
-css
+node_modules/
 
 # secrets and errors
 .env
@@ -11,4 +7,3 @@ css
 
 # macOS related files
 .DS_Store
-
