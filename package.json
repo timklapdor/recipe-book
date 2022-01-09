@@ -1,0 +1,35 @@
+{
+  "name": "11ty-recipe-book",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "watch:sass": "sass  --no-source-map --watch src/sass:docs/css",
+    "watch:eleventy": "eleventy --serve",
+    "build:sass": "sass  --no-source-map src/sass:docs/css",
+    "build:eleventy": "eleventy",
+    "postbuild": "postcss docs/css/*.css -u autoprefixer cssnano -r --no-map",
+    "start": "npm-run-all build:sass --parallel watch:*",
+    "build": "npm-run-all build:sass build:eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timklapdor/recipe-book.git"
+  },
+  "author": "timklapdor",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "autoprefixer": "^9.8.6",
+    "cross-env": "^7.0.3",
+    "cssnano": "^4.1.10",
+    "markdown-it-anchor": "^7.0.1",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.2.6",
+    "postcss-cli": "^8.3.1",
+    "sass": "^1.32.7"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

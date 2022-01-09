@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }}</title>
+<link rel="icon" type="image/svg+xml" href="{{'/assets/favicon.svg' |url}}">
+<link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | url}}">
+<link rel="stylesheet" href="{{ '/css/new.css' | url }}" />
+</head>
+
+
+	{{ content | safe }}
+
+<footer>
+  <p>Made with 11ty by @timklapdor in {{ helpers.currentYear() }}</p>
+</footer>
+</body>
+</html>

@@ -1,5 +1,0 @@
-<section class="no-flick hero {{ item.size }}" style="transform-style: preserve-3d; background-image: linear-gradient(to {{item.gradient-corner}} {{item.gradient-side}}, rgba({{ item.gradient-color1 }}), rgba({{item.gradient-color2 }})) {% for image in item.image %}, url({{ image }}){% endfor %}">
-  {% for text in item.promo-head %}<h2 class="promo">{{ text }}</h2>{% endfor %}
-  {% for text in item.promo-text %}<h3 class="promo">{{ text }}</h3>{% endfor %}
-  {% for text in item.button-text %}<a href="{{ item.button-link }}" aria-label="Call to Action" class="no-flick {{ item.button-color }} call-to-action {{item.button-background }}">{{ text }}</a> {% endfor %}
-</section>

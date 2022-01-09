@@ -1,0 +1,77 @@
+---
+layout: base-2.njk
+---
+<body class="recipe">
+<header class="brand">
+  <a href="{{ '/' | url }}">
+    <h1 class="logo-present">{{ title }}</h1>
+    <img src="{{ '/assets/recipe-book-blk.svg' | url }}" alt="Recipe Book Logo">
+  </a>
+
+</header>
+<section class="title">
+    <h1 class="title">{{ title }}</h1>
+    <h2 class="description">{{ description }}</h2>
+</section>
+
+<section class="tags">
+<ul>
+  {% if categories %}{% for item in categories %}<li class="tag category">{{ item }}</li>{% endfor %}{% endif %}
+  {% if cuisine %}<li class="tag cuisine">{{ cuisine }}</li>{% endif %}
+  {% if season %}{% for item in season %}<li class="tag season">{{ item }}</li>{% endfor %}{% endif %}
+  {% if effort %}<li class="tag effort">{{ effort }}</li>{% endif %}
+</ul>
+<ul>
+  {% if keywords %}{% for item in keywords %}<li class="tag keyword">{{ item }}</li>{% endfor %}{% endif %}
+</ul>
+<ul>
+  {% if diet %}{% for item in diet %}<li class="tag diet {{ item | lower }}">{{ item }}</li>{% endfor %}{% endif %}
+</ul>
+</section>
+
+<section class="details">
+  <ul>
+    {% if yield %}<li><strong>Yield:</strong> {{ yield | capitalize}}</li>{% endif %}
+    {% if prep_time %}<li><strong>Preparation Time:</strong> {{ prep_time }}</li>{% endif %}
+    {% if inactive_prep_time %}<li><strong>Inactive Preparation Time:</strong> {{ inactive_prep_time }}</li>{% endif %}
+    {% if cooking_time %}<li><strong>Cooking Time:</strong> {{ cooking_time }}</li>{% endif %}
+    {% if original_source %}<li><strong>Original Recipe:</strong> <a href="{{ original_link }}" target="blank">{{ original_source }}</a></li>{% endif %}
+    {% for item in status %}
+      {% if item == "proven" %}
+      <li class="tag status"><strong>Proven</strong><img src="{{ '/assets/status-proven.svg' | url }}" title="Proven"></li>
+      {% elif item == "tweak" %}
+      <li class="tag status"><strong>Tweak</strong><img src="{{ '/assets/status-tweak.svg' | url }}" title="Tweak"></li>
+      {% else %}
+      <li class="tag status"><strong>Untested</strong><img src="{{ '/assets/status-untested.svg' | url }}" title="Untested"></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="ingredients">
+  <h3> Ingredients</h3>
+  <ul>
+    {% for entry in ingredients %}
+      <li>{{ entry | capitalize}}</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="directions">
+<h3>Directions</h3>
+<div class="directions">
+  {{ content | safe }}
+</div>
+</section>
+
+<section class="image">
+  <figure class="center u-pad-extra">
+    <img src="../../images/{{ image | url }}" style="width: 100%;" alt="{{ title }}" title="{{  title }}"/>
+  </figure>
+</section>
+
+<footer>
+  <p>Made with 11ty by @timklapdor in {{ helpers.currentYear() }}</p>
+</footer>
+</body>
+</html>

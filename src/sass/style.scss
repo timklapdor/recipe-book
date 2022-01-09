@@ -1,0 +1,46 @@
+// $primary: #335C67;
+// $accent: #335C67;
+//
+// body {
+//   font-family: sans-serif;
+//   background-color: #f9f9f9;
+//   display: grid;
+//   grid-template-columns: 5vw 1fr 5vw;
+//   grid-template-rows: auto 1fr auto;
+//   grid-template-areas: "header header header" "main main main" "footer footer footer";
+//   min-height: 100vh;
+//   margin: 0;
+// }
+//
+// header {grid-area: header; flex-grow: 1; background: $accent;}
+// main {grid-area: main; flex-grow: 3; background: #FAF9F8;}
+// footer {grid-area: footer; flex-grow: 1}
+
+
+// Base files
+@import "base/normalize";
+@import "base/variables";
+@import "base/color-palettes";
+@import "base/type-setting";
+@import "base/grid-up";
+
+// Sections
+
+@import "sections/header";
+@import "sections/nav";
+@import "sections/hero";
+@import "sections/card-grid";
+@import "sections/grid-cards";
+@import "sections/feature";
+@import "sections/article";
+@import "sections/footer";
+@import "sections/team";
+@import "sections/contact";
+@import "sections/palette";
+@import "sections/recipe";
+@import "sections/cuisine";
+
+// Modules
+@import "modules/buttons";
+@import "modules/video";
+@import "modules/figure";
