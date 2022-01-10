@@ -27,12 +27,22 @@ body.home {
 }
 
 @media screen and (max-width: 810px) {
+  body.home {
+    grid-template-areas: "hd hd hd hd title title title title" "tags tags grid grid grid grid grid grid" "tags tags grid grid grid grid grid grid" "tags tags grid grid grid grid grid grid" "footer footer footer footer footer footer footer footer";
+  }
   body.recipe {
     grid-template-columns: repeat(4, 1fr);
-    grid-template-areas: "hd title title title" "image image image image" "tags details details details" "ingredients ingredients ingredients ingredients" "directions directions directions directions" "footer footer footer footer";
+    grid-template-areas: "hd hd hd hd" "title title title title" "image image image image" "tags details details details" "ingredients ingredients ingredients ingredients" "directions directions directions directions" "footer footer footer footer";
+  }
+  body header.brand {
+    justify-content: center;
   }
   body header.brand img {
-    max-height: 6vh;
+    margin: 1ch;
+    max-height: 10vh;
+  }
+  body section.title {
+    padding: 0 1ch;
   }
   body section.ingredients {
     border-left: none;
@@ -45,6 +55,11 @@ body.home {
     flex-flow: row wrap;
     gap: 2ch;
     align-items: baseline;
+  }
+  body .tags ul li.status svg {
+    width: 100%;
+    height: 8em;
+    transform: scale(0.8);
   }
 }
 header, footer {
@@ -336,6 +351,7 @@ footer p {
 section.gridup {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-rows: minmax(250px, 5em);
   grid-gap: 1rem;
   padding: 1rem;
 }

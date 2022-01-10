@@ -68,10 +68,21 @@ body {
 
 @media screen and (max-width: 810px) {
     body {
+
+      &.home {
+        grid-template-areas:
+        "hd hd hd hd title title title title"
+        "tags tags grid grid grid grid grid grid"
+        "tags tags grid grid grid grid grid grid"
+        "tags tags grid grid grid grid grid grid"
+        "footer footer footer footer footer footer footer footer";
+      }
+
       &.recipe {
         grid-template-columns: repeat(4, 1fr);
       grid-template-areas:
-      "hd title title title"
+      "hd hd hd hd"
+      "title title title title"
       "image image image image"
       "tags details details details"
       "ingredients ingredients ingredients ingredients"
@@ -79,9 +90,17 @@ body {
       "footer footer footer footer";
     }
 
-    header.brand img {
-      max-height: 6vh;
+    header.brand {
+      justify-content: center;
+      img {
+        margin: 1ch;
+        max-height: 10vh;
     }
+  }
+
+  section.title {
+    padding: 0 1ch
+  }
 
     section.ingredients {border-left: none;}
     section.directions {border-left: none;}
@@ -91,6 +110,12 @@ body {
       flex-flow: row wrap;
       gap: 2ch;
       align-items: baseline;
+    }
+
+    .tags ul li.status svg {
+      width: 100%;
+      height: 8em;
+      transform: scale(.8);
     }
   }
 }
@@ -272,7 +297,7 @@ footer {
 section.gridup {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  // grid-template-rows: minmax(250px, 40%);
+  grid-template-rows: minmax(250px, 5em);
   grid-gap: 1rem;
   padding: 1rem;
 
