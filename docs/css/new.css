@@ -56,6 +56,9 @@ body.home {
     gap: 2ch;
     align-items: baseline;
   }
+  body .tags ul li {
+    font-size: 80%;
+  }
   body .tags ul li.status svg {
     margin-left: auto;
     margin-right: auto;
