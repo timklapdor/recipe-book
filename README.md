@@ -11,3 +11,7 @@ eleventyConfig.addCollection("postsAscending", (collection) =>
   })
 );
 ```
+
+## Sorting
+
+Mixitup.js 
