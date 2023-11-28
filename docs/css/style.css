@@ -549,7 +549,7 @@ th {
 /**  Serif **/
 /** Font Settings **/
 body {
-  font-size: calc( 16px + (22 - 16) * ( (100vw - 300px) / ( 2000 - 300) )) !important;
+  font-size: calc(16px + (22 - 16) * (100vw - 300px) / 1700) !important;
   font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif !important;
   font-weight: 400;
 }
@@ -689,7 +689,6 @@ hr {
     justify-content: space-between;
     min-height: 100vh;
   }
-
   header, footer {
     display: flex;
     flex-direction: column;
@@ -705,7 +704,6 @@ hr {
     grid-template-rows: auto 1fr auto;
     grid-template-areas: "splash splash splash" "header header header" "main main main" "footer footer footer";
   }
-
   header, footer {
     flex-direction: row;
   }
@@ -868,17 +866,14 @@ label.show-menu:hover {
   .dropdownul li a {
     padding-left: 2rem;
   }
-
   .dropdown ul .dropdown ul a {
     padding-left: 3rem;
   }
-
   nav ul li:hover, .dropdown ul a:hover {
     background: #000101;
   }
-
   .arrow-down::after {
-    content: "";
+    content: "\f107";
   }
 }
 @media only screen and (min-width: 1000px) {
@@ -886,43 +881,35 @@ label.show-menu:hover {
     flex: 1 1 20%;
     order: 0;
   }
-
   nav #menu {
     display: flex;
   }
-
   nav ul {
     flex-direction: row;
     justify-content: flex-end;
   }
-
   nav ul li {
     position: relative;
     flex: 1 0 auto;
     text-align: left;
     background: none;
   }
-
   .show-menu {
     display: none;
   }
-
   .dropdown > a:after {
     content: " +";
   }
-
   .dropdown ul, .dropdown ul .dropdown ul {
     display: none;
     width: 100%;
     position: absolute;
     padding: 0;
   }
-
   .dropdown ul .dropdown ul {
     left: 100%;
     top: 0;
   }
-
   nav ul li:hover ul, .dropdown ul .dropdown:hover ul {
     display: flex;
     flex-direction: column;
@@ -1300,13 +1287,11 @@ h5 {
     grid-column: auto;
     grid-gap: 2vw;
   }
-
   h1 {
     grid-column: span 2;
     align-self: center;
     text-align: center;
   }
-
   article.team-member {
     grid-column: span 2;
     display: grid;
@@ -1315,7 +1300,6 @@ h5 {
     grid-gap: 1em;
     padding: 5vw 0;
   }
-
   .social img {
     height: 2em;
   }
@@ -1324,7 +1308,6 @@ h5 {
   article.team-member {
     grid-column: span 1;
   }
-
   .social img {
     height: 1em;
   }

@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^2.0.0",
-    "autoprefixer": "^9.8.6",
+    "autoprefixer": "^10.4.16",
     "cross-env": "^7.0.3",
     "cssnano": "^5.1.15",
     "markdown-it-anchor": "^7.0.1",

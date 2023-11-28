@@ -10,7 +10,7 @@ body {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: auto;
-  font-size: calc( 16px + (22 - 16) * ( (100vw - 300px) / ( 2000 - 300) )) !important;
+  font-size: calc(16px + (22 - 16) * (100vw - 300px) / 1700) !important;
   font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif !important;
   font-weight: 400;
   background: #f9f9f9;
