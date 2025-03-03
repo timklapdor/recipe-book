@@ -9,12 +9,12 @@ layout: base-2.njk
   </a>
 
 </header>
-<section class="title">
+<section class="title" data-pagefind-body>
     <h1 class="title">{{ title }}</h1>
     <h2 class="description">{{ description }}</h2>
 </section>
 
-<section class="tags">
+<section class="tags" data-pagefind-body>
 <ul>
   {% if categories %}{% for item in categories %}<li class="tag category">{{ item }}</li>{% endfor %}{% endif %}
   {% if cuisine %}<li class="tag cuisine">{{ cuisine }}</li>{% endif %}
@@ -29,7 +29,7 @@ layout: base-2.njk
 </ul>
 </section>
 
-<section class="details">
+<section class="details" data-pagefind-body>
   <ul>
     {% if yield %}<li><strong>Yield:</strong> {{ yield | capitalize}}</li>{% endif %}
     {% if prep_time %}<li><strong>Preparation Time:</strong> {{ prep_time }}</li>{% endif %}
@@ -48,7 +48,7 @@ layout: base-2.njk
   </ul>
 </section>
 
-<section class="ingredients">
+<section class="ingredients" data-pagefind-body>
   <h3> Ingredients</h3>
   <ul>
     {% for entry in ingredients %}
@@ -57,7 +57,7 @@ layout: base-2.njk
   </ul>
 </section>
 
-<section class="directions">
+<section class="directions" data-pagefind-body>
 <h3>Directions</h3>
 <div class="directions">
   {{ content | safe }}

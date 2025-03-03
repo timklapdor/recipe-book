@@ -1,5 +1,7 @@
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const { execSync } = require('child_process');
+
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/sass/");
@@ -83,6 +85,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("renderUsingMarkdown", function(rawString) {
   return mdRender.render(rawString);
   });
+
+    eleventyConfig.on('eleventy.after', () => {
+      execSync(`npx pagefind --site docs --glob \"**/*.html\"`, { encoding: 'utf-8' })
+    })
 
   return {
     dir: {

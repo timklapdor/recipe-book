@@ -18,6 +18,22 @@
 <meta name="msapplication-config" content="/recipe-book/assets/browserconfig.xml">
 <meta name="theme-color" content="#314f2e">
 <link rel="stylesheet" href="/recipe-book/css/new.css" />
+
+<link rel="stylesheet" href="_pagefind/pagefind-ui.css">
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --pagefind-ui-primary: #eeeeee;
+      --pagefind-ui-text: #eeeeee;
+      --pagefind-ui-background: #152028;
+      --pagefind-ui-border: #152028;
+      --pagefind-ui-tag: #152028;
+    }
+  }
+</style>
+
+
 </head>
 
 
@@ -72,6 +88,8 @@
   <ul>
   
     <li class="tag effort mix button" data-toggle=".easy">easy</li>
+  
+    <li class="tag effort mix button" data-toggle=".hard">hard</li>
   
     <li class="tag effort mix button" data-toggle=".high">high</li>
   
@@ -708,14 +726,14 @@
 
   <article class="grid-item mix
   gf v vg df 
-  untested 
-  easy 
-  side 
-  australian 
+  proven 
+  easy medium hard 
+  salad side 
+  american australian vegan vegetarian 
   ">
-      <a href="/recipe-book/recipes/incidentally-vegan-slaw/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/incidentally-vegan-slaw.jpg); background-position: center center; background-size: cover;">
-      <h2>Incidentally Vegan Street Coleslaw</h2>
-      <p>A fresh, crunchy vegan friendly salad.</p>
+      <a href="/recipe-book/recipes/incidentally-vegan-coleslaw/" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/vegan-slaw.jpg); background-position: center center; background-size: cover;">
+      <h2>Incidentally Vegan Coleslaw</h2>
+      <p>Don&#39;t throw out the liquid from the can of chichpeas — whip it up into a delicious &#39;slawce&#39; dressing for this crunchy side salad.</p>
     </a>
   </article>
 
