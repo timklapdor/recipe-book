@@ -5,7 +5,7 @@ description: You have to start this one the night before, but the final result i
 image: pea-ham-soup.jpg
 cuisine: [Australian]
 status: [proven]
-categories: [soup, Slow cooker]
+categories: [soup, slow cooker]
 effort: [easy,]
 diet:
 - GF

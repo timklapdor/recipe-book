@@ -5,7 +5,7 @@ description: Throw pork, mushrooms, garlic, Thai red curry paste and a few other
 image: slow-cooker-thai-pork-curry.jpg
 categories: [main]
 status: [proven, ]
-cuisine: [Thai, Slow Cooker]
+cuisine: [Thai, slow cooker]
 effort: [easy,]
 diet:
 - GF

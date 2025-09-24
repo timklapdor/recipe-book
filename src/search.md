@@ -20,5 +20,5 @@ title: Recipe Search
 
 <div id="search" class="search"></div>
 
-<script src="../_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
+<script src="../pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
 </section>
