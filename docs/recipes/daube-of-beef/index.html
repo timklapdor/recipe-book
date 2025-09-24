@@ -18,6 +18,22 @@
 <meta name="msapplication-config" content="/recipe-book/assets/browserconfig.xml">
 <meta name="theme-color" content="#314f2e">
 <link rel="stylesheet" href="/recipe-book/css/new.css" />
+
+<link rel="stylesheet" href="/recipe-book/pagefind/pagefind-ui.css">
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --pagefind-ui-primary: #eeeeee;
+      --pagefind-ui-text: #eeeeee;
+      --pagefind-ui-background: #152028;
+      --pagefind-ui-border: #152028;
+      --pagefind-ui-tag: #152028;
+    }
+  }
+</style>
+
+
 </head>
 
 
@@ -29,12 +45,12 @@
   </a>
 
 </header>
-<section class="title">
+<section class="title" data-pagefind-body>
     <h1 class="title">Daube Of Beef</h1>
     <h2 class="description">Perfect for a cold winter&#39;s night it is warming and delicious.</h2>
 </section>
 
-<section class="tags">
+<section class="tags" data-pagefind-body>
 <ul>
   <li class="tag category">main</li>
   <li class="tag cuisine">French</li>
@@ -49,7 +65,7 @@
 </ul>
 </section>
 
-<section class="details">
+<section class="details" data-pagefind-body>
   <ul>
     <li><strong>Yield:</strong> Serves 6</li>
     <li><strong>Preparation Time:</strong> 10 Minutes</li>
@@ -60,7 +76,7 @@
   </ul>
 </section>
 
-<section class="ingredients">
+<section class="ingredients" data-pagefind-body>
   <h3> Ingredients</h3>
   <ul>
     
@@ -105,7 +121,7 @@
   </ul>
 </section>
 
-<section class="directions">
+<section class="directions" data-pagefind-body>
 <h3>Directions</h3>
 <div class="directions">
   <ol>
