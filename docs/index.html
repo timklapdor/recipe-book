@@ -22,6 +22,12 @@
 <link rel="stylesheet" href="/recipe-book/pagefind/pagefind-ui.css">
 
 <style>
+
+  :root {
+  --pagefind-ui-font: 'Source Sans Pro', 'Helvetica', 'Arial', sans-serif !important;
+  --pagefind-ui-scale: 1.25;
+  }
+
   @media (prefers-color-scheme: dark) {
     :root {
       --pagefind-ui-primary: #eeeeee;
@@ -167,8 +173,6 @@
   
     <li class="tag cuisine mix button" data-toggle=".russian">Russian</li>
   
-    <li class="tag cuisine mix button" data-toggle=".slow-cooker">Slow Cooker</li>
-  
     <li class="tag cuisine mix button" data-toggle=".spanish">Spanish</li>
   
     <li class="tag cuisine mix button" data-toggle=".sri-lankan">Sri Lankan</li>
@@ -186,6 +190,11 @@
     <li class="tag cuisine mix button" data-toggle=".slow-cooker">slow cooker</li>
   
   </ul>
+
+<h2>Search</h2>
+<ul>
+  <li class="tag button search"><a href="search/">Search for Recipes</a></li>
+</ul>
 
 
 

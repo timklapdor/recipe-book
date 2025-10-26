@@ -1,3 +1,7 @@
+:root {
+  --pagefind-ui-font: 
+}
+
 // Font Size
 
 $type-min: 16; // baseline
@@ -37,7 +41,7 @@ body {
     min-height: calc(100vh - 2ch);
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: auto;
+    grid-template-rows: fit-content(40%);
     font-size: $type-reponsive;
     font-family: $font-sans;
     font-weight: 400;
@@ -62,6 +66,14 @@ body {
       "tags tags grid grid grid grid grid grid"
       "tags tags grid grid grid grid grid grid"
       "tags tags grid grid grid grid grid grid"
+      "footer footer footer footer footer footer footer footer";
+    }
+    &.search {
+      grid-template-areas:
+      "hd hd title title title title title title"
+      "-- grid grid grid grid grid grid -"
+      "-- grid grid grid grid grid grid -"
+      "-- grid grid grid grid grid grid -"
       "footer footer footer footer footer footer footer footer";
     }
 }
@@ -94,7 +106,8 @@ body {
       justify-content: center;
       img {
         margin: 1ch;
-        max-height: 10vh;
+        // max-height: 10vh;
+        width: 95%;
     }
   }
 
@@ -134,7 +147,10 @@ header.brand {
   grid-area: hd;
   display: flex;
   flex-direction: row;
-  img {max-height: 10vh;}
+  img {
+    // max-height: 10vh;
+    width: 95%;
+  }
   .logo-present {
     display: none;
   }
@@ -148,6 +164,7 @@ section.ingredients {grid-area: ingredients; padding: 2ch 1ch; border-top: 4px s
 section.directions {grid-area: directions; padding: 2ch 1ch; border-top: 4px solid $primary; border-left: 2px solid $primary;}
 section.image {grid-area: image; padding: 0; margin: 0; }
 section.gridup {grid-area: grid; border-left: 4px solid $primary; border-top: 4px solid $primary;}
+section.search {grid-area: grid;}
 footer {grid-area: footer; }
 
 
@@ -214,6 +231,7 @@ a {
   & .v {background: $cat1; color: $rev;}
   & .vg {background: $cat4; color: $rev;}
   & .df {background: $text; color: $rev;}
+  & .search {background: $cat3; color: $rev; a {text-decoration: none;} a:visited {color: $rev;}}
   & li.status {
     display: flex;
     flex-direction: column;
@@ -295,8 +313,9 @@ a {
 footer {
   display: flex;
   flex-direction: row;
-  justify-content:
-  flex-end; margin-right: 2em;
+  justify-content: flex-end; 
+  align-items: flex-end;
+  margin-right: 2em;
   p {font-family: $font-serif; font-size: 80%;}
 }
 
