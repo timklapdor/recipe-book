@@ -97,6 +97,6 @@ module.exports = function (eleventyConfig) {
       layouts: '_layouts'
     },
 
-    pathPrefix: "/recipe-book/"
+    // pathPrefix: "/recipe-book/"
   };
 };
