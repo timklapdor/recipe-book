@@ -1,5 +1,5 @@
 ---
-layout: base-2.njk
+layout: search-2.njk
 title: Recipe Search
 ---
 
@@ -15,8 +15,7 @@ title: Recipe Search
   }
 </style>
 
-<section>
-<h1>Search</h1>
+<section class="search">
 
 <div id="search" class="search"></div>
 
