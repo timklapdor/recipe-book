@@ -1,6 +1,8 @@
+@use "../base/color-palettes";
+
 header {
-  color: $rev;
-  background: $primary;
+  color: color-palettes.$rev;
+  background: color-palettes.$primary;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -10,7 +12,7 @@ header {
 }
 
 a {
-  color: $rev;
+  color: color-palettes.$rev;
   text-decoration: none;
 }
 div.social {

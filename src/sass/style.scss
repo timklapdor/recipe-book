@@ -18,29 +18,29 @@
 
 
 // Base files
-@import "base/normalize";
-@import "base/variables";
-@import "base/color-palettes";
-@import "base/type-setting";
-@import "base/grid-up";
+@use "base/normalize";
+@use "base/variables";
+@use "base/color-palettes";
+@use "base/type-setting";
+@use "base/grid-up";
 
 // Sections
 
-@import "sections/header";
-@import "sections/nav";
-@import "sections/hero";
-@import "sections/card-grid";
-@import "sections/grid-cards";
-@import "sections/feature";
-@import "sections/article";
-@import "sections/footer";
-@import "sections/team";
-@import "sections/contact";
-@import "sections/palette";
-@import "sections/recipe";
-@import "sections/cuisine";
+@use "sections/header";
+@use "sections/nav";
+@use "sections/hero";
+@use "sections/card-grid";
+@use "sections/grid-cards";
+@use "sections/feature";
+@use "sections/article";
+@use "sections/footer";
+@use "sections/team";
+@use "sections/contact";
+@use "sections/palette";
+@use "sections/recipe";
+@use "sections/cuisine";
 
 // Modules
-@import "modules/buttons";
-@import "modules/video";
-@import "modules/figure";
+@use "modules/buttons";
+@use "modules/video";
+@use "modules/figure";

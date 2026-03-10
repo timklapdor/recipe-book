@@ -1,3 +1,6 @@
+@use "../base/color-palettes";
+@use "../base/variables";
+
 section.palette {
   display: flex !important;
   flex-direction: row;
@@ -45,14 +48,14 @@ section.palette {
 .swatch {
   align-items: stretch;
   border-radius: .4em;
-  box-shadow: $shadow-1;
+  box-shadow: variables.$shadow-1;
   margin: .25em;
   min-height: 10vh;
 }
 
 .swatch p {
-  background-color: $rev;
-  color: $neutral-d1;
+  background-color: color-palettes.$rev;
+  color: color-palettes.$neutral-d1;
   display: block;
   text-align: center;
 }

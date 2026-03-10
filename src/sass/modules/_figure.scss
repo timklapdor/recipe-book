@@ -1,3 +1,5 @@
+@use "../base/color-palettes";
+
 figure {
   display: flex;
   flex-direction: column;
@@ -8,7 +10,7 @@ figure {
   figcaption {
     font-size: 90%;
     font-style: italic;
-    color: $neutral-d1;
+    color: color-palettes.$neutral-d1;
     text-align: center;
   }
   &.center img {

@@ -1,3 +1,5 @@
+@use "color-palettes";
+
 // Font Size
 
 $type-min: 16; // baseline
@@ -50,11 +52,11 @@ p, blockquote, ul, ol { line-height: 1.7; font-weight: 400;}
 
 /** Base Styles **/
 
-code {font-size: 95%; color: $secondary; background: #f8f8f8; padding: 0.4em; margin: .5vw;}
+code {font-size: 95%; color: color-palettes.$secondary; background: #f8f8f8; padding: 0.4em; margin: .5vw;}
 p code {padding: .125em; margin: 0;}
 
 a {
-  color: $accent;
+  color: color-palettes.$accent;
   // transition: all 0.5s ease;
   text-decoration-skip: ink;
   webkit-perspective: none;
@@ -63,7 +65,7 @@ a {
 
 blockquote {
   border-left: 4px solid;
-  color: $neutral-l1;
+  color: color-palettes.$neutral-l1;
   font-style: italic;
   padding: 1em;
   font-size: 120%;
@@ -88,9 +90,9 @@ hr {border-top: 2px solid; width: 98%}
 
 
 .label {
-  background: $neutral-l2;
+  background: color-palettes.$neutral-l2;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-  color: $neutral-a;
+  color: color-palettes.$neutral-a;
   font-size: 60%;
   font-weight: normal;
   margin: 4em 0 .5em -.3em;

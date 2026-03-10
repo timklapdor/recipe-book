@@ -1,6 +1,9 @@
+@use "../base/color-palettes";
+@use "../base/type-setting";
+
 footer {
-  background: $secondary;
-  color: $rev;
+  background: color-palettes.$secondary;
+  color: color-palettes.$rev;
   padding: 1em;
   display: flex;
   flex-direction: column;
@@ -19,7 +22,7 @@ footer {
   .legal {
     font-size: 70%;
     font-weight: 300;
-    font-family: $font-sans;
+    font-family: type-setting.$font-sans;
     text-transform: uppercase;
     text-align: center;
     letter-spacing: .2em;
@@ -30,9 +33,9 @@ footer {
 
   .brand a {
     text-decoration: none;
-    color: $rev;
+    color: color-palettes.$rev;
     p {
-      font-family: $font-sans;
+      font-family: type-setting.$font-sans;
     }
   }
 

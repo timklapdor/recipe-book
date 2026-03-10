@@ -1,12 +1,14 @@
+@use "../base/color-palettes";
+
 section.feature {
-  color: $rev;
+  color: color-palettes.$rev;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   background-size: cover;
   background-position: center center;
-  background-color: $blk;
+  background-color: color-palettes.$blk;
   padding: 2vw;
   -webkit-transform: translateZ(0);
 

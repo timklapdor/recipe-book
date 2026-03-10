@@ -1,12 +1,16 @@
+@use "../base/color-palettes";
+@use "../base/type-setting";
+@use "../base/variables";
+
 section.hero {
   min-height: 20vh;
-  color: $rev;
+  color: color-palettes.$rev;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   align-items: center;
   background-size: cover, cover;
-  background-color: $blk;
+  background-color: color-palettes.$blk;
   background-position: center center;
   padding: 20vh 1em 0 1em;
   -webkit-transform: translateZ(0);
@@ -14,13 +18,13 @@ section.hero {
 h2 {
   font-size: 450%;
   font-weight: 700;
-  text-shadow: $shadow-3;
+  text-shadow: variables.$shadow-3;
   margin: 0;
   align-self: flex-start
 }
 
 h3 {
-  font-family: $font-sans;
+  font-family: type-setting.$font-sans;
   font-weight: 300;
   font-size: 180%;
   font-style: italic;
@@ -58,7 +62,7 @@ h3 {
   }
 
   div.tagline {
-    background-color: $accent;
+    background-color: color-palettes.$accent;
   }
 
   .bottom-left {
