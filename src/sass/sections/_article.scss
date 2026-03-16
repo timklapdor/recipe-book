@@ -1,9 +1,11 @@
+@use "../base/color-palettes";
+
 section {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: $page;
+  background: color-palettes.$page;
   -webkit-transform: translateZ(0);
 
   article {

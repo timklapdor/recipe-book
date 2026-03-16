@@ -1,7 +1,8 @@
 ---
 
 title: Sri Lankan Poached Chicken
-description: "This poaching liquid is used for the chicken as well as the rice and lentils."yield: serves 4-6
+description: "This poaching liquid is used for the chicken as well as the rice and lentils."
+yield: serves 4-6
 original_source: "GoodFood.com.au"
 original_link: "https://www.goodfood.com.au/recipes/four-flavour-packed-poached-chicken-rice-bowls-and-noodle-salads-20190228-h1bufy"
 image: sri-lankan-poached-chicken.jpg
