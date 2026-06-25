@@ -1,11 +1,13 @@
 ---
 
 title: "Pumpkin, Ricotta & Basil Cannelloni"
+categories:
+  - "[[Recipes]]"
 description: The ultimate cool-weather comfort food.
 original_source: ""
 original_link: ""
 image: pumpkin-ricotta-basil-cannelloni.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven]
 cuisine: [Italian, Vegetarian,]
 effort: [medium]

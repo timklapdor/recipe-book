@@ -1,9 +1,11 @@
 ---
 
 title: Soft Polenta with Braised Mushroom Ragu
+categories:
+  - "[[Recipes]]"
 description: Polenta tastes far better if cooked the proper, slow way. Use as an accompaniment to a ragu of some kind, like osso buco or the mushrooms below.
 image: soft-polenta-braised-mushroom-ragu.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven,]
 cuisine: [Italian, Vegetarian, ]
 effort: [easy,]

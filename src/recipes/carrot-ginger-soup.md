@@ -1,11 +1,13 @@
 ---
 
 title: Carrot, Sweet Potato & Ginger Soup
+categories:
+  - "[[Recipes]]"
 description: Sure to warm in the cooler months
 original_source: taste.com
 original_link: http://www.taste.com.au/recipes/carrot-ginger-soup-yoghurt/013d824b-b334-4a29-b9eb-2490776e60a1
 image: carrot-ginger-soup.jpg
-categories: [soup]
+meal_categories: [soup]
 cuisine: [Vegetarian]
 effort: [easy]
 diet:

@@ -1,11 +1,13 @@
 ---
 
 title: Vegetarian Chili
+categories:
+  - "[[Recipes]]"
 description: "The smokey, complex flavour of this simple vegetarian chili comes from basic pantry ingredients, vegetables and spices!"
 original_source: "Cookie & Kate"
 original_link: "https://cookieandkate.com/vegetarian-chili-recipe/#tasty-recipes-23997"
 image: vegetarian-chili.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Mexican, Vegetarian, ]
 keywords:
 - vegetarian

@@ -1,11 +1,13 @@
 ---
 
 title: "Cauliflower Gratin"
+categories:
+  - "[[Recipes]]"
 description: "A whole cauliflower makes a perfect vegetarian roast."
 original_source: "Good Food"
 original_link: "https://www.goodfood.com.au/recipes/cauliflower-gratin-with-pickled-celery-20160301-4bc1v"
 image: cauliflower-gratin.jpg
-categories: [side]
+meal_categories: [side]
 cuisine: [French, Vegetarian ]
 effort: [easy]
 keywords:

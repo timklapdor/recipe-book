@@ -1,9 +1,11 @@
 ---
 
 title: Spinach and Bacon Cob Loaf
+categories:
+  - "[[Recipes]]"
 description: No mess party snack.
 image: warm-spinach-bacon-cob-loaf.jpg
-categories: [share]
+meal_categories: [share]
 keywords:
 - bread
 - bacon

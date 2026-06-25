@@ -1,11 +1,13 @@
 ---
 
 title: "Mushroom Veggie Burgers"
+categories:
+  - "[[Recipes]]"
 description: "Quick and easy mushroom burgers"
 original_source: "Australian Mushrooms"
 original_link: "https://australianmushrooms.com.au/recipe/mushroom-veggie-burgers/"
 image: mushroom-veggie-burgers.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Australian]
 effort: [easy]
 diet:

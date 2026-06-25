@@ -1,11 +1,13 @@
 ---
 
 title: Banana Bread
+categories:
+  - "[[Recipes]]"
 description: A nutty banana bread.
 original_source: ""
 original_link: ""
 image: banana-bread.jpg
-categories: [snack]
+meal_categories: [snack]
 cuisine: [Australian]
 effort: [medium]
 diet:

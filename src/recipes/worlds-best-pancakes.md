@@ -1,11 +1,13 @@
 ---
 
 title: Worlds Best Pancakes
+categories:
+  - "[[Recipes]]"
 description: "The World's Best Pancake Recipe"
 original_source: "Kottke"
 original_link: "https://kottke.org/09/10/the-worlds-best-pancake-recipe"
 image: buttermilk-pancakes.jpg
-categories: [breakfast, lunch]
+meal_categories: [breakfast, lunch]
 status: [proven, ]
 cuisine: [American,  ]
 effort: [easy,]

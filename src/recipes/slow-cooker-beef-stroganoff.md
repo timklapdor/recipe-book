@@ -1,10 +1,12 @@
 ---
 title: Slow Cooker Beef Stroganoff
+categories:
+  - "[[Recipes]]"
 description: Fall-apart tender beef smothered in a creamy sauce with buttery garlic mushrooms, that tastes like a million bucks!
 original_source: Recipe Tin
 original_link: https://www.recipetineats.com/slow-cooker-beef-stroganoff/#recipe
 image: slow-cooker-beef-stroganoff.jpg
-categories: [main, slow cooker]
+meal_categories: [main, slow cooker]
 status:
   - proven
 cuisine:

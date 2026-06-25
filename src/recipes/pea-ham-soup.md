@@ -1,11 +1,13 @@
 ---
 
 title: "Pea & Ham Soup"
+categories:
+  - "[[Recipes]]"
 description: You have to start this one the night before, but the final result is well worth the effort!
 image: pea-ham-soup.jpg
 cuisine: [Australian]
 status: [proven]
-categories: [soup, slow cooker]
+meal_categories: [soup, slow cooker]
 effort: [easy,]
 diet:
 - GF

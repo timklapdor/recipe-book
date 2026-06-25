@@ -1,11 +1,13 @@
 ---
 
 title: Jewelled Vegetable and Couscous Salad
+categories:
+  - "[[Recipes]]"
 description: Just roast up some vegetables before hand to whip up a quick and hearty salad
 original_source: "taste.com"
 original_link: "http://www.taste.com.au/recipes/jewelled-vegetable-couscous-salad-green-harissa-dressing/bdace738-d0fd-4cd5-8deb-9ab53eb6c293"
 image: jewelled-vegetable-couscous-salad.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [Middle Eastern,]
 diet:
 - V

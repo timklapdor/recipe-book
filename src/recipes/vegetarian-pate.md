@@ -1,10 +1,12 @@
 ---
 
 title: Vegetarian Pâté
+categories:
+  - "[[Recipes]]"
 description: A meaty texture and flavour with pâté-like consistency and savoury depth.
 image: vegetarian-pate.jpg
 status: [untested]
-categories: [share]
+meal_categories: [share]
 cuisine: [Vegetarian]
 diet:
 - GF

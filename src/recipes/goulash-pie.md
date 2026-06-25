@@ -1,11 +1,13 @@
 ---
 
 title: Goulash Pie
+categories:
+  - "[[Recipes]]"
 description: This hearty pie will satisfy even the hungriest of diners.
 image: goulash-pie.jpg
 original_source: "Taste"
 original_link: "http://www.taste.com.au/recipes/goulash-pie/8b3e812f-52b5-4f7d-a7bd-716be438c3ab"
-categories: [main]
+meal_categories: [main]
 cuisine: [Hungarian]
 effort: [medium]
 keywords:

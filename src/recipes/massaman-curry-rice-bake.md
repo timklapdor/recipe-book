@@ -1,9 +1,11 @@
 ---
 
 title: Massaman Curry & Rice Bake
+categories:
+  - "[[Recipes]]"
 description: Creamy Massaman curry and rice bake is a hearty crowd pleaser.
 image: massaman-curry-rice-bake.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Malayasian]
 effort: [medium]
 diet:

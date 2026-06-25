@@ -1,9 +1,11 @@
 ---
 
 title: Coq Au Vin
+categories:
+  - "[[Recipes]]"
 description: Classic French dish.
 image: coq-au-vin.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven]
 cuisine: [French]
 effort: [easy]

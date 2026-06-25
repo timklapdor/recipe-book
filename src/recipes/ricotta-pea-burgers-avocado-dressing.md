@@ -1,11 +1,13 @@
 ---
 
 title: Ricotta and pea burgers with avocado dressing
+categories:
+  - "[[Recipes]]"
 description: "This easy green vegetarian burgers make a deliciously healthy weeknight meal."
 original_source: "Taste"
 original_link: "https://www.taste.com.au/recipes/ricotta-pea-burgers-avocado-dressing/gauhdqwm"
 image: ricotta-pea-burgers-avocado-dressing.jpg
-categories: [main,]
+meal_categories: [main,]
 status: [untested,]
 cuisine: [Vegetarian, ]
 effort: [easy]

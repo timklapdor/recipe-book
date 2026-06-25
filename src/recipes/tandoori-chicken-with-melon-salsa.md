@@ -1,12 +1,14 @@
 ---
 
 title: Tandoori Chicken with Honeydew Melon Salsa
+categories:
+  - "[[Recipes]]"
 description: "Indian style chicken with a refreshing spicy melon side."
 original_source: ""
 original_link: ""
 image: tandoor-chichen-melon-salsa.jpg
 yield: serves 4
-categories: [main]
+meal_categories: [main]
 cuisine: [Indian]
 status: [proven,]
 effort: [easy,]

@@ -1,9 +1,11 @@
 ---
 
 title: "Pasta Puttanesca"
+categories:
+  - "[[Recipes]]"
 description: This homestyle sauce, made with pantry staples.
 image: pasta-puttanesca.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Italian]
 effort: [easy]
 keywords:

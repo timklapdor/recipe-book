@@ -1,11 +1,13 @@
 ---
 
 title: "Quick Green Pasta"
+categories:
+  - "[[Recipes]]"
 description: "Think of this recipe as a principle and swap in your veges. "
 original_source: "Good Food"
 original_link: "https://www.goodfood.com.au/recipes/quick-green-pasta-20200424-h1nlul"
 image: quick-green-pasta.jpg
-categories: [lunch, main, ]
+meal_categories: [lunch, main, ]
 status: [untested]
 cuisine: [Italian, Vegetarian]
 effort: [easy]

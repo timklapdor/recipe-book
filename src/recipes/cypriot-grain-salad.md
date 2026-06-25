@@ -1,11 +1,13 @@
 ---
 
 title: Cypriot Grain Salad
+categories:
+  - "[[Recipes]]"
 description: "A delicious nutty, grainy salad. Freekah is a nutritious grain made from roasted green wheat grains. You can substitute whole wheat, cracked wheat or quinoa."
 original_source: "goodfood"
 original_link: "https://www.goodfood.com.au/recipes/hellenic-republics-cypriot-grain-salad-20130321-2gh6d"
 image: cypriot-grain-salad.jpg
-categories: [salad, side, ]
+meal_categories: [salad, side, ]
 status: [untested,]
 cuisine: [Cypriot, ]
 effort: [easy, ]

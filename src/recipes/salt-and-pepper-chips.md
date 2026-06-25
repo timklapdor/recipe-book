@@ -1,11 +1,13 @@
 ---
 
 title:  Salt and Pepper Chips
+categories:
+  - "[[Recipes]]"
 description: "Meet the perfect fusion that is salt and pepper chips."
 original_source: "SBS Food"
 original_link: "https://www.sbs.com.au/food/article/2021/09/24/meet-perfect-fusion-salt-and-pepper-chips"
 image: salt-and-pepper-chips.jpg
-categories: [side, snack, share, ]
+meal_categories: [side, snack, share, ]
 status: [untested, ]
 cuisine: [Fusion, ]
 effort: [easy,]

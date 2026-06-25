@@ -1,9 +1,11 @@
 ---
 
 title: Tray-Baked Chicken Stroganoff
+categories:
+  - "[[Recipes]]"
 description: Easy family dish.
 image: tray-baked-chicken-stroganoff.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Hungarian]
 status: [proven,]
 effort: [easy,]

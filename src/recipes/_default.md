@@ -5,7 +5,7 @@ description: ""
 original_source: ""
 original_link: ""
 image: something.jpg
-categories: [breakfast, lunch, condiment, dessert, main, salad, side, snack, soup, drink, ]
+meal_categories: [breakfast, lunch, condiment, dessert, main, salad, side, snack, soup, drink, ]
 status: [untested, proven, tweak,]
 cuisine: [American, Australian, Burmese, Caribbean, French, German, Greek, Hungarian, Indian, Italian, Latin, Malaysian, Mexican, Middle Eastern, Spanish, Sri Lankan, Swedish, Thai, Vegan, Vegetarian, ]
 effort: [easy, medium, hard]

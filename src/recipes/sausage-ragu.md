@@ -1,6 +1,8 @@
 ---
 
 title: Sausage Ragu
+categories:
+  - "[[Recipes]]"
 description: A rich Italian Ragu.
 image: sausage-ragu.jpg
 cuisine: [Italian]
@@ -9,7 +11,7 @@ keywords:
 - sauce
 - pasta
 yield: serves 6
-categories: [main]
+meal_categories: [main]
 prep_time: 15 Minutes
 cooking_time: 45 Minutes
 ingredients:

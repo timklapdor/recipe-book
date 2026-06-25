@@ -1,11 +1,13 @@
 ---
 
 title: "Baleadas with red beans & feta"
+categories:
+  - "[[Recipes]]"
 description: "Simple, filling and so delicious, this is a fast version of a popular breakfast or lunch in Honduras."
 original_source: "Good Food"
 original_link: "https://www.goodfood.com.au/recipes/baleadas-with-beans-and-feta--jill-dupleix-recipe--vegetarian-20160629-gpul8l"
 image: baleadas-red-beans-feta.jpg
-categories: [breakfast, lunch, main, ]
+meal_categories: [breakfast, lunch, main, ]
 status: [untested]
 cuisine: [Latin]
 effort: [easy]

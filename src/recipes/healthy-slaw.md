@@ -1,9 +1,11 @@
 ---
 
 title: Healthy Slaw
+categories:
+  - "[[Recipes]]"
 description: A simple slaw with a lemon dressing and toasted seeds
 image: healthy-slaw.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [American]
 diet:
 - GF

@@ -1,9 +1,11 @@
 ---
 
 title: Lamb & Herb Stew
+categories:
+  - "[[Recipes]]"
 description: A great, light and spicy stew.
 image: lamb-herb-stew.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Australian]
 diet:
 - GF

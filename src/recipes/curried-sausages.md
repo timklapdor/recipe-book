@@ -1,9 +1,11 @@
 ---
 
 title: Curried Sausages
+categories:
+  - "[[Recipes]]"
 description: Add an Indian touch to curried sausages.
 image: curried-sausages.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Australian]
 effort: [easy]
 keywords:

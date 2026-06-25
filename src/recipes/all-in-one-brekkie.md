@@ -1,11 +1,12 @@
 ---
-
 title: All-in-One Brekkie
+categories:
+  - "[[Recipes]]"
 description: Breakfast done in the oven
 original_source: taste.com
 original—link: http://www.taste.com.au/recipes/one-brekkie/12ebc261-f3d9-4871-9609-d63e625f03c4
 image: all-in-one-brekkie.jpg
-categories: [breakfast,]
+meal_categories: [breakfast,]
 cuisine: [Australian,]
 status: [proven]
 effort: [easy]

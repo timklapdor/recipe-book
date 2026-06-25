@@ -1,12 +1,14 @@
 ---
 
 title: Roast Cauliflower with Chickpea Salad
+categories:
+  - "[[Recipes]]"
 description: "Roasting the cauliflower adds a beautiful depth of flavour and provides a 'wow' factor."
 original_source: "taste.com"
 original_link: "https://www.taste.com.au/recipes/roast-cauliflower-chickpea-salad-recipe/rb2vrd05"
 image: roast-cauliflower-chickpea-salad.jpg
 cuisine: [Australian, Vegetarian, ]
-categories: [main]
+meal_categories: [main]
 effort: [easy, ]
 diet:
 - GF

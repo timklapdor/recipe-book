@@ -1,9 +1,11 @@
 ---
 
 title: Slow-cooker Thai pork curry
+categories:
+  - "[[Recipes]]"
 description: Throw pork, mushrooms, garlic, Thai red curry paste and a few other simple ingredients into the slow cooker and let it do all the hard work for you.
 image: slow-cooker-thai-pork-curry.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven, ]
 cuisine: [Thai, slow cooker]
 effort: [easy,]

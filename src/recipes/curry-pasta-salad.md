@@ -1,9 +1,11 @@
 ---
 
 title: Curry Pasta Salad
+categories:
+  - "[[Recipes]]"
 description: Tasty pasta salad dish.
 image: curry-pasta-salad.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [Australian,]
 effort: [medium]
 diet:

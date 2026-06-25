@@ -1,9 +1,11 @@
 ---
 
 title: "Rice & Herb Salad"
+categories:
+  - "[[Recipes]]"
 description: Fragrant salad made with herbs, coconut and chilli.
 image: rice-herb-salad.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [Vietnamese]
 diet:
 - GF

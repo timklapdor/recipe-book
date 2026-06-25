@@ -1,9 +1,11 @@
 ---
 
 title: Menemen
+categories:
+  - "[[Recipes]]"
 description: Turkish One-Pan Eggs & Peppers.
 image: menemen.jpg
-categories: [breakfast]
+meal_categories: [breakfast]
 cuisine: [Middle Eastern,]
 effort: [medium]
 status: [untested]

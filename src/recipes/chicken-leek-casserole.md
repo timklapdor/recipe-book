@@ -1,11 +1,13 @@
 ---
 
 title: Chicken & Leek Casserole
+categories:
+  - "[[Recipes]]"
 description: Flavoursome and morish one pot dish.
 original_source: "taste.com"
 original_link: "http://www.taste.com.au/recipes/chicken-leek-casserole/7213f56b-9af1-4245-bb10-9965d76ed397"
 image: chicken-leek-casserole.jpg
-categories: [main,]
+meal_categories: [main,]
 status: [proven]
 cuisine: [Australian]
 effort: [medium]

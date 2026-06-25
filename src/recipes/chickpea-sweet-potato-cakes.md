@@ -1,11 +1,13 @@
 ---
 
 title: Chickpea & Sweet Potato Cakes
+categories:
+  - "[[Recipes]]"
 description: Quick & easy vegetarian meal.
 original_source: "taste.com"
 original_link: "http://www.taste.com.au/recipes/chickpea-sweet-potato-cakes/25ab4460-5600-499c-92bb-a02c377ceb32"
 image: chickpea-sweet-potato-cakes.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Middle Eastern]
 effort: [medium]
 diet:

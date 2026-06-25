@@ -1,9 +1,11 @@
 ---
 
 title: "Pesto with Chicken & Zucchini"
+categories:
+  - "[[Recipes]]"
 description: Family-friendly combo of pesto and pasta that's ready in 25 minutes.
 image: pesto-chicken-zucchini.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Italian]
 keywords:
 - pasta

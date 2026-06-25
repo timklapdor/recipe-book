@@ -1,9 +1,11 @@
 ---
 
 title: Hungarian Goulash
+categories:
+  - "[[Recipes]]"
 description: Hungary's slow-cooked favourite has it all.
 image: hungarian-goulash.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Hungarian]
 keywords:
 - casserole

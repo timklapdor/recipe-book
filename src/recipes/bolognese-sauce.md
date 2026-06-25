@@ -1,6 +1,8 @@
 ---
 
 title: Bolognese Sauce
+categories:
+  - "[[Recipes]]"
 description: This chunky vegetable heavy bolognese is perfect with spaghetti or used for lasagne with some extra passatta. Or better yet - in a toastie.
 image: pasta-bolognese.jpg
 category: [main]

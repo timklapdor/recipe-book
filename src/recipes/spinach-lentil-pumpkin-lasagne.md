@@ -1,11 +1,13 @@
 ---
 
 title: Spinach, lentil and pumpkin lasagne
+categories:
+  - "[[Recipes]]"
 description: "This tasty recipe is the perfect size for sharing with friends and family."
 original_source: "taste.com"
 original_link: "https://www.taste.com.au/recipes/pumpkin-spinach-lentil-lasagne/b156ffa7-dfa7-4dd9-a14a-4c76f1d6fedd"
 image: spinach-lentil-pumpkin-lasagne.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Italian, Vegetarian, ]
 effort: [easy]
 status: [untested,]

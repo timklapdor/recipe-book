@@ -1,9 +1,11 @@
 ---
 
 title: Chicken & Chorizo Hot Pot
+categories:
+  - "[[Recipes]]"
 description: One pot chicken dish.
 image: chicken-chorizo-hot-pot.jpg
-categories: [main]
+meal_categories: [main]
 status: [untested]
 cuisine: [Spanish]
 effort: [medium]

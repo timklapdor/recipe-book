@@ -1,10 +1,12 @@
 ---
 title: Mexican Shredded Beef
+categories:
+  - "[[Recipes]]"
 description: This Mexican Shredded Beef has incredible depth of flavour! The sauce is really rich and thick. Fantastic for tacos, burritos, enchiladas and quesadillas, piled high on Mexican Red Rice or stuffed in rolls to make sliders!
 original_source: Recipe Tin
 original_link: https://www.recipetineats.com/mexican-shredded-beef-and-tacos/
 image: mexican-shredded-beef.webp
-categories:
+meal_categories:
   - main
 status:
   - proven

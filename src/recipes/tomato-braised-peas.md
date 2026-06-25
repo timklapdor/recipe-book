@@ -1,11 +1,13 @@
 ---
 
 title: Spicy Tomato and Coconut Braised Peas
+categories:
+  - "[[Recipes]]"
 description: "Frozen peas become a showstopper, gently cooked in a spicy, garlicky tomato and coconut broth that is almost curry-like."
 original_source: "goodfood"
 original_link: "https://www.goodfood.com.au/recipes/spicy-tomato-and-coconut-braised-peas-20200720-h1pgxr"
 image: tomato-braised-peas.jpg
-categories: [lunch, main, side, ]
+meal_categories: [lunch, main, side, ]
 status: [untested, ]
 cuisine: [Thai, Vegan, Vegetarian, ]
 effort: [easy,]

@@ -1,9 +1,11 @@
 ---
 
 title: "Pork & Peanut Curry"
+categories:
+  - "[[Recipes]]"
 description: Fresh flavoursome Burmese curry.
 image: pork-peanut-curry.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven]
 cuisine: [Burmese]
 keywords:

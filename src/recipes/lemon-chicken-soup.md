@@ -1,9 +1,11 @@
 ---
 
 title: Lemon and chicken slow-cooker soup
+categories:
+  - "[[Recipes]]"
 description: Warm up with this creamy Greek lemon and chicken slow-cooker soup.
 image: lemon-chicken-soup.jpg
-categories: [soup]
+meal_categories: [soup]
 effort: [easy]
 cuisine: [Greek]
 keywords:

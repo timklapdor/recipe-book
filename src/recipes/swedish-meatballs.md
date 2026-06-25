@@ -1,6 +1,8 @@
 ---
 
 title: Swedish Meatballs (Köttbullar)
+categories:
+  - "[[Recipes]]"
 description: Traditional Swedish meatballs & cream sauce.
 image: kottbullar.jpg
 category: [main]

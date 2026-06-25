@@ -1,9 +1,11 @@
 ---
 
 title: Chunky Steak & Gravy Pies
+categories:
+  - "[[Recipes]]"
 description: A classic bakery favourites.
 image: chunky-steak-gravy-pies.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven]
 cuisine: [Australian]
 effort: [easy]

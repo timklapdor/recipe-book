@@ -1,9 +1,11 @@
 ---
 
 title: Classic Coleslaw
+categories:
+  - "[[Recipes]]"
 description: Crunchy fresh coleslaw.
 image: classic-coleslaw.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [American]
 effort: [easy]
 status: [proven,]

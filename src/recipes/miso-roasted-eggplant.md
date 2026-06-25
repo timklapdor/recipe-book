@@ -1,11 +1,13 @@
 ---
 
 title: Miso-roasted Eggplant
+categories:
+  - "[[Recipes]]"
 description: "Miso and eggplant are just a fantastic combination."
 original_source: "SBS Food"
 original_link: "https://www.sbs.com.au/food/recipes/miso-roasted-eggplant"
 image: miso-roasted-eggplant.jpg
-categories: [main ]
+meal_categories: [main ]
 status: [proven, ]
 cuisine: [Japanese]
 effort: [easy]

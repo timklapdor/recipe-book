@@ -1,9 +1,11 @@
 ---
 
 title: Daube Of Beef
+categories:
+  - "[[Recipes]]"
 description: Perfect for a cold winter's night it is warming and delicious.
 image: daube-of-beef.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [French]
 effort: [medium]
 keywords:

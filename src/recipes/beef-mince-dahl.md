@@ -1,11 +1,13 @@
 ---
 
 title: Beef mince dahl
+categories:
+  - "[[Recipes]]"
 description: "This beef mince dahl, full of delicious spices, is sure to warm you up this winter."
 original_source: "taste.com"
 original_link: "https://www.taste.com.au/recipes/beef-mince-dahl"
 image: beef-mince-dahl.jpg
-categories: [main]
+meal_categories: [main]
 status: [untested]
 cuisine: [Indian]
 effort: [easy]

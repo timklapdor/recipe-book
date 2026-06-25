@@ -1,11 +1,13 @@
 ---
 
 title: Cold Brew Coffee
+categories:
+  - "[[Recipes]]"
 description: "Perfect hot weather caffeine fix."
 original_source: ""
 original_link: ""
 image: cold-brew.jpg
-categories: [drink ]
+meal_categories: [drink ]
 status: [proven,]
 cuisine: [ Australian, ]
 effort: [easy]

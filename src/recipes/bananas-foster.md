@@ -1,11 +1,13 @@
 ---
 
 title: Bananas Foster
+categories:
+  - "[[Recipes]]"
 description: Easy and tasty fruity dessert.
 original_source: ""
 original_link: ""
 image: banana-foster.jpg
-categories: [dessert]
+meal_categories: [dessert]
 status: [proven]
 cuisine: [Australian]
 effort: [easy]

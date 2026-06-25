@@ -1,11 +1,13 @@
 ---
 
 title: "Baked Pumpkin Risotto"
+categories:
+  - "[[Recipes]]"
 description: "Creamy rich risotto baked in the oven!"
 original_source: "Recipe Tin Eats"
 original_link: "https://www.recipetineats.com/baked-pumpkin-risotto/"
 image: pumpkin-risotto.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Italian]
 effort: [easy]  
 status: [proven,]

@@ -1,9 +1,11 @@
 ---
 
 title: Easy Green Superfood Salad
+categories:
+  - "[[Recipes]]"
 description: Sprouts and a tangy dressing give this lean, green salad texture and bite.
 image: easy-green-superfood-salad.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [Australian]
 effort: [easy]
 status: [untested]

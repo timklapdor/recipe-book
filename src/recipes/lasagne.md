@@ -1,9 +1,11 @@
 ---
 
 title: Lasagne
+categories:
+  - "[[Recipes]]"
 description: Easy and tasty lasagne.
 image: lasagne.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Italian]
 effort: [high]
 keywords:

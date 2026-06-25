@@ -1,10 +1,12 @@
 ---
 
 title: Red Rice & Beans
+categories:
+  - "[[Recipes]]"
 description: A tasty side dish of rich beans, tomatoes and rice.
 image: red-rice-beans.jpg
 cuisine: [Mexican]
-categories: [side]
+meal_categories: [side]
 effort: [easy]
 diet:
 - GF

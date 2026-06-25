@@ -1,9 +1,11 @@
 ---
 
 title: Braised Winter Greens
+categories:
+  - "[[Recipes]]"
 description: Braised greens make a perfect accompaniment dish.
 image: braised-winter-greens.jpg
-categories: [side]
+meal_categories: [side]
 status: [proven]
 cuisine: [German]
 effort: [easy]

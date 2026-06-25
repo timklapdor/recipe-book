@@ -1,9 +1,11 @@
 ---
 
 title: "Spicy Pumpkin Soup"
+categories:
+  - "[[Recipes]]"
 description: A spicy rich take on Pumpkin Soup.
 image: spicy-pumpkin-sweet-potato-soup.jpg
-categories: [soup]
+meal_categories: [soup]
 status: [proven,]
 cuisine: [Australian, Vegetarian,]
 effort: [easy,]

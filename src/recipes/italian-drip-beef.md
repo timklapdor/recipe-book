@@ -1,9 +1,11 @@
 ---
 
 title: Italian Drip Beef
+categories:
+  - "[[Recipes]]"
 description: Great filling for American style sandwiches.
 image: italian-drip-beef.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Italian]
 effort: [easy]
 keywords:

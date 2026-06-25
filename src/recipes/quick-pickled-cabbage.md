@@ -1,10 +1,12 @@
 ---
 title: Quick Pickled Cabbage
+categories:
+  - "[[Recipes]]"
 description: Quick and simple cabbage slide to go with a variety of meat and proteins.
 original_source: Recipe Tin
 original_link: https://www.recipetineats.com/marinated-fish-tacos/
 image: quick-pickled-cabbage.jpg
-categories:
+meal_categories:
   - side
 status:
   - proven

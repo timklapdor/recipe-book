@@ -1,9 +1,11 @@
 ---
 
 title: "Pumpkin and Spinach Lasagne"
+categories:
+  - "[[Recipes]]"
 description: Creamy and cheesy vegetarian lasagne.
 image: pumpkin-spinach-lasagne.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven, ]
 cuisine: [Italian, Vegetarian, ]
 effort: [medium,]

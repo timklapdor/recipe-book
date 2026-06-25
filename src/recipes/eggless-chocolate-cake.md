@@ -1,11 +1,13 @@
 ---
 
 title: Eggless Chocolate Cake
+categories:
+  - "[[Recipes]]"
 description: "Easy to make. Moist and delicious to eat."
 original_source: "Australia's Best Recipes"
 original_link: "https://www.bestrecipes.com.au/recipes/eggless-chocolate-cake-recipe/ilrgyzp1"
 image: eggless-chocolate-cake.jpg
-categories: [dessert, ]
+meal_categories: [dessert, ]
 status: [proven,]
 cuisine: [Australian, ]
 effort: [easy, ]

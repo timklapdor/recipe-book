@@ -1,9 +1,11 @@
 ---
 
 title: "Pork Ragu"
+categories:
+  - "[[Recipes]]"
 description: A meaty pork Ragu.
 image: pork-ragu.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven]
 cuisine: [Italian]
 keywords:

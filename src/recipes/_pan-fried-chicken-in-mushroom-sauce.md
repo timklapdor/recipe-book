@@ -2,7 +2,7 @@
 
 title: Pan-Fried Chicken In Mushroom Sauce
 yield: serves 6
-categories: [main]
+meal_categories: [main]
 prep_time: [20 Minutes]
 cooking_time: 1-2 Hours
 cuisine: French

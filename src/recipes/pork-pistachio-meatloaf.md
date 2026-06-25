@@ -1,9 +1,11 @@
 ---
 
 title: "Pork & Pistachio Meatloaf"
+categories:
+  - "[[Recipes]]"
 description: New twist on meatloaf, lightly spiced and wrapped in prosciutto.
 image: pork-pistachio-meatloaf.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven]
 cuisine: [American]
 keywords:

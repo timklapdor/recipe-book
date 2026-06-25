@@ -1,11 +1,13 @@
 ---
 
 title: Sicilian Eggplant & Pine Nut Caponata Recipe
+categories:
+  - "[[Recipes]]"
 description: "A Sicilian dish of eggplant and other vegetables sautéed in a sweet and sour sauce."
 original_source: "Serious Eats"
 original_link: "https://www.seriouseats.com/sicilian-eggplant-pinenut-caponata-vegan-recipe"
 image: eggplant-caponata.jpg
-categories: [lunch, main, ]
+meal_categories: [lunch, main, ]
 status: [untested, proven, tweak,]
 cuisine: [Italian, ]
 effort: [easy, ]

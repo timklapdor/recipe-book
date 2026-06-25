@@ -1,11 +1,13 @@
 ---
 
 title: Turmeric Spiced Butter Beans
+categories:
+  - "[[Recipes]]"
 description: "These beans work well with so many things, including barbecued chicken, roast lamb, pork sausages, roasted cauliflower or grilled eggplant."
 original_source: "goodfood"
 original_link: "https://www.goodfood.com.au/recipes/turmeric-spiced-butter-beans-20200720-h1pgvb"
 image: tumeric-butter-beans.jpg
-categories: [breakfast, lunch, side, ]
+meal_categories: [breakfast, lunch, side, ]
 status: [untested, ]
 cuisine: [Burmese, ]
 effort: [easy, ]

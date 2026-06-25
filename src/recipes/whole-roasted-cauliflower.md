@@ -1,11 +1,13 @@
 ---
 
 title: Whole Roasted Cauliflower with Lemon & Mustard
+categories:
+  - "[[Recipes]]"
 description: "This whole-roasted cauliflower certainly has 'wow' factor."
 original_source: "Good Food"
 original_link: "https://www.goodfood.com.au/recipes/whole-roasted-cauliflower-with-lemon-and-mustard-20150719-3zk4z"
 image: whole-roasted-cauliflower.jpg
-categories: [main]
+meal_categories: [main]
 effort: [easy]
 cuisine: [Australian]
 diet:

@@ -1,9 +1,11 @@
 ---
 
 title: Creamed Spinach Polenta
+categories:
+  - "[[Recipes]]"
 description: Healthy side dish with spinach and polenta
 image: creamed-spinach-polenta.jpg
-categories: [side]
+meal_categories: [side]
 cuisine: [Italian]
 effort: [easy]
 diet:

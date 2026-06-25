@@ -1,9 +1,11 @@
 ---
 
 title: Haloumi & Rocket Salad
+categories:
+  - "[[Recipes]]"
 description: An easy and delicious salad that's cooked in five minutes.
 image: haloumi-rocket.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [Greek, Vegetarian]
 keywords:
 - halloumi

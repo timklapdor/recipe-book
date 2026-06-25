@@ -1,11 +1,13 @@
 ---
 
 title: Vegan BBQ Tofu Burger
+categories:
+  - "[[Recipes]]"
 description: Hearty, nutritionally dense, and simple to prepare.
 original_source: Vegan Miam
 original_link: https://veganmiam.com/recipes/vegan-bbq-tofu-burger
 image: smoky-black-bean-beet-burgers.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [American, Vegetarian]
 diet:
 - GF

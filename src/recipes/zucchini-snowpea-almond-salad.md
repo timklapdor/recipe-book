@@ -1,9 +1,11 @@
 ---
 
 title: Zucchini, Snowpea and Almond Salad
+categories:
+  - "[[Recipes]]"
 description: This combination goes well with lamb and makes a cracking side to a good steak.
 image: zucchini-snowpea-almond-salad.jpg
-categories: [salad]
+meal_categories: [salad]
 keywords:
 - salad
 - zucchini

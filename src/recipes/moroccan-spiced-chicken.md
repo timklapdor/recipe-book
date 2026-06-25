@@ -1,9 +1,11 @@
 ---
 
 title: Moroccan Spiced Chicken
+categories:
+  - "[[Recipes]]"
 description: Moroccan Mechoui style chicken.
 image: moroccan-spiced-chicken.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Middle Eastern,]
 status: [untested]
 effort: [easy]

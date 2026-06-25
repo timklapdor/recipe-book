@@ -1,11 +1,13 @@
 ---
 
 title: "Muriel's scones"
+categories:
+  - "[[Recipes]]"
 description: "The easiest scone recipe around"
 original_source: "ABC"
 original_link: "https://www.abc.net.au/news/2020-04-30/cwa-member-muriel-halsted-and-her-viral-scones/12189722"
 image: muriels-scones.webp
-categories: [snack,]
+meal_categories: [snack,]
 status: [proven,]
 cuisine: [Australian,]
 effort: [easy]

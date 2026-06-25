@@ -1,10 +1,12 @@
 ---
 title: Incidentally Vegan Coleslaw
+categories:
+  - "[[Recipes]]"
 description: "Don't throw out the liquid from the can of chichpeas — whip it up into a delicious 'slawce' dressing for this crunchy side salad."
 original_source: "Nats What I Reckon"
 original_link: "https://www.broadsheet.com.au/national/food-and-drink/article/recipe-nats-what-i-reckons-incidentally-vegan-street-coleslaw"
 image: vegan-slaw.jpg
-categories:
+meal_categories:
   - salad
   - side
 status:

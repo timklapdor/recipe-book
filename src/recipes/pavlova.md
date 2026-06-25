@@ -1,10 +1,12 @@
 ---
 
 title: "Pavlova"
+categories:
+  - "[[Recipes]]"
 description: An Aussie favourite, pavlova is prized for its crisp meringue and soft, marshmallowy centre.
 image: pavlova.jpg
 cuisine: [Australian]
-categories: [dessert]
+meal_categories: [dessert]
 keywords:
 - egg
 - cream

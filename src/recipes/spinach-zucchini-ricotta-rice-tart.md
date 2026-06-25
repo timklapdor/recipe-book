@@ -1,10 +1,12 @@
 ---
 
 title: Spinach, Zucchini & Ricotta Rice Tart
+categories:
+  - "[[Recipes]]"
 description: This cheesy spinach and zucchini tart is a deliciously easy lunch or dinner idea.
 image: spinach-zucchini-ricotta-rice-tart.jpg
 cuisine: [Vegetarian]
-categories: [main]
+meal_categories: [main]
 diet:
 - GF
 - V

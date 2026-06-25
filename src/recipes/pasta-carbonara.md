@@ -1,9 +1,11 @@
 ---
 
 title: "Pasta Carbonara"
+categories:
+  - "[[Recipes]]"
 description: Creamy, rich Carbonara with an added smokey flavour.
 image: pasta-carbonara.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Italian]
 effort: [easy]
 keywords:

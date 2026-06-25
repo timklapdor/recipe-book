@@ -1,11 +1,13 @@
 ---
 
 title: Smoky Black Bean Beet Burgers
+categories:
+  - "[[Recipes]]"
 description: Hearty, nutritionally dense, and simple to prepare.
 original_source: "Minimalist Baker"
 original_link: "https://minimalistbaker.com/smoky-black-bean-beet-burgers/"
 image: smoky-black-bean-beet-burgers.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [American,]
 diet:
 - GF

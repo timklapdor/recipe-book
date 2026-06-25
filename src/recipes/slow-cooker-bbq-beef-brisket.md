@@ -1,10 +1,12 @@
 ---
 
 title: "Slow Cooker BBQ Beef Brisket"
+categories:
+  - "[[Recipes]]"
 description: Beefy brisket is transformed into tender morsels of barbecue goodness.
 image: slow-cooker-bbq-beef-brisket.jpg
 cuisine: [American, slow cooker,]
-categories: [main]
+meal_categories: [main]
 status: [proven,]
 effort: [easy,]
 diet:

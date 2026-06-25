@@ -1,9 +1,11 @@
 ---
 
 title: Middle Eastern Lamb Shanks with Saffron Rice
+categories:
+  - "[[Recipes]]"
 description: Rich meaty dish full of spice and flavour.
 image: middle-eastern-style-lamb-shanks.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Middle Eastern,]
 status: [untested]
 effort: [medium]

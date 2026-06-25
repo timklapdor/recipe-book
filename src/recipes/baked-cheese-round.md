@@ -1,11 +1,13 @@
 ---
 
 title: "Baked Cheese Round"
+categories:
+  - "[[Recipes]]"
 description: "Beautiful soft melty cheese that makes the perfect centrepiece for a proper cheese board"
 original_source: ""
 original_link: ""
 image: baked-cheese-round.jpg
-categories: [share,]
+meal_categories: [share,]
 cuisine: [French,]
 effort: [easy]
 guide: [GF, V,]

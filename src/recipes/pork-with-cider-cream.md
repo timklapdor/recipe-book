@@ -1,9 +1,11 @@
 ---
 
 title: "Pork With Cider & Cream"
+categories:
+  - "[[Recipes]]"
 description: Savour each bite of this pork, leek and broad bean dish that's doused in cider and spiked with tarragon.
 image: pork-with-cider-cream.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [French]
 keywords:
 - pork

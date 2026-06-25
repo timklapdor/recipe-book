@@ -1,11 +1,13 @@
 ---
 
 title: Beef & Red Lentil Curry
+categories:
+  - "[[Recipes]]"
 description: Rich beef and pulse curry.
 original_source: "taste.com"
 original_link: "http://www.taste.com.au/recipes/beef-red-lentil-curry/ea9fa252-b027-4259-83c5-36b567bbf7ec"
 image: beef-red-lentil-curry.jpg
-categories: [main]
+meal_categories: [main]
 status: [untested]
 cuisine: [Indian]
 effort: [easy]

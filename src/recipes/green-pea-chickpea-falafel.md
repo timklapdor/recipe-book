@@ -1,11 +1,13 @@
 ---
 
 title: Green Pea and Chickpea Falafel
+categories:
+  - "[[Recipes]]"
 description: "The flavours of spring in these bright green the patties."
 original_source: "The Kitchin"
 original_link: "https://www.thekitchn.com/recipe-green-pea-and-chickpea-falafel-230089"
 image: green-pea-and-chickpea-falafel.jpg
-categories: [main]
+meal_categories: [main]
 status: [tweak]
 cuisine: [Middle Eastern,]
 effort: [easy]

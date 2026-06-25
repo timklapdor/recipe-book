@@ -1,11 +1,13 @@
 ---
 
 title: Alpine Pizza
+categories:
+  - "[[Recipes]]"
 description: A different take on pizza - sans tomatoes! It's rich, cheesy and tasty.
 origin: SBS Food
 origin—link: https://www.sbs.com.au/food/recipes/alpine-pizza-torta-salata-delle-alpi
 image: alpine-pizza.jpg
-categories: [main]
+meal_categories: [main]
 status: [proven]
 cuisine: [Italian]
 effort: [easy]

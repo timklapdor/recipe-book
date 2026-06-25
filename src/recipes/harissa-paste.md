@@ -1,9 +1,11 @@
 ---
 
 title: Harissa Paste
+categories:
+  - "[[Recipes]]"
 description: Spicy middle eastern flavours.
 image: harissa-paste.jpg
-categories: [condiment]
+meal_categories: [condiment]
 cuisine: [Middle Eastern]
 effort: [easy]
 keywords:

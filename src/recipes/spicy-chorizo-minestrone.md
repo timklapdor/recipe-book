@@ -1,9 +1,11 @@
 ---
 
 title: Spicy Chorizo Minestrone
+categories:
+  - "[[Recipes]]"
 description: Italian style soup with a little kick.
 image: spicy-chorizo-minestrone.jpg
-categories: [soup]
+meal_categories: [soup]
 cuisine: [Italian]
 status: [proven,]
 effort: [easy, ]

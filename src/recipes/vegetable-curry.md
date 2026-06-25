@@ -1,9 +1,11 @@
 ---
 
 title: Vegetable Curry
+categories:
+  - "[[Recipes]]"
 description: Rich vegetarian curry.
 image: vegetable-curry.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Indian, Vegetarian]
 diet:
 - GF

@@ -1,9 +1,11 @@
 ---
 
 title: Lemon Grass & Coconut Chicken
+categories:
+  - "[[Recipes]]"
 description: Lots of spicy, creamy and tangy tamarind chicken with maximum flavour.
 image: lemon-grass-coconut-chicken.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Thai]
 effort: [medium]
 diet:

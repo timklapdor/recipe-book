@@ -16,7 +16,7 @@ layout: base-2.njk
 
 <section class="tags" data-pagefind-body>
 <ul>
-  {% if categories %}{% for item in categories %}<li class="tag category">{{ item }}</li>{% endfor %}{% endif %}
+  {% if meal_categories %}{% for item in meal_categories %}<li class="tag category">{{ item }}</li>{% endfor %}{% endif %}
   {% if cuisine %}<li class="tag cuisine">{{ cuisine }}</li>{% endif %}
   {% if season %}{% for item in season %}<li class="tag season">{{ item }}</li>{% endfor %}{% endif %}
   {% if effort %}<li class="tag effort">{{ effort }}</li>{% endif %}

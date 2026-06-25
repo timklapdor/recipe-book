@@ -1,11 +1,13 @@
 ---
 
 title: Green Mexican Rice
+categories:
+  - "[[Recipes]]"
 description: "A spicy Green Mexican Rice made with coriander, jalapeño, garlic, spinach and chicken stock."
 original_source: "Dinner Then Dessert"
 original_link: "https://dinnerthendessert.com/green-mexican-rice-arroz-verde/"
 image: mexican-green-rice.jpg
-categories: [side]
+meal_categories: [side]
 cuisine: [Mexican, ]
 effort: [easy]
 diet: [GF, V, VG, ]

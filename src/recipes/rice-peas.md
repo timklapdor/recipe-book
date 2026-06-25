@@ -1,9 +1,11 @@
 ---
 
 title: Rice & Peas
+categories:
+  - "[[Recipes]]"
 description: Rich coconut rice is the perfect accompaniment to spicy food.
 image: rice-peas.jpg
-categories: [side]
+meal_categories: [side]
 cuisine: [Caribbean, Vegetarian]
 diet:
 - GF

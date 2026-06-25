@@ -1,9 +1,11 @@
 ---
 
 title: Curry Spiced Eggplant
+categories:
+  - "[[Recipes]]"
 description: Spiced eggplant dish.
 image: curry-spiced-eggplant.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Indian,]
 effort: [medium]
 status: [untested]

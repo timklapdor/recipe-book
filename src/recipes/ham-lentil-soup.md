@@ -1,9 +1,11 @@
 ---
 
 title: Ham and lentil slow-cooker soup
+categories:
+  - "[[Recipes]]"
 description: Hearty ham and lentil slow-cooker soup is the perfect winter warmer.
 image: ham-and-lentil-slow-cooker-soup.jpg
-categories: [soup]
+meal_categories: [soup]
 effort: [easy]
 keywords:
 - ham

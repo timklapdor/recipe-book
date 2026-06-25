@@ -1,9 +1,11 @@
 ---
 
 title: Simple Quiche
+categories:
+  - "[[Recipes]]"
 description: A beautiful golden brown ham and cheese quiche that will delight the whole family.
 image: simple-quiche.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [French]
 effort: [easy, ]
 keywords:

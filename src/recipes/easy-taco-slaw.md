@@ -1,11 +1,13 @@
 ---
 
 title: Easy Taco Slaw
+categories:
+  - "[[Recipes]]"
 description: ""
 original_source: ""
 original_link: ""
 image: easy-taco-slaw.jpg
-categories: [salad, side, ]
+meal_categories: [salad, side, ]
 status: [proven, ]
 cuisine: [ Mexican, ]
 effort: [easy]

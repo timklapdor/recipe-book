@@ -1,9 +1,11 @@
 ---
 
 title: Crispy Greek-Style Pie
+categories:
+  - "[[Recipes]]"
 description: A crispy pie that you can adapt for your needs, add chicken or keep it veggie.
 image: crispy-greek-style-pie.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Greek,]
 effort: [medium]
 status: [proven,]

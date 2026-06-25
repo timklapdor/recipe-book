@@ -1,9 +1,11 @@
 ---
 
 title: Chicken Sausage & Red Lentil Soup
+categories:
+  - "[[Recipes]]"
 description: A rich soup with tomato, oregano and tasty bites of sausage.
 image: chicken-sausage-red-lentil-soup.jpg
-categories: [soup]
+meal_categories: [soup]
 status: untested
 cuisine: [Australian]
 effort: [medium]

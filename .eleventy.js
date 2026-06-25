@@ -19,8 +19,8 @@ module.exports = function (eleventyConfig) {
       const allCollections = collection.getAll();
       let tagSet = new Set();
       allCollections.forEach(temp => {
-          if('categories' in temp.data) {
-              for(const tag of temp.data.categories) {
+          if('meal_categories' in temp.data) {
+              for(const tag of temp.data.meal_categories) {
                   tagSet.add(tag);
               }
           }

@@ -15,14 +15,6 @@ layout: base-2.njk
 
 <h2>Diet</h2>
 
-<!-- <ul class="button-group">
-  <li><button type="button" class="tag button is-checked" data-filter="all">show all</button></li>
-  {% for item in collections.allDiets %}
-  <li><button type="button" class="tag button mix diet {{ item | slug }}" data-toggle=".{{ item | slug }}">{{ item }}</button></li>
-  {% endfor %}
-</ul> -->
-
-
   <ul>
   {% for item in collections.allDiets %}
     <li class="tag diet mix {{ item | slug }} button" data-toggle=".{{ item | slug }}">{{ item }}</li>
@@ -72,7 +64,7 @@ layout: base-2.njk
   {% for item in post.data.diet %}{{ item | slug }} {% endfor %}
   {% for item in post.data.status %}{{ item | slug }} {% endfor %}
   {% for item in post.data.effort %}{{ item | slug }} {% endfor %}
-  {% for item in post.data.categories %}{{ item | slug }} {% endfor %}
+  {% for item in post.data.meal_categories %}{{ item | slug }} {% endfor %}
   {% for item in post.data.cuisine %}{{ item | slug }} {% endfor %}
   ">
       <a href="{{ post.url | url }}" style="background-image: linear-gradient(to top,rgba(0,0,0,.3),rgba(0,0,0,.3)), url(images/{{ post.data.image | url }}); background-position: center center; background-size: cover;">

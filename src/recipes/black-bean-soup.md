@@ -1,11 +1,13 @@
 ---
 
 title: Black Bean Soup
+categories:
+  - "[[Recipes]]"
 description: A cuban classic that combines rich beans and smoked pork.
 image: black-bean-soup.jpg
 original_source: "thekitchn.com"
 original_link: "http://www.thekitchn.com/recipe-cuban-black-bean-soup-98048"
-categories: [soup, main]
+meal_categories: [soup, main]
 status: [proven]
 cuisine: [Latin]
 effort: [easy]

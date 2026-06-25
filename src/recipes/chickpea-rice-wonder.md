@@ -1,11 +1,13 @@
 ---
 
 title: Chickpea & Rice One Pot Wonder
+categories:
+  - "[[Recipes]]"
 description: "Simple one-pot dish"
 original_source: "goodfood"
 original_link: "https://www.goodfood.com.au/recipes/warm-chickpea-and-rice-onepot-wonder-with-yoghurt-and-greens-20200512-h1o063"
 image: chickpea-rice-wonder.jpg
-categories: [main, ]
+meal_categories: [main, ]
 status: [untested, ]
 cuisine: [Indian, ]
 effort: [easy,]

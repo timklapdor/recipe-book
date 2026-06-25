@@ -1,11 +1,13 @@
 ---
 
 title: Lemony Whipped Feta
+categories:
+  - "[[Recipes]]"
 description: "Creamy, lively, fluffy whipped feta is full of salty charm."
 original_source: "Good Food"
 original_link: "https://www.goodfood.com.au/recipes/charred-cauliflower-salad-with-lemony-whipped-feta-and-pine-nuts-20200206-h1lmg1"
 image: lemony-whipped-feta.jpg
-categories: [share, ]
+meal_categories: [share, ]
 status: [untested, ]
 cuisine: [Middle Eastern, ]
 effort: [easy]

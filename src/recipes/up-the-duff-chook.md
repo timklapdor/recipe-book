@@ -1,9 +1,11 @@
 ---
 
 title: Up-The-Duff Chook
+categories:
+  - "[[Recipes]]"
 description: This “beer can chook” steams from the inside and guarantees a crispy skin.
 image: up-the-duff-chook.jpg
-categories: [main]
+meal_categories: [main]
 cuisine: [Australian]
 effort: [easy, ]
 status: [proven, ]

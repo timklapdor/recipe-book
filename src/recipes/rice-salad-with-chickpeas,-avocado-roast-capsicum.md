@@ -1,9 +1,11 @@
 ---
 
 title: Rice Salad with Chickpeas, Avocado & Roast Capsicum
+categories:
+  - "[[Recipes]]"
 description: Each mouthful of this quick and colourful salad has crunchy pecans, sweet roast capsicum and healthy brown rice.
 image: rice-salad-chickpeas-avocado.jpg
-categories: [salad]
+meal_categories: [salad]
 cuisine: [Middle Eastern]
 diet:
 - GF
