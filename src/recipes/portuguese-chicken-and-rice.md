@@ -26,7 +26,6 @@ ingredients:
   - 500g chicken thighs
   - 2 tsp paprika
   - 1 tsp garlic powder
-  - 1 tsp dried garlic powder
   - 1/4 tsp coriander
   - 1/4 tsp cayenne
   - 1 tbsp brown sugar
@@ -44,11 +43,11 @@ ingredients:
   - 1 cup frozen peas (still frozen)
   - 1/2 tsp cooking salt / kosher salt
 ---
-1. Mix the Portuguese Chicken Seasoning ingredients in a bowl. Paprika, garlic powder, dried garlic powder, coriander, cayenne, brown sugar, cooking salt, extra virgin olive oil, and lemon juice
+1. Mix the Portuguese Chicken Seasoning ingredients in a bowl. Paprika, garlic powder, coriander, cayenne, brown sugar, cooking salt, extra virgin olive oil, and lemon juice
 2. Add chicken and toss to coat. Set aside while you prepare the rest of the ingredients, or overnight if you want (though not necessary).
 3. Heat the 2 tablespoons of oil in a large heavy based pot over high heat. Add the chicken and cook until the outside is sealed and gets a bit of colour (it won't go golden). Remove with a slotted spoon into a bowl, leaving oil behind in the pot.
-- Add garlic and onion into the pot, cook for 1 minute. Add capsicum and cook for 1 1/2 minutes or until onion is translucent.
-- Add rice and stir to coat in the tasty oil. Add the remaining rice ingredients, then scatter the chicken evenly across the surface. Also, add any juices accumulated in the bowl. Stir, bring to a simmer, then put the lid on and reduce the heat to medium-low so it simmers gently. 
-- Cook for 15 minutes, no peeking, no stirring! Liquid should 1be absorbed – tilt pot and lift lid for quick peek.
-- Remove the pot from the stove and leave it to rest for 10 minutes with the lid still on.
-- Remove the lid, gently toss the rice. Spoon into bowls, drizzle over [Peri-naise](https://www.recipetineats.com/peri-naise/), sprinkle with green onions and serve!
+4. Add garlic and onion into the pot, cook for 1 minute. Add capsicum and cook for 1 1/2 minutes or until onion is translucent.
+5. Add rice and stir to coat in the tasty oil. Add the remaining rice ingredients, then scatter the chicken evenly across the surface. Also, add any juices accumulated in the bowl. Stir, bring to a simmer, then put the lid on and reduce the heat to medium-low so it simmers gently. 
+6. Cook for 15 minutes, no peeking, no stirring! Liquid should 1be absorbed – tilt pot and lift lid for quick peek.
+7. Remove the pot from the stove and leave it to rest for 10 minutes with the lid still on.
+8. Remove the lid, gently toss the rice. Spoon into bowls, drizzle over [Peri-naise](https://www.recipetineats.com/peri-naise/), sprinkle with green onions and serve!
