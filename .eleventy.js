@@ -1,5 +1,4 @@
 const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
 const { execSync } = require('child_process');
 
 
